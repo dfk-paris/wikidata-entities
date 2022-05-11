@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+APP_ROOT=File.expand_path("#{__dir__}/..")
+require "#{APP_ROOT}/lib/dfk/wikidata"
+
+Dfk::Wikidata.run
