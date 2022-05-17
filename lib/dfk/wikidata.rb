@@ -28,7 +28,7 @@ module Dfk::Wikidata
       pack('C*').
       unpack('L*').
       first
-    candidate = "DFK#{num}"
+    candidate = "DFK1#{num}"
 
     dfk_ids[candidate] ? new_id(hash) : candidate
   end
@@ -159,7 +159,7 @@ module Dfk::Wikidata
       results << {
         'source' => 'pb',
         'wikidata_id' => qid,
-        'source_id' => clean_label,
+        'source_id' => qid,
         'label' => clean_label,
         'original' => {label => qid}
       }
