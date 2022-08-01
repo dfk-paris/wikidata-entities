@@ -13,7 +13,8 @@ module Dfk::Wikidata
     people = pb + own_reality + dfkv
     people = combine(people)
     people = generate_dfk_ids(people)
-    puts to_csv(people)
+    to_csv(people)
+    to_json(people)
   end
 
   def self.dfk_ids
@@ -59,11 +60,23 @@ module Dfk::Wikidata
       'pb_id', 'pb_label'
     ]
 
-    CSV.generate do |csv|
+    out = CSV.generate do |csv|
       csv << headers
       people.each do |person|
         csv << headers.map{|h| person[h]}
       end
+    end
+
+    File.open 'data/entities.csv', 'w+' do |f|
+      f.write out
+    end
+  end
+
+  def self.to_json(people)
+    out = JSON.pretty_generate(people)
+
+    File.open 'data/entities.json', 'w+' do |f|
+      f.write out
     end
   end
 
