@@ -5,16 +5,16 @@ require 'digest'
 require 'bundler'
 Bundler.require
 
-module Dfk
+module Wikidata
+
 end
 
-module Dfk::Wikidata
+module Wikidata::Aggregate
   def self.run
     people = pb + own_reality + dfkv
     people = combine(people)
     people = generate_dfk_ids(people)
     to_csv(people)
-    to_json(people)
   end
 
   def self.dfk_ids
@@ -60,15 +60,7 @@ module Dfk::Wikidata
       end
     end
 
-    File.open 'data/entities.csv', 'w+' do |f|
-      f.write out
-    end
-  end
-
-  def self.to_json(people)
-    out = JSON.pretty_generate(people)
-
-    File.open 'data/entities.json', 'w+' do |f|
+    File.open 'frontend/public/entities.csv', 'w+' do |f|
       f.write out
     end
   end

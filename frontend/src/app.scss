@@ -1,0 +1,44 @@
+$logo-green: #009BB5;
+$header-green: #009bb5;
+$hover-green: #D9E6D9;
+$active-gray: #8D8D8D;
+$tag-gray: #D8D8D8;
+$serif: 'lyon';
+$sans-serif: 'cera-pro';
+$text-color: #1e1e1e;
+
+@import '@dfk-paris/frontend/src/scss/bootstrap_light';
+@import '@dfk-paris/frontend/src/scss/drupal_shim';
+@import '@dfk-paris/frontend/src/scss/base';
+@import '@dfk-paris/frontend/src/scss/components';
+
+wikidata-entities, [is='wikidata-entities'] {
+  wikidata-register {
+    a {
+      padding-left: 4px;
+      padding-right: 4px;
+      margin-left: 3px;
+      margin-right: 3px
+    }
+
+    a:first-child {
+      margin-left: 0;
+      padding-left: 0;
+    }
+
+    a:last-child {
+      margin-rignt: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+one-bar-chart {
+  .section {
+    padding: 10px;
+  }
+}
+
+a.type-ref {
+  background-color: $tag-gray;
+}

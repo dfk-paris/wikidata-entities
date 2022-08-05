@@ -1,0 +1,146 @@
+<wikidata-entities>
+  <div class="d-flex">
+    <div class="w-40 pr-7">
+      <dfk-input
+        placeholder={cap(t('search_prompt'))}
+        type="text"
+        name="terms"
+        update-handler={onDelayedInput}
+        value={state.criteria.terms}
+      />
+
+      <div if={hasActiveFilters()} class="dfkv-active-filters">
+        <div class="dfkv-bar"></div>
+        <div class="dfk-sans-serif fw-bold my-4 fs-2">{cap(t('your_selection'))}</div>
+
+        <dfk-active-filters
+          criteria={state.criteria}
+          params={['ref']}
+          remove-filter={onInput}
+          translate-keys={true}
+        />
+      </div>
+
+      <div class="dfk-sans-serif fw-bold my-6 fs-2">{cap(t('selection'))}</div>
+
+      <dfk-facet
+        if={state.records}
+        name={cap(t('refs'))}
+        type="ref"
+        value={state.criteria.ref}
+        aggregation={state.aggs.refs}
+        add-filter={onInput}
+        class="d-block mb-6"
+        translate-keys={true}
+      />
+    </div>
+    <div class="w-60">
+      <template if={state.records}>
+        <wikidata-register
+          aggregation={state.aggs.letters}
+          value={state.criteria.letter}
+          on-change={onInput}
+        />
+
+        <small class="d-block my-4">{state.total} {resultsLabel()}</small>
+
+        <dfk-pagination
+          class="mt-3 pb-3 border-bottom justify-content-start"
+          page={state.criteria.page}
+          total={state.total}
+          per-page={20}
+          page-to={onInput}
+        />
+
+        <ul class="list-unstyled">
+          <li each={record in state.records} class="py-3 border-bottom">
+            <span class="fw-bold">{record['label']}&nbsp;</span>{record['dfk_id']}
+
+            <div class="pl-3">
+              <dfk-authority-link
+                if={record['wikidata_id']}
+                type="wikidata"
+                id={record['wikidata_id']}
+                linkify-id={true}
+                class="d-block"
+              />
+
+              <div class="mb-3"></div>
+
+              <dfk-authority-link
+                each={k in Object.keys(record['refs'])}
+                type={k}
+                id={record['refs'][k]}
+                linkify-id={true}
+                class="d-block"
+              />
+            </div>
+          </li>
+        </ul>
+      </template>
+    </div>
+  </div>
+
+  <script>
+    import search from '../lib/search'
+    import {i18n, Url} from '@wendig/lib'
+
+    import {UrlSearch, params} from '@dfk-paris/frontend/src/lib/url_search'
+
+    import DfkActiveFilters from '@dfk-paris/frontend/src/components/active_filters.riot'
+    import DfkFacet from '@dfk-paris/frontend/src/components/facet.riot'
+    import DfkInput from '@dfk-paris/frontend/src/components/input.riot'
+    import DfkAuthorityLink from '@dfk-paris/frontend/src/components/authority_link.riot'
+    import Pagination from '@dfk-paris/frontend/src/components/pagination.riot'
+    import WikidataRegister from './register.riot'
+
+    export default class {
+      static components = {
+        'dfk-active-filters': DfkActiveFilters,
+        'dfk-facet': DfkFacet,
+        'dfk-input': DfkInput,
+        'dfk-authority-link': DfkAuthorityLink,
+        'dfk-pagination': Pagination,
+        'wikidata-register': WikidataRegister
+      }
+
+      constructor() {
+        this.urlSearch = new UrlSearch(this)
+      }
+
+      onBeforeMount(props, state) {
+        this.urlSearch.setup()
+      }
+
+      onUnmounted() {
+        this.urlSearch.teardown()
+      }
+
+      hasActiveFilters() {
+        return !!this.state.criteria['ref']
+      }
+
+      onSearch(p) {
+        window.c = this
+        p['letter'] = p['letter'] || 'a'
+
+        search.query(p).then(data => {
+          console.log(data)
+          this.update({
+            records: data.results,
+            aggs: data.aggs,
+            total: data.total
+          })
+        })
+      }
+
+      resultsLabel() {
+        return (
+          this.state && this.state.total == 1 ?
+          i18n.translate('result') :
+          i18n.translate('results')
+        )
+      }
+    }
+  </script>
+</wikidata-entities>

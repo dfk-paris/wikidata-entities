@@ -1,0 +1,5 @@
+/.env.production
+/.env.ng
+/node_modules/
+
+/frontend/public/*.json

@@ -1,0 +1,22 @@
+<loading>
+  <dfk-loading ready={state.ready} />
+
+  <script>
+    import Loading from '@dfk-paris/frontend/src/components/loading.riot'
+    import search from '../lib/search'
+
+    export default class {
+      static components = {
+        'dfk-loading': Loading
+      }
+
+      onBeforeMount() {
+        this.state = {ready: false}
+
+        search.ready().then(() => {
+          this.update({ready: true})
+        })
+      }
+    }
+  </script>
+</loading>
