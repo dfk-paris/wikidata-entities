@@ -1,5 +1,6 @@
-# DFK Wikidata Prop
+# DFK Wikidata Entities
 
+TODO
 
 # Data
 
@@ -50,6 +51,9 @@ choice.
 To integrate the app into your website, ...
 
 TODO
+
+* npm run import (after data was changed)
+* npm run index (likely not useful)
 
 ..
 
