@@ -21,39 +21,31 @@ module Dfk::Wikidata
     @dfk_ids ||= {}
   end
 
-  def self.new_id(base)
-    hash = Digest::SHA2.hexdigest(base)
-    num = hash.
-      unpack('C*').
-      select.with_index{|e, i| i % 16 == 0}.
-      pack('C*').
-      unpack('L*').
-      first
-    candidate = "DFK1#{num}"
+  def self.new_id(batch)
+    @ids ||= []
+    candidate = nil
+    until candidate && !@ids.include?(candidate)
+      candidate = (rand * 10**7).to_i
+    end
+    @ids << candidate
+    candidate
 
-    dfk_ids[candidate] ? new_id(hash) : candidate
+    "DFK#{'%03d' % batch}#{'%07d' % candidate}"
   end
 
   def self.generate_dfk_ids(people)
     dfk_ids = {}
 
     people.map do |person|
-      base = person['wikidata_id'] || begin
-        id = [
-          "QNOQ",
-          "or:#{person['or_id']}",
-          "dfkv:#{person['dfkv_id']}",
-          "pb:#{person['pb_label']}"
-        ].join('-')
-      end
-
-      person.merge('dfk_id' => new_id(base))
+      person.merge('dfk_id' => new_id(0))
     end
   end
 
   def self.to_csv(people)
     headers = [
       'wikidata_id',
+      'label',
+      'deleted',
       'dfk_id',
       'or_id', 'or_label',
       'dfkv_id', 'dfkv_label',
@@ -61,6 +53,7 @@ module Dfk::Wikidata
     ]
 
     out = CSV.generate do |csv|
+      csv << headers
       csv << headers
       people.each do |person|
         csv << headers.map{|h| person[h]}
@@ -88,16 +81,23 @@ module Dfk::Wikidata
       source = person['source']
       qid = person['wikidata_id']
 
+      record = {
+        "#{source}_id" => person['source_id'],
+        "#{source}_label" => person['label'],
+        'deleted' => person['deleted']
+      }
+
+      if !person['label']
+        puts "record #{person} doesn't have a label"
+        record['deleted'] = 'yes'
+      end
+
       if qid
+        record['wikidata_id'] = qid
         wikidata[qid] ||= {}
-        wikidata[qid]['wikidata_id'] = qid
-        wikidata[qid]["#{source}_id"] = person['source_id']
-        wikidata[qid]["#{source}_label"] = person['label']
+        wikidata[qid].merge!(record)
       else
-        results << {
-          "#{source}_id" => person['source_id'],
-          "#{source}_label" => person['label']
-        }
+        results << record
       end
     end
 
@@ -109,28 +109,38 @@ module Dfk::Wikidata
     file = '/tmp/DFKV_Master.xlsx'
     system 'curl', '--silent', '-L', '-o', file, url
 
-    results = []
+    results = {}
 
     people = read_excel(file, "Personnes", 'id', 2)
     seen = {}
     people.each do |id, person|
       qid = person['wikidata_id']
+      id2 = person['id_2']
 
-      if qid
-        next if seen[qid]
-        seen[qid] = true
-      end
+      # if qid
+      #   next if seen[qid]
+      #   seen[qid] = true
+      # end
 
-      results << {
+      results[id2] ||= {
         'source' => 'dfkv',
         'wikidata_id' => qid,
-        'source_id' => person['id'],
-        'label' => person['display_name'],
-        'original' => person
+        'source_id' => id2,
+        'other_labels' => []
       }
+
+      if person['label'] == 1
+        results[id2]['label'] = person['display_name']
+      else
+        results[id2]['other_labels'] << person['display_name']
+      end
+
+      if [100047, 100304, 100305].include?(id2)
+        results[person['id_2']]['deleted'] = 'yes'
+      end
     end
 
-    results
+    results.values
   end
 
   def self.own_reality
