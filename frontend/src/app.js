@@ -1,8 +1,7 @@
 import DfkFrontend from '@dfk-paris/frontend'
 
 DfkFrontend.configure({
-  staticUrl: staticUrl,
-  apiUrl: apiUrl
+  staticUrl: staticUrl
 })
 
 import './app.scss'

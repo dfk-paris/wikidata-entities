@@ -6,8 +6,6 @@ const path = require('path')
 module.exports = (env, argv) => {
   const mode = argv.mode || 'development'
   const app_env = process.env.APP_ENV || 'development'
-  dotenv.config({path: `.env.local`})
-  dotenv.config({path: `.env.${app_env}`})
   dotenv.config({path: '.env'})
   const useSsl = (process.env.USE_SSL == 'true')
 
@@ -88,9 +86,7 @@ module.exports = (env, argv) => {
     },
     plugins: [
       new webpack.DefinePlugin({
-        apiUrl: JSON.stringify(process.env.API_URL),
-        staticUrl: JSON.stringify(process.env.STATIC_URL),
-        iiifViewerUrl: JSON.stringify(process.env.IIIF_VIEWER_URL)
+        staticUrl: JSON.stringify(process.env.STATIC_URL)
       }),
       new HtmlWebpackPlugin({
         template: 'frontend/src/index.ejs',

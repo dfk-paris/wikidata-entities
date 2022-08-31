@@ -2,4 +2,4 @@
 /.env.ng
 /node_modules/
 
-/frontend/public/*.json
+/frontend/public

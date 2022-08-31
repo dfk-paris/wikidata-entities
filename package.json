@@ -24,6 +24,6 @@
     "aggregate": "bundle exec bin/aggregate",
     "import": "bundle exec bin/import",
     "dev": "webpack-cli serve -c frontend/webpack.config.js",
-    "build": "webpack-cli --profile --mode=production -c webpack.config.js"
+    "build": "webpack-cli --profile --mode=production -c frontend/webpack.config.js"
   }
 }
