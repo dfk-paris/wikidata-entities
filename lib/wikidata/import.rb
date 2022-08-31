@@ -21,8 +21,15 @@ class Wikidata::Import
     translations = 
       ::Dfkv::Tasks.read_excel('data/translations.dfkv.xlsx', "translations").
       merge(::Dfkv::Tasks.read_excel('data/translations.wikidata.xlsx', "translations"))
+    app_translations = {}
+    translations.each do |k, data|
+      data.each do |locale, t|
+        app_translations[locale] ||= {}
+        app_translations[locale][k] = t
+      end
+    end
 
-    ::Dfkv::Tasks.dump_json(translations, 'frontend/public/translations.json')
+    ::Dfkv::Tasks.dump_json(app_translations, 'frontend/public/translations.json')
   end
 
   def self.read_excel(file, sheet_name)

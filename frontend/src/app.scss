@@ -7,10 +7,7 @@ $serif: 'lyon';
 $sans-serif: 'cera-pro';
 $text-color: #1e1e1e;
 
-@import '@dfk-paris/frontend/src/scss/bootstrap_light';
-@import '@dfk-paris/frontend/src/scss/drupal_shim';
-@import '@dfk-paris/frontend/src/scss/base';
-@import '@dfk-paris/frontend/src/scss/components';
+@import '@dfk-paris/frontend/src/demo';
 
 wikidata-entities, [is='wikidata-entities'] {
   wikidata-register {
