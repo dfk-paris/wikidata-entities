@@ -22,17 +22,20 @@ const query = (data) => {
   const terms = util.fold(c['terms'])
   let ref = data.criteria['ref']
   ref = (ref ? ref.split('|') : [])
-  const dfkId = data.criteria['dfk_id']
+  const dfkId = data.criteria['dfkid']
 
   results = results.filter(record => {
     if (terms) {
+      const d = util.fold(record['dfk_id'] || '')
+      const dfk_id_match = !!d.match(new RegExp(terms))
+
       const q = util.fold(record['wikidata_id'] || '')
       const id_match = !!q.match(new RegExp(terms))
 
       const l = util.fold(record['label'] || '')
       const label_match = !!l.match(new RegExp(terms))
 
-      if (!id_match && !label_match) {
+      if (!id_match && !label_match && !dfk_id_match) {
         return false
       }
     }
