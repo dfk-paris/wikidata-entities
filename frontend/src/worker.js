@@ -84,6 +84,10 @@ const query = (data) => {
   })
 
 
+  // sort
+  results = util.sortBy(results, (r) => util.fold(r['label']))
+
+
   // paginate
   const total = results.length
   const perPage = parseInt(c['per_page'] || '20')
