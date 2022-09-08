@@ -8,4 +8,4 @@ npm run build
 
 rsync -av --delete \
   frontend/public/ \
-  root@10.10.1.34:/var/storage/host/static/current/wikidata/
+  root@10.10.1.34:/var/storage/host/static/current/dfk_persons/

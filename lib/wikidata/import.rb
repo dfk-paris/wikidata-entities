@@ -1,4 +1,4 @@
-require 'roo'
+require 'csv'
 
 require './lib/dfkv'
 
@@ -13,8 +13,33 @@ end
 
 class Wikidata::Import
   def self.run
-    data = read_excel('data/entities.xlsx', 'entities')
-    data = data.select{|r| !r['deleted']}
+    csv = CSV.open('data/entities.txt',
+      headers: true,
+      col_sep: '|',
+      converters: [
+        Proc.new{|value, field|
+          if ['hide', 'deleted'].include?(field.header)
+            mapping = {
+              '0' => false,
+              '1' => true,
+              'yes' => true,
+              'true' => true,
+              '' => false,
+              nil => false
+            }
+
+            mapping[value]
+          else
+            value
+          end
+        }
+      ]
+    )
+    data = csv.
+      map{|r| r.to_h}.
+      select{|r| !r['deleted']}.
+      select{|r| !r['hide']}
+
     validate!(data)
     ::Dfkv::Tasks.dump_json(data, 'frontend/public/entities.json')
 
