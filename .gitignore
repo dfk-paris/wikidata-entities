@@ -1,5 +1,5 @@
-/.env.production
 /.env.ng
-/node_modules/
-
+/.env.production
+/data/.~lock.*
 /frontend/public
+/node_modules/

@@ -1,11 +1,11 @@
 #!/bin/bash -e
 
 export APP_ENV=production
-export STATIC_URL="https://static.dfkg.org/wikidata"
+export STATIC_URL="https://static.dfkg.org/dfk_persons"
 export USE_SSL="true"
 
 npm run build
 
-rsync -av --delete \
+rsync -av \
   frontend/public/ \
   root@10.10.1.34:/var/storage/host/static/current/dfk_persons/
