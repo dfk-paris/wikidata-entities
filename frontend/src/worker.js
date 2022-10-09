@@ -1,5 +1,4 @@
-import Database from '@dfk-paris/frontend/src/lib/database'
-import {util} from '@wendig/lib'
+import {Database, Url, util} from '@wendig/lib'
 
 const db = new Database()
 onmessage = db.handler
@@ -24,6 +23,8 @@ const query = (data) => {
   ref = (ref ? ref.split('|') : [])
   const dfkId = data.criteria['dfkid']
 
+  // filter (before aggs)
+
   results = results.filter(record => {
     if (terms) {
       const d = util.fold(record['dfk_id'] || '')
@@ -40,10 +41,11 @@ const query = (data) => {
       }
     }
 
-    for (const r of ref) {
-      if (!record[`${r}_id`]) {
-        return false
-      }
+    const refIntersect = record['datasets'].
+      map(e => e['db']).
+      filter(e => ref.includes(e))
+    if (ref.length > 0 && refIntersect.length == 0) {
+      return false
     }
 
     if (dfkId) {
@@ -55,18 +57,18 @@ const query = (data) => {
     return true
   })
 
+
   // aggregate
+
   let refs = {}
   let letters = {}
   for (const record of results) {
-    for (const r of storage['projects']) {
-      if (ref.includes(r)) {continue}
+    for (const ds of record['datasets']) {
+      const db = ds['db']
+      if (ref.includes(db)) {continue}
 
-      const id = record[`${r}_id`]
-      if (id) {
-        refs[r] = refs[r] || 0
-        refs[r] += 1
-      }
+      refs[db] = refs[db] || 0
+      refs[db] += 1
     }
 
     const l = record['letter']
@@ -75,7 +77,9 @@ const query = (data) => {
   }
   refs = elastify(refs)
 
-  // filter
+
+  // filter (after aggs)
+
   results = results.filter(record => {
     if (c['letter']) {
       if (c['letter'] != record['letter']) {
@@ -88,10 +92,12 @@ const query = (data) => {
 
 
   // sort
+
   results = util.sortBy(results, (r) => util.fold(r['label']))
 
 
   // paginate
+
   const total = results.length
   const perPage = parseInt(c['per_page'] || '20')
   const page = parseInt(c['page'] || '1')
@@ -124,6 +130,7 @@ db.action('counts', (data) => {
 })
 
 const elastify = (agg) => {
+  console.log(agg, 'x')
   let result = []
 
   for (const k of Object.keys(agg)) {
@@ -135,15 +142,10 @@ const elastify = (agg) => {
   }
 }
 
-setTimeout(() => {init()}, 0)
-
-
-// functions
-
-const init = () => {
-  fetch('entities.json').then(r => r.json()).then(records => {
-    storage['projects'] = collectProjects(records)
-    storage['records'] = enrich(records, storage['projects'])
+const init = (locale) => {
+  fetch('entities.json').then(r => r.json()).then(data => {
+    storage['projects'] = data['dbs']
+    storage['records'] = enrich(data['records'], data['dbs'], locale)
     storage['register'] = toRegister(storage['records'])
     storage['wikidataCount'] = countWikidata(storage['records'])
 
@@ -151,40 +153,18 @@ const init = () => {
     db.loaded()
   })
 }
+db.action('init', init)
 
-const collectProjects = (records) => {
-  const keys = {}
-  for (const r of records) {
-    for (const k of Object.keys(r)) {
-      keys[k] = true
-    }
-  }
 
-  return Object.keys(keys).
-    filter(e => e.match(/^[a-z]+_label$/)).
-    map(e => e.split('_')[0])
-}
+// functions
 
-const enrich = (records, projects) => {
+const enrich = (records, dbs, locale) => {
   return records.map(record => {
-    // calc label
-    let labels = [
-      record['label'],
-      ...projects.map(e => record[`${e}_label`])
-    ]
+    // get first valid label
+    const firstDbLabel = record['datasets'].map(e => e['label']).map(e => e)[0]
+    record['label'] = record['label'] || firstDbLabel
 
-    record['label'] = labels.filter(e => e)[0]
-
-    // compile refs
-    record['refs'] = {}
-    for (const k of projects) {
-      const v = record[`${k}_id`]
-      if (v) {
-        record['refs'][k] = v
-      }
-    }
-
-    // calc first letter
+    // calculate first letter
     record['letter'] = letterFor(record)
 
     return record
@@ -210,17 +190,12 @@ const countWikidata = (data) => {
   return result
 }
 
-const toRegister = (data) => {
+const toRegister = (records) => {
   const results = {}
 
-  for (const record of data) {
-    record['label'] = 
-      record['label'] ||
-      record['dfkv_label'] ||
-      record['or_label'] ||
-      record['pb_label']
-
-    const letter = util.fold((record['label'] || '')[0])
+  for (const record of records) {
+    const label = record[`label`] || ''
+    const letter = util.fold(label[0])
 
     results[letter] = results[letter] || []
     results[letter].push(record)

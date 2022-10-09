@@ -15,17 +15,18 @@ class Wikidata::Import
   def self.run
     csv = CSV.open('data/entities.txt',
       headers: true,
+      return_headers: true,
       col_sep: '|',
       converters: [
         Proc.new{|value, field|
           if ['hide', 'deleted'].include?(field.header)
             mapping = {
-              '0' => false,
+              '0' => nil,
               '1' => true,
               'yes' => true,
               'true' => true,
-              '' => false,
-              nil => false
+              '' => nil,
+              nil => nil
             }
 
             mapping[value]
@@ -35,13 +36,43 @@ class Wikidata::Import
         }
       ]
     )
-    data = csv.
-      map{|r| r.to_h}.
-      select{|r| !r['deleted']}.
-      select{|r| !r['hide']}
+
+    dbs = headers_for(csv)[6..-1].map{|k| k.split('_')[0]}.flatten.uniq
+    data = {'dbs' => dbs, 'records' => {}}
+
+    csv.each do |r|
+      h = r.to_h.compact
+      next if h['deleted']
+      next if h['hide']
+
+      id = h['dfk_id']
+
+      if !data['records'][id]
+        data['records'][id] = h.slice(
+          'dfk_id', 'wikidata_id', 'label', 'fr_label'
+        )
+      end
+
+      dbs.each do |db|
+        data['records'][id]['datasets'] ||= []
+
+        db_id = h["#{db}_id"]
+        db_label = h["#{db}_label"]
+
+        if db_id || db_label
+          data['records'][id]['datasets'] << {
+            'db' => db,
+            'id' => db_id,
+            'label' => db_label
+          }
+        end
+      end
+    end
+
+    data['records'] = data['records'].values
 
     validate!(data)
-    ::Dfkv::Tasks.dump_json(data, 'frontend/public/entities.json')
+    ::Dfkv::Tasks.dump_json(data.compact, 'frontend/public/entities.json')
 
     translations = 
       ::Dfkv::Tasks.read_excel('data/translations.dfkv.xlsx', "translations").
@@ -77,21 +108,28 @@ class Wikidata::Import
     results
   end
 
+  def self.headers_for(csv)
+    csv.first
+    result = csv.headers
+    csv.rewind
+    result
+  end
+
   def self.validate!(data)
     failed = false
     dfk_ids = {}
 
-    data.each do |record|
+    data['records'].each do |record|
       id = record['dfk_id']
       dfk_ids[id] ||= 0
       dfk_ids[id] += 1
 
-      if dfk_ids[id] == 2
-        puts "DFK ID #{id} has been used more than once"
-        failed = true
-      end
+      # if dfk_ids[id] == 2
+      #   puts "DFK ID #{id} has been used more than once"
+      #   failed = true
+      # end
 
-      unless (record.keys - ['dfk_id', 'wikidata_id']).any?{|k| k.to_s.match?(/^[a-z]+_id/)}
+      if record['datasets'].empty?
         puts "record '#{JSON.dump(record)}' isn't associated with any project"
         failed = true
       end

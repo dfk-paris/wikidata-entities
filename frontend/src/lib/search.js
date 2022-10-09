@@ -44,6 +44,10 @@ class Search {
     return this.postMessage({action: 'counts'})
   }
 
+  init(locale) {
+    return this.postMessage({action: 'init', locale})
+  }
+
   postMessage(data) {
     const newId = messageId
     messageId += 1

@@ -60,7 +60,6 @@
               <dfk-authority-link
                 if={record['wikidata_id']}
                 type="wikidata"
-                id={record['wikidata_id']}
                 linkify-id={true}
                 class="d-block"
               />
@@ -68,9 +67,11 @@
               <div class="mb-3"></div>
 
               <dfk-authority-link
-                each={k in Object.keys(record['refs'])}
-                type={k}
-                id={record['refs'][k]}
+                each={ds in record['datasets']}
+                type={ds['db']}
+                id={ds['id']}
+                label={ds['label']}
+                locale={i18n.locale}
                 linkify-id={true}
                 class="d-block"
               />
@@ -106,6 +107,7 @@
 
       constructor() {
         this.urlSearch = new UrlSearch(this)
+        this.i18n = i18n
       }
 
       onBeforeMount(props, state) {

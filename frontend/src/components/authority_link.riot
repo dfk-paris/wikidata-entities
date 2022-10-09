@@ -1,0 +1,53 @@
+<authority-link>
+  <template if={active()}>
+    {label()} ID&nbsp;
+    <a
+      href={url()}
+      target="_blank"
+      rel="noopener"
+    >{typeId()}</a>
+  </template>
+
+  <script>
+    const labels = {
+      'wikidata': 'Wikidata',
+      'pb': 'Palais Beauharnais',
+      'or': 'OwnReality',
+      'dfkv': 'DFKV'
+    }
+
+    const urls = {
+      'wikidata': (id) => `https://www.wikidata.org/wiki/${id}`,
+      'pb': (record) => `https://dfk-paris.org/pb/people/${record.id}`,
+      'or': (record) => {
+        const params = {'terms': record.or_label}
+        const packed = btoa(escape(JSON.stringify(params)))
+        const base = 'https://dfk-paris.org/de/page/ownrealitydatenbank-und-recherche-1353.html'
+        console.log(packed)
+        console.log(record, 'XXX')
+        return `${base}#?q=${packed}`
+      },
+      'dfkv': (record) => `https://dfk-paris.org/dfkv/people/${record.id}`
+    }
+
+    export default class {
+      label() {
+        return labels[this.props.type]
+      }
+
+      url() {
+        return urls[this.props.type](this.props.record)
+      }
+
+      typeId() {
+        if (!this.props.record) {return null}
+
+        return this.props.record[`${this.props.type}_id`]
+      }
+
+      active() {
+        return !!this.typeId()
+      }
+    }    
+  </script>
+</authority-link>
