@@ -13,7 +13,7 @@ import search from './lib/search'
 
 import Loading from './components/loading.riot'
 import WikidataEntities from './components/wikidata_entities.riot'
-import WikidataChart from './components/chart.riot'
+import WikidataCharts from './components/charts.riot'
 
 // import FlyIn from '@dfk-paris/dfkv/frontend/src/components/fly_in.riot'
 
@@ -31,7 +31,7 @@ i18n.fetch(`${DfkFrontend.config().staticUrl}/translations.json`).then(() => {
 
   riot.register('wikidata-loading', Loading)
   riot.register('wikidata-entities', WikidataEntities)
-  riot.register('wikidata-chart', WikidataChart)
+  riot.register('wikidata-charts', WikidataCharts)
 
   riot.mount('[is]')
 

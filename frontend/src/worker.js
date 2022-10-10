@@ -123,10 +123,7 @@ const query = (data) => {
 db.action('query', query)
 
 db.action('counts', (data) => {
-  return {
-    wikidata: storage.wikidataCount,
-    noRef: storage.records.length
-  }
+  return {stats: storage.stats}
 })
 
 const elastify = (agg) => {
@@ -147,7 +144,7 @@ const init = (locale) => {
     storage['projects'] = data['dbs']
     storage['records'] = enrich(data['records'], data['dbs'], locale)
     storage['register'] = toRegister(storage['records'])
-    storage['wikidataCount'] = countWikidata(storage['records'])
+    storage['stats'] = data['stats']
 
     console.log(storage)
     db.loaded()

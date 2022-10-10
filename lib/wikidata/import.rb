@@ -38,7 +38,14 @@ class Wikidata::Import
     )
 
     dbs = headers_for(csv)[6..-1].map{|k| k.split('_')[0]}.flatten.uniq
-    data = {'dbs' => dbs, 'records' => {}}
+    data = {
+      'dbs' => dbs,
+      'records' => {},
+      'stats' => {
+        'total' => {},
+        'wikidata' => {}
+      }
+    }
 
     csv.each do |r|
       h = r.to_h.compact
@@ -65,6 +72,14 @@ class Wikidata::Import
             'id' => db_id,
             'label' => db_label
           }
+
+          data['stats']['total'][db] ||= 0
+          data['stats']['total'][db] += 1
+
+          if r['wikidata_id']
+            data['stats']['wikidata'][db] ||= 0
+            data['stats']['wikidata'][db] += 1
+          end
         end
       end
     end
