@@ -1,5 +1,6 @@
 const dotenv = require('dotenv')
 const webpack = require('webpack')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const path = require('path')
 
@@ -85,6 +86,11 @@ module.exports = (env, argv) => {
       ]
     },
     plugins: [
+      new CopyWebpackPlugin({
+        patterns: [
+          {from: 'frontend/.htaccess'}
+        ]
+      }),
       new webpack.DefinePlugin({
         staticUrl: JSON.stringify(process.env.STATIC_URL)
       }),

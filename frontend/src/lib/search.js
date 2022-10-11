@@ -1,18 +1,35 @@
+import {util} from '@wendig/lib'
+
 let messageId = 10000
 let instanceRegistry = []
-
-const worker = new Worker(staticUrl + '/worker.js', {credentials: 'same-origin'})
-worker.onmessage = event => {
-  for (const instance of instanceRegistry) {
-    instance.onResponse(event)
-  }
-}
+let worker = null
 
 class Search {
   constructor() {
+    this.initWorker()
+
     instanceRegistry.push(this)
 
     this.resolveMap = {}
+  }
+
+  initWorker() {
+    if (!this.initPromise) {
+      this.initPromise = new Promise((resolve, reject) => {
+        util.fetchWorker(staticUrl + '/worker.js').then(w => {
+          w.onmessage = event => {
+            for (const instance of instanceRegistry) {
+              instance.onResponse(event)
+            }
+          }
+          worker = w
+
+          resolve()
+        })
+      })
+    }
+
+    return this.initPromise
   }
 
   destruct() {
@@ -49,17 +66,19 @@ class Search {
   }
 
   postMessage(data) {
-    const newId = messageId
-    messageId += 1
+    return this.initWorker().then(() => {
+      const newId = messageId
+      messageId += 1
 
-    const promise = new Promise((resolve, reject) => {
-      this.resolveMap[newId] = resolve
+      const promise = new Promise((resolve, reject) => {
+        this.resolveMap[newId] = resolve
 
-      data.messageId = newId
-      worker.postMessage(data)
+        data.messageId = newId
+        worker.postMessage(data)
+      })
+
+      return promise
     })
-
-    return promise
   }
 }
 

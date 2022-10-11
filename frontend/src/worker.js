@@ -140,7 +140,7 @@ const elastify = (agg) => {
 }
 
 const init = (locale) => {
-  fetch('entities.json').then(r => r.json()).then(data => {
+  fetch(staticUrl + '/entities.json').then(r => r.json()).then(data => {
     storage['projects'] = data['dbs']
     storage['records'] = enrich(data['records'], data['dbs'], locale)
     storage['register'] = toRegister(storage['records'])
