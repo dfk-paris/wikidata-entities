@@ -1,7 +1,7 @@
-<wikidata-register class="d-flex justify-content-start">
+<wikidata-register class="d-flex justify-content-start {props.class}">
   <a
     each={letter in letters()}
-    class="{activeClass(letter)}"
+    class="{activeClass(letter)} dfk-sans-serif"
     onclick={event => toLetter(letter, event)}
   >{letter.toUpperCase()}</a>
 

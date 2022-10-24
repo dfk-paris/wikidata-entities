@@ -21,7 +21,7 @@
         />
       </div>
 
-      <div class="dfk-sans-serif fw-bold my-6 fs-2">{cap(t('selection'))}</div>
+      <div class="mt-5">&nbsp;</div>
 
       <dfk-facet
         if={state.records}
@@ -40,9 +40,10 @@
           aggregation={state.aggs.letters}
           value={state.criteria.letter}
           on-change={onInput}
+          class="dfk-sans-serif"
         />
 
-        <small class="d-block my-4">{state.total} {resultsLabel()}</small>
+        <div class="my-4">{state.total} {resultsLabel()}</div>
 
         <dfk-pagination
           class="mt-3 pb-3 border-bottom justify-content-start"
@@ -53,14 +54,15 @@
         />
 
         <ul class="list-unstyled">
-          <li each={record in state.records} class="py-3 border-bottom">
-            <span class="fw-bold">{record['label']}&nbsp;</span>{record['dfk_id']}
+          <li each={record in state.records} class="py-3 border-bottom dfk-sans-serif">
+            <span class="fw-bold pr-3">{record['label']}&nbsp;</span>{record['dfk_id']}
 
             <div class="pl-3">
               <dfk-authority-link
                 if={record['wikidata_id']}
                 type="wikidata"
                 linkify-id={true}
+                id={record['wikidata_id']}
                 class="d-block"
               />
 

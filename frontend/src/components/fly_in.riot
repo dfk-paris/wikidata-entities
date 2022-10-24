@@ -1,0 +1,39 @@
+<wikidata-fly-in>
+  <div is="fly-in" open={state.open} element={root}>
+    <div class="fly-in-open h-100">
+      <div class="h-100 d-flex align-items-center">
+        <a
+          class="ml-4"
+          onclick={event => toggle(event)}
+        >
+          <dfk-icon type="arrow-right" />
+        </a>
+        <div class="h-100 ml-6 overflow-y-scroll">
+          <div is="wikidata-charts" class="d-block w-100 pr-7 mb-3"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fly-in-closed">
+      <div class="h-100 d-flex align-items-center p-2">
+        <a
+          class="ml-2"
+          onclick={event => toggle(event)}
+        >
+          <dfk-icon type="arrow-left" />
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    export default class {
+      toggle(event) {
+        console.log(this)
+        event.preventDefault()
+
+        this.update({open: !this.state.open})
+      }
+    }
+  </script>
+</wikidata-fly-in>
