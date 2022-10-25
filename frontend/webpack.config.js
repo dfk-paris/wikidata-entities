@@ -14,6 +14,7 @@ module.exports = (env, argv) => {
     mode: mode,
     entry: {
       app: __dirname + '/src/app.js',
+      demo: __dirname + '/src/demo.js',
       worker: __dirname + '/src/worker.js'
     },
     output: {
@@ -101,7 +102,7 @@ module.exports = (env, argv) => {
           'viewport': 'width=device-width, initial-scale=1',
         },
         'hash': true,
-        'chunks': ['app']
+        'chunks': ['demo']
       })
     ]
   }

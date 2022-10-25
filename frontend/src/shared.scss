@@ -1,0 +1,37 @@
+wikidata-entities, [is='wikidata-entities'] {
+  wikidata-register {
+    a {
+      padding-left: 4px;
+      padding-right: 4px;
+      margin-left: 3px;
+      margin-right: 3px
+    }
+
+    a:first-child {
+      margin-left: 0;
+      padding-left: 0;
+    }
+
+    a:last-child {
+      margin-rignt: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+one-bar-chart {
+  .section {
+    padding: 10px;
+  }
+}
+
+a.type-ref {
+  background-color: $tag-gray;
+}
+
+dfk-facet {
+  .header {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+}
