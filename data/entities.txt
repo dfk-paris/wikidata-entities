@@ -3819,7 +3819,7 @@ Q47551|Tizian, Tiziano Vecellio, genannt|Titien, Tiziano Vecelli, dit le|0||DFK0
 |Hood, Fred||0||DFK0007767308|||100143|Hood, Fred||||||
 |Imhoff, Franz||0||DFK0002114277|||100145|Imhoff, Franz||||||
 |Juanita||0||DFK0002849336|||100146|Juanita||||||
-|J. Dg.||0||DFK0008651200|||100147|J. Dg.||||||
+|J. Dg.||1||DFK0008651200|||100147|J. Dg.||||||
 |Eller, George||0||DFK0008720722|||100171|Eller, George||||||
 |Lothar, Rudolf||0||DFK0003493602|||100172|Lothar, Rudolf||||||
 |Denise, Louis||0||DFK0008412041|||100184|Denise, Louis||||||
@@ -3966,11 +3966,11 @@ Q18197848|Tisserand, Ernest||0||DFK0002688664|745|Tisserand, Ernest|100745|Tisse
 |E. M.||1||DFK0005081220|||100775|E. M.||||||
 |W.||1||DFK0009536691|||100800|W.||||||
 |Pfister, Arnold||0||DFK0007501341|||100802|Pfister, Arnold||||||
-|R. Schg.||0||DFK0006609178|||100804|R. Schg.||||||
+|R. Schg.||1||DFK0006609178|||100804|R. Schg.||||||
 |Vitzthum||0||DFK0007807339|||100805|Vitzthum||||||
 |Beliawskaja, Wera||0||DFK0009731787|||100809|Beliawskaja, Wera||||||
 |Oprescu, Georg||0||DFK0003743477|||100814|Oprescu, Georg||||||
-|E. Z.- W.||0||DFK0003846566|||100816|E. Z.- W.||||||
+|E. Z.- W.||1||DFK0003846566|||100816|E. Z.- W.||||||
 |Heinecke, H.||0||DFK0005521578|||100818|Heinecke, H.||||||
 |Dessoir, Max||0||DFK0000774697|||100819|Dessoir, Max||||||
 |Fred, W.||0||DFK0006918728|||100821|Fred, W.||||||
@@ -4045,12 +4045,12 @@ Q18197848|Tisserand, Ernest||0||DFK0002688664|745|Tisserand, Ernest|100745|Tisse
 |E. K.||1||DFK0003617206|||101026|E. K.||||||
 |F. R.||1||DFK0005047146|||101029|F. R.||||||
 |pk||1||DFK0004709768|||101030|pk||||||
-|W. K. Z.||0||DFK0009056965|||101033|W. K. Z.||||||
+|W. K. Z.||1||DFK0009056965|||101033|W. K. Z.||||||
 |Sylcan||0||DFK0008218396|||101035|Sylcan||||||
 |B. R.||1||DFK0005345866|||101037|B. R.||||||
 |H. Pf.||1||DFK0002988883|||101038|H. Pf.||||||
 |R. H.||1||DFK0002786297|||101039|R. H.||||||
-|E. v. B.||0||DFK0002613847|||101040|E. v. B.||||||
+|E. v. B.||1||DFK0002613847|||101040|E. v. B.||||||
 |H. F.||1||DFK0000862515|||101041|H. F.||||||
 |A. D.||1||DFK0006203651|||101043|A. D.||||||
 |S. S.||1||DFK0007595348|||101045|S. S.||||||
@@ -4575,7 +4575,7 @@ Q95660115|Grohmann, Gertrud||0||DFK0003702639|3580|Grohmann, Gertrud|103580|Groh
 |Combe, Jacques||0||DFK0009971114|||103621|Combe, Jacques||||||
 |La direction||0||DFK0008348877|||103622|La direction||||||
 |N.D.L.R. [Notes de la rédaction]||0||DFK0000116494|||103624|N.D.L.R. [Notes de la rédaction]||||||
-|E. C. P.||0||DFK0008454301|||103627|E. C. P.||||||
+|E. C. P.||1||DFK0008454301|||103627|E. C. P.||||||
 |Craxley, Hubert||0||DFK0007508106|||103628|Craxley, Hubert||||||
 |Doerner, Alexander||0||DFK0003101703|||103637|Doerner, Alexander||||||
 |G. B.||1||DFK0007234954|||103640|G. B.||||||
@@ -4759,7 +4759,7 @@ Q346648|Tardieu, André||0||DFK0000984312|3999|Tardieu, André|103999|Tardieu, A
 Q113486650|Mea, Sabine||0||DFK0002148584|||104034|Mea, Sabine||||||
 |V. Effenberger||0||DFK0002376724|||104038|V. Effenberger||||||
 |Hyeronimus||0||DFK0002261388|||104039|Hyeronimus||||||
-|G. de B.||0||DFK0008709067|||104041|G. de B.||||||
+|G. de B.||1||DFK0008709067|||104041|G. de B.||||||
 |Javel, Firmin [ici F.J.]||0||DFK0006605184|||104043|Javel, Firmin [ici F.J.]||||||
 |Bos, C.||1||DFK0000705096|||104046|Bos, C.||||||
 |Carmen||0||DFK0006840136|||104050|Carmen||||||
@@ -6432,7 +6432,7 @@ Q113486817|Hoffmann, Paul||0||DFK0002263690|||107111|Hoffmann, Paul||||||
 |K. F.||1||DFK0000333432|||107247|K. F.||||||
 |H. P.||1||DFK0000853980|||107248|H. P.||||||
 |v. Sp.||1||DFK0003559692|||107249|v. Sp.||||||
-|H. v. Sp.||0||DFK0008672305|||107250|H. v. Sp.||||||
+|H. v. Sp.||1||DFK0008672305|||107250|H. v. Sp.||||||
 |P. D.||1||DFK0001595849|||107251|P. D.||||||
 |W. M.||1||DFK0002862309|||107253|W. M.||||||
 |F. F. [Florent Fels?]||0||DFK0007890000|||107255|F. F. [Florent Fels?]||||||
@@ -6446,21 +6446,21 @@ Q113486817|Hoffmann, Paul||0||DFK0002263690|||107111|Hoffmann, Paul||||||
 |Leporini||0||DFK0007137805|||107265|Leporini||||||
 |A. G.||1||DFK0003911515|||107266|A. G.||||||
 |L. B.||1||DFK0001407027|||107267|L. B.||||||
-|P. O. R.||0||DFK0008757830|||107268|P. O. R.||||||
+|P. O. R.||1||DFK0008757830|||107268|P. O. R.||||||
 |Habicht, V. C.||0||DFK0008920018|||107269|Habicht, V. C.||||||
-|K. H. O.||0||DFK0001567680|||107270|K. H. O.||||||
+|K. H. O.||1||DFK0001567680|||107270|K. H. O.||||||
 |H. R.||1||DFK0001818834|||107271|H. R.||||||
 |O. L.||1||DFK0009970254|||107273|O. L.||||||
 |Homann, A. W.||0||DFK0003626053|||107277|Homann, A. W.||||||
 |F. H.||1||DFK0008300037|||107278|F. H.||||||
-|A. L. M.||0||DFK0004769582|||107279|A. L. M.||||||
+|A. L. M.||1||DFK0004769582|||107279|A. L. M.||||||
 |Graul [Gaul, Richard?]||0||DFK0009291029|||107280|Graul [Gaul, Richard?]||||||
-|L. V. H.||0||DFK0005084907|||107283|L. V. H.||||||
+|L. V. H.||1||DFK0005084907|||107283|L. V. H.||||||
 |F. M.||1||DFK0008909857|||107288|F. M.||||||
 |Hoesslin, Julius Konstantin von||0||DFK0004401641|||107290|Hoesslin, Julius Konstantin von||||||
 |F. K.||1||DFK0001394629|||107291|F. K.||||||
 |Lüthgen, G. E.||0||DFK0005163857|||107292|Lüthgen, G. E.||||||
-|E. W. B.||0||DFK0006603842|||107293|E. W. B.||||||
+|E. W. B.||1||DFK0006603842|||107293|E. W. B.||||||
 |Tugendhold, J.||0||DFK0008690633|7294|Tugendhold, J.|107294|Tugendhold, J.||||||
 |W. G.||1||DFK0002524314|||107295|W. G.||||||
 |A. R.||1||DFK0001840828|||107297|A. R.||||||
@@ -6474,7 +6474,7 @@ Q113486817|Hoffmann, Paul||0||DFK0002263690|||107111|Hoffmann, Paul||||||
 |Moore, G. [George Moore?]||0||DFK0007141204|||107310|Moore, G. [George Moore?]||||||
 |Kieser, R. [hier: R. K.]||0||DFK0005345366|||107312|Kieser, R. [hier: R. K.]||||||
 |Rohe, M. K.||0||DFK0006058955|||107315|Rohe, M. K.||||||
-|I. v. B.||0||DFK0002291016|||107316|I. v. B.||||||
+|I. v. B.||1||DFK0002291016|||107316|I. v. B.||||||
 |J. N.||1||DFK0004598163|||107320|J. N.||||||
 |T. S.||1||DFK0005406569|||107323|T. S.||||||
 |H. L.||1||DFK0006716772|||107324|H. L.||||||
@@ -6493,18 +6493,18 @@ Q113486817|Hoffmann, Paul||0||DFK0002263690|||107111|Hoffmann, Paul||||||
 |Haës, K. W. [hier: K. W. H.]||0||DFK0006308241|||107347|Haës, K. W. [hier: K. W. H.]||||||
 |L z r, Béla||0||DFK0003130485|||107348|L z r, Béla||||||
 |Lorck, Karl von||0||DFK0006531170|||107352|Lorck, Karl von||||||
-|D. M. W.||0||DFK0000734695|||107354|D. M. W.||||||
+|D. M. W.||1||DFK0000734695|||107354|D. M. W.||||||
 |Niemeyer, Wilhelm||0||DFK0005904632|||107360|Niemeyer, Wilhelm||||||
 |Fries, F.||0||DFK0003783327|||107363|Fries, F.||||||
 |Hilpert, Konstantin||0||DFK0008988205|||107366|Hilpert, Konstantin||||||
 |v. S.||1||DFK0009596201|||107367|v. S.||||||
-|F. O. de C.||0||DFK0008615561|||107368|F. O. de C.||||||
+|F. O. de C.||1||DFK0008615561|||107368|F. O. de C.||||||
 |R. B.||1||DFK0007836411|||107377|R. B.||||||
 |Böhme, Walther||0||DFK0004213942|||107378|Böhme, Walther||||||
 Q2334131|Brusse, M. J.||0||DFK0004046382|7380|Brusse, M. J.|107380|Brusse, M. J.||||||
 |Sparkuhle, Ph. J.||0||DFK0008044786|||107381|Sparkuhle, Ph. J.||||||
 |E. W.||1||DFK0001598230|||107386|E. W.||||||
-|P. F. S.||0||DFK0000672619|||107387|P. F. S.||||||
+|P. F. S.||1||DFK0000672619|||107387|P. F. S.||||||
 |G. P.||1||DFK0008241970|||107389|G. P.||||||
 |Biedermeier||0||DFK0009174981|||107390|Biedermeier||||||
 |Schulz, Richard L. F.||0||DFK0006706688|7391|Schulz, Richard L. F.|107391|Schulz, Richard L. F.||||||
@@ -6522,7 +6522,7 @@ Q2334131|Brusse, M. J.||0||DFK0004046382|7380|Brusse, M. J.|107380|Brusse, M. J.
 |Pfister, O.||0||DFK0003048087|||107411|Pfister, O.||||||
 |R. G.||1||DFK0006421169|||107412|R. G.||||||
 |H. W.||1||DFK0009991698|||107413|H. W.||||||
-|H. W. S.||0||DFK0007531409|||107414|H. W. S.||||||
+|H. W. S.||1||DFK0007531409|||107414|H. W. S.||||||
 |K. H.||1||DFK0002020948|||107415|K. H.||||||
 |Hocke, Gustav René||0||DFK0000004470|||107417|Hocke, Gustav René||||||
 |Houticq, L.||0||DFK0006219069|||107419|Houticq, L.||||||
@@ -6538,7 +6538,7 @@ Q2334131|Brusse, M. J.||0||DFK0004046382|7380|Brusse, M. J.|107380|Brusse, M. J.
 |Kleiner, K. E.||0||DFK0006772322|||107431|Kleiner, K. E.||||||
 |A. Br.||1||DFK0003450912|||107433|A. Br.||||||
 |Pascent, E. N.||0||DFK0003062407|||107434|Pascent, E. N.||||||
-|A. L., (Dr.)||0||DFK0008268045|||107437|A. L., (Dr.)||||||
+|A. L., (Dr.)||1||DFK0008268045|||107437|A. L., (Dr.)||||||
 |M. Sch.||1||DFK0002100404|||107439|M. Sch.||||||
 |O. W.||1||DFK0007366367|||107440|O. W.||||||
 |B. Z.||1||DFK0000150251|||107441|B. Z.||||||
@@ -6648,7 +6648,7 @@ Q113486825|Brunet, Jean||0||DFK0006879683|||107462|Brunet, Jean||||||
 |Schneegans, F. E.||0||DFK0007461791|||107880|Schneegans, F. E.||||||
 |Ohlsen||0||DFK0004325061|||107911|Ohlsen||||||
 |Vrinat, Robert||0||DFK0009565524|||107923|Vrinat, Robert||||||
-|H. E. V.||0||DFK0001391770|||107925|H. E. V.||||||
+|H. E. V.||1||DFK0001391770|||107925|H. E. V.||||||
 |Jondot, Louis||0||DFK0000250432|||107926|Jondot, Louis||||||
 |Cappelades, M.-R.||0||DFK0006509627|||107928|Cappelades, M.-R.||||||
 |Vrinat, Robert [ici R. V.]||0||DFK0003043885|||107929|Vrinat, Robert [ici R. V.]||||||
