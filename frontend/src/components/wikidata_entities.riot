@@ -55,7 +55,7 @@
 
         <ul class="list-unstyled">
           <li each={record in state.records} class="py-3 border-bottom dfk-sans-serif">
-            <span class="fw-bold pr-3">{record['label']}&nbsp;</span>{record['dfk_id']}
+            <span class="fw-bold pr-3">{renderLabelFor(record)}&nbsp;</span>{record['dfk_id']}
 
             <div class="pl-3">
               <dfk-authority-link
@@ -125,7 +125,6 @@
       }
 
       onSearch(p) {
-        window.c = this
         p['letter'] = p['letter'] || 'a'
 
         search.query(p).then(data => {
@@ -144,6 +143,13 @@
           i18n.translate('result') :
           i18n.translate('results')
         )
+      }
+
+      renderLabelFor(record) {
+        if (i18n.locale == 'fr' && record['fr_label'])
+          return record['fr_label']
+        else 
+          return record['label']
       }
     }
   </script>
