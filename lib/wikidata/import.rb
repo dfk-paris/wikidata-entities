@@ -155,4 +155,69 @@ class Wikidata::Import
       exit 1
     end
   end
+
+
+  # obsolete (written for specific case, just used once)
+
+  # see https://issues.dfkg.org/issues/2294
+  def self.add_missing_dfk_ids
+    csv = CSV.open('data/entities.txt',
+      headers: true,
+      return_headers: true,
+      col_sep: '|',
+      converters: [
+        Proc.new{|value, field|
+          if ['hide', 'deleted'].include?(field.header)
+            mapping = {
+              '0' => nil,
+              '1' => true,
+              'yes' => true,
+              'true' => true,
+              '' => nil,
+              nil => nil
+            }
+
+            mapping[value]
+          else
+            value
+          end
+        }
+      ]
+    )
+
+    wikimap = {}
+    csv.each do |r|
+      h = r.to_h.compact
+      qid = h['wikidata_id']
+      dfk_id = h['dfk_id']
+      next if qid == 'wikidata_id'
+      next if !qid
+
+      if dfk_id
+        binding.pry if wikimap[h]
+        wikimap[h] = dfk_id
+      end
+    end
+
+    batch = 1
+    serial = 0000001
+    csv.rewind
+    csv.each do |r|
+      h = r.to_h.compact
+      qid = h['wikidata_id']
+      dfk_id = h['dfk_id']
+      next if qid == 'wikidata_id'
+
+      if dfk_id
+        puts dfk_id
+      else
+        puts wikimap[qid] || begin
+          new_id = "DFK%03i%07i" % [batch, serial]
+          serial += 1
+          wikimap[qid] = new_id
+          new_id
+        end
+      end
+    end
+  end
 end

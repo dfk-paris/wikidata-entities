@@ -18059,661 +18059,661 @@ Q3077070|Tyszkiewicz, Michal||0||DFK0006299529|||121408|Tyszkiewicz, Michal|||||
 Q108648|Kolbe, Carl Wilhelm||0||DFK0001459480|||121409|Kolbe, Carl Wilhelm||||||
 Q3588633|Lévy, Émile||0||DFK0005787845|||121410|Lévy, Émile||||||
 Q21027929|Ménard, René||0||DFK0000997665|||121411|Ménard, René||||||
-|Rousseau,  Théodor Auguste||0|||||||||1291|Rousseau,  Théodor Auguste||
-|Laibl||0|||||||||3498|Laibl,||
-Q75406857|Agnew, Thomas||0|||||||||10272|Agnew, Thomas||
-Q7529463|Agnew, William||0|||||||||10273|Agnew, William||
-Q18564083|Artz, Constant||0|||||||||10278|Artz, Constant||
-Q162038|de Balleroy, Albert||0|||||||||10281|de Balleroy, Albert||
-Q1350848|Benedetti, Vincent||0|||||||||10285|Benedetti, Vincent||
-Q85180|Boehm, Joseph||0|||||||||10290|Boehm, Joseph||
-Q25918118|Breul, Hugo||0|||||||||10297|Breul, Hugo||
-|Budgett, Sarah||0|||||||||10299|Budgett, Sarah||
-|Callimaki-Catargi, Eva||0|||||||||10303|Callimaki-Catargi, Eva||
-Q151403|Carlyle, Thomas||0|||||||||10305|Carlyle, Thomas||
-|Carter,||0|||||||||10307|Carter,||
-Q274278|Colonne, Édouard||0|||||||||10314|Colonne, Édouard||
-Q95202546|Cornill, Elise||0|||||||||10317|Cornill, Elise||
-Q5178863|Lindsay, Coutts||0|||||||||10320|Lindsay, Coutts||
-|Crachanthorpe, Hubert||0|||||||||10322|Crachanthorpe, Hubert||
-Q3503915|Crome, John||0|||||||||10324|Crome, John||
-Q35160400|Cuisin, Charles-Émile||0|||||||||10326|Cuisin, Charles-Émile||
-|Graan,  Jan de||0|||||||||10330|Graan,  Jan de||
-Q98961412|Deforge, Armand-Auguste||0|||||||||10332|Deforge, Armand-Auguste||
-Q1359864|Desportes, François||0|||||||||10338|Desportes, François||
-Q1679047|Dielmann, Jakob Fürchtegott||0|||||||||10340|Dielmann, Jakob Fürchtegott||
-Q88644943|Eiser, Otto||0|||||||||10347|Eiser, Otto||
-Q18891147|Dubourg, Charlotte||0|||||||||10349|Dubourg, Charlotte||
-Q19414297|Dubourg, Victoria||0|||||||||10351|Dubourg, Victoria||
-Q5346384|Edwards, Edwin||0|||||||||10357|Edwards, Edwin||
-|Edwards,  Ruth||0|||||||||10358|Edwards,  Ruth||
-|Esch,  Mlle||0|||||||||10360|Esch,  Mlle||
-Q48305|Euripides,||0|||||||||10362|Euripides,||
-|Fantin-Latour,  Hélène||0|||||||||10365|Fantin-Latour,  Hélène||
-Q3526419|Fantin, Théodore||0|||||||||10366|Fantin, Théodore||
-|Fantin-Latour,  Nathalie||0|||||||||10367|Fantin-Latour,  Nathalie||
-Q19414297|Dubourg, Victoria||0|||||||||10368|Dubourg, Victoria||
-|Ferlet,  Guillaume||0|||||||||10370|Ferlet,  Guillaume||
-Q62998777|Fry, Clarence||0|||||||||10378|Fry, Clarence||
-Q95662258|Gerson, Bertha||0|||||||||10382|Gerson, Bertha||
-|Gerson,  famille||0|||||||||10383|Gerson,  famille||
-Q7342874|Goff, Robert||0|||||||||10387|Goff, Robert||
-|Goldschmidt,  Madame de||0|||||||||10389|Goldschmidt,  Madame de||
-|Goupil,  Adolphe||0|||||||||10391|Goupil,  Adolphe||
-Q941953|Guthrie, James||0|||||||||10394|Guthrie, James||
-Q21464973|Anderson Hague, Joshua||0|||||||||10396|Anderson Hague, Joshua||
-|Hamer,  W. E.||0|||||||||10398|Hamer,  W. E.||
-|Hardy -Alan,||0|||||||||10400|Hardy -Alan,||
-Q110081598|Hédiard, Germain||0|||||||||10403|Hédiard, Germain||
-Q454656|de Heem, Jan Davidsz.||0|||||||||10405|de Heem, Jan Davidsz.||
-Q13641789|Henkes, Gerke||0|||||||||10408|Henkes, Gerke||
-Q6131395|Hook, James||0|||||||||10411|Hook, James||
-Q979534|Israëls, Isaac||0|||||||||10413|Israëls, Isaac||
-|Janovski,  Sonia||0|||||||||10417|Janovski,  Sonia||
-|Jones,  Madame||0|||||||||10419|Jones,  Madame||
-Q5894119|Jullien, Adolphe||0|||||||||10422|Jullien, Adolphe||
-Q943757|Keene, Charles||0|||||||||10426|Keene, Charles||
-Q3197963|La Caze, Louis||0|||||||||10429|La Caze, Louis||
-Q2854131|Lascoux, Antoine||0|||||||||10432|Lascoux, Antoine||
-Q160252|Leighton, Frederic||0|||||||||10435|Leighton, Frederic||
-Q18160548|Linton, James||0|||||||||10441|Linton, James||
-Q112116438|Magnus, Hermann||0|||||||||10446|Magnus, Hermann||
-Q21457925|Magnus, Emma||0|||||||||10447|Magnus, Emma||
-Q3047923|Maître, Edmond||0|||||||||10449|Maître, Edmond||
-Q55898387|Malß, Gerhard||0|||||||||10451|Malß, Gerhard||
-Q7126304|Manet, Eugène||0|||||||||10453|Manet, Eugène||
-Q978158|Maris, Jacob||0|||||||||10455|Maris, Jacob||
-Q23831119|McLean, Thomas||0|||||||||10459|McLean, Thomas||
-Q63160455|Mewburn, Francis||0|||||||||10464|Mewburn, Francis||
-|Meyer,  Madame||0|||||||||10467|Meyer,  Madame||
-Q105237|Meyerbeer, Giacomo||0|||||||||10469|Meyerbeer, Giacomo||
-Q954504|Moretto da Brescia,||0|||||||||10477|Moretto da Brescia,||
-Q504949|Moroni, Giovanni Battista||0|||||||||10479|Moroni, Giovanni Battista||
-|Morrison,  famille||0|||||||||10481|Morrison,  famille||
-|Morrison,  Madame||0|||||||||10482|Morrison,  Madame||
-|Morrison,  Monsieur||0|||||||||10483|Morrison,  Monsieur||
-Q105302006|Normand Saint-Marcel, Emile||0|||||||||10488|Normand Saint-Marcel, Emile||
-Q8017160|Quiller Orchardson, William||0|||||||||10490|Quiller Orchardson, William||
-Q16873041|Ottin, Léon-Auguste||0|||||||||10493|Ottin, Léon-Auguste||
-|Peipers||0|||||||||10497|Peipers,||
-Q465163|Poynter, Edward||0|||||||||10503|Poynter, Edward||
-Q16031043|Wingfield, Mervyn||0|||||||||10505|Wingfield, Mervyn||
-Q3034202|Prinsep, Valentine||0|||||||||10507|Prinsep, Valentine||
-Q547301|Raff, Joachim||0|||||||||10512|Raff, Joachim||
-|Reignier,  Jean-François||0|||||||||10516|Reignier,  Jean-François||
-Q3121314|Ricard, Louis Gustave||0|||||||||10520|Ricard, Louis Gustave||
+|Rousseau,  Théodor Auguste||0||DFK0010000001|||||||1291|Rousseau,  Théodor Auguste||
+|Laibl||0||DFK0010000001|||||||3498|Laibl,||
+Q75406857|Agnew, Thomas||0||DFK0010000002|||||||10272|Agnew, Thomas||
+Q7529463|Agnew, William||0||DFK0010000003|||||||10273|Agnew, William||
+Q18564083|Artz, Constant||0||DFK0010000004|||||||10278|Artz, Constant||
+Q162038|de Balleroy, Albert||0||DFK0010000005|||||||10281|de Balleroy, Albert||
+Q1350848|Benedetti, Vincent||0||DFK0010000006|||||||10285|Benedetti, Vincent||
+Q85180|Boehm, Joseph||0||DFK0010000007|||||||10290|Boehm, Joseph||
+Q25918118|Breul, Hugo||0||DFK0010000008|||||||10297|Breul, Hugo||
+|Budgett, Sarah||0||DFK0010000001|||||||10299|Budgett, Sarah||
+|Callimaki-Catargi, Eva||0||DFK0010000001|||||||10303|Callimaki-Catargi, Eva||
+Q151403|Carlyle, Thomas||0||DFK0010000009|||||||10305|Carlyle, Thomas||
+|Carter,||0||DFK0010000001|||||||10307|Carter,||
+Q274278|Colonne, Édouard||0||DFK0010000010|||||||10314|Colonne, Édouard||
+Q95202546|Cornill, Elise||0||DFK0010000011|||||||10317|Cornill, Elise||
+Q5178863|Lindsay, Coutts||0||DFK0010000012|||||||10320|Lindsay, Coutts||
+|Crachanthorpe, Hubert||0||DFK0010000001|||||||10322|Crachanthorpe, Hubert||
+Q3503915|Crome, John||0||DFK0010000013|||||||10324|Crome, John||
+Q35160400|Cuisin, Charles-Émile||0||DFK0010000014|||||||10326|Cuisin, Charles-Émile||
+|Graan,  Jan de||0||DFK0010000001|||||||10330|Graan,  Jan de||
+Q98961412|Deforge, Armand-Auguste||0||DFK0010000015|||||||10332|Deforge, Armand-Auguste||
+Q1359864|Desportes, François||0||DFK0010000016|||||||10338|Desportes, François||
+Q1679047|Dielmann, Jakob Fürchtegott||0||DFK0010000017|||||||10340|Dielmann, Jakob Fürchtegott||
+Q88644943|Eiser, Otto||0||DFK0010000018|||||||10347|Eiser, Otto||
+Q18891147|Dubourg, Charlotte||0||DFK0010000019|||||||10349|Dubourg, Charlotte||
+Q19414297|Dubourg, Victoria||0||DFK0010000020|||||||10351|Dubourg, Victoria||
+Q5346384|Edwards, Edwin||0||DFK0010000021|||||||10357|Edwards, Edwin||
+|Edwards,  Ruth||0||DFK0010000001|||||||10358|Edwards,  Ruth||
+|Esch,  Mlle||0||DFK0010000001|||||||10360|Esch,  Mlle||
+Q48305|Euripides,||0||DFK0010000022|||||||10362|Euripides,||
+|Fantin-Latour,  Hélène||0||DFK0010000001|||||||10365|Fantin-Latour,  Hélène||
+Q3526419|Fantin, Théodore||0||DFK0010000023|||||||10366|Fantin, Théodore||
+|Fantin-Latour,  Nathalie||0||DFK0010000001|||||||10367|Fantin-Latour,  Nathalie||
+Q19414297|Dubourg, Victoria||0||DFK0010000020|||||||10368|Dubourg, Victoria||
+|Ferlet,  Guillaume||0||DFK0010000001|||||||10370|Ferlet,  Guillaume||
+Q62998777|Fry, Clarence||0||DFK0010000024|||||||10378|Fry, Clarence||
+Q95662258|Gerson, Bertha||0||DFK0010000025|||||||10382|Gerson, Bertha||
+|Gerson,  famille||0||DFK0010000001|||||||10383|Gerson,  famille||
+Q7342874|Goff, Robert||0||DFK0010000026|||||||10387|Goff, Robert||
+|Goldschmidt,  Madame de||0||DFK0010000001|||||||10389|Goldschmidt,  Madame de||
+|Goupil,  Adolphe||0||DFK0010000001|||||||10391|Goupil,  Adolphe||
+Q941953|Guthrie, James||0||DFK0010000027|||||||10394|Guthrie, James||
+Q21464973|Anderson Hague, Joshua||0||DFK0010000028|||||||10396|Anderson Hague, Joshua||
+|Hamer,  W. E.||0||DFK0010000001|||||||10398|Hamer,  W. E.||
+|Hardy -Alan,||0||DFK0010000001|||||||10400|Hardy -Alan,||
+Q110081598|Hédiard, Germain||0||DFK0010000029|||||||10403|Hédiard, Germain||
+Q454656|de Heem, Jan Davidsz.||0||DFK0010000030|||||||10405|de Heem, Jan Davidsz.||
+Q13641789|Henkes, Gerke||0||DFK0010000031|||||||10408|Henkes, Gerke||
+Q6131395|Hook, James||0||DFK0010000032|||||||10411|Hook, James||
+Q979534|Israëls, Isaac||0||DFK0010000033|||||||10413|Israëls, Isaac||
+|Janovski,  Sonia||0||DFK0010000001|||||||10417|Janovski,  Sonia||
+|Jones,  Madame||0||DFK0010000001|||||||10419|Jones,  Madame||
+Q5894119|Jullien, Adolphe||0||DFK0010000034|||||||10422|Jullien, Adolphe||
+Q943757|Keene, Charles||0||DFK0010000035|||||||10426|Keene, Charles||
+Q3197963|La Caze, Louis||0||DFK0010000036|||||||10429|La Caze, Louis||
+Q2854131|Lascoux, Antoine||0||DFK0010000037|||||||10432|Lascoux, Antoine||
+Q160252|Leighton, Frederic||0||DFK0010000038|||||||10435|Leighton, Frederic||
+Q18160548|Linton, James||0||DFK0010000039|||||||10441|Linton, James||
+Q112116438|Magnus, Hermann||0||DFK0010000040|||||||10446|Magnus, Hermann||
+Q21457925|Magnus, Emma||0||DFK0010000041|||||||10447|Magnus, Emma||
+Q3047923|Maître, Edmond||0||DFK0010000042|||||||10449|Maître, Edmond||
+Q55898387|Malß, Gerhard||0||DFK0010000043|||||||10451|Malß, Gerhard||
+Q7126304|Manet, Eugène||0||DFK0010000044|||||||10453|Manet, Eugène||
+Q978158|Maris, Jacob||0||DFK0010000045|||||||10455|Maris, Jacob||
+Q23831119|McLean, Thomas||0||DFK0010000046|||||||10459|McLean, Thomas||
+Q63160455|Mewburn, Francis||0||DFK0010000047|||||||10464|Mewburn, Francis||
+|Meyer,  Madame||0||DFK0010000001|||||||10467|Meyer,  Madame||
+Q105237|Meyerbeer, Giacomo||0||DFK0010000048|||||||10469|Meyerbeer, Giacomo||
+Q954504|Moretto da Brescia,||0||DFK0010000049|||||||10477|Moretto da Brescia,||
+Q504949|Moroni, Giovanni Battista||0||DFK0010000050|||||||10479|Moroni, Giovanni Battista||
+|Morrison,  famille||0||DFK0010000001|||||||10481|Morrison,  famille||
+|Morrison,  Madame||0||DFK0010000001|||||||10482|Morrison,  Madame||
+|Morrison,  Monsieur||0||DFK0010000001|||||||10483|Morrison,  Monsieur||
+Q105302006|Normand Saint-Marcel, Emile||0||DFK0010000051|||||||10488|Normand Saint-Marcel, Emile||
+Q8017160|Quiller Orchardson, William||0||DFK0010000052|||||||10490|Quiller Orchardson, William||
+Q16873041|Ottin, Léon-Auguste||0||DFK0010000053|||||||10493|Ottin, Léon-Auguste||
+|Peipers||0||DFK0010000001|||||||10497|Peipers,||
+Q465163|Poynter, Edward||0||DFK0010000054|||||||10503|Poynter, Edward||
+Q16031043|Wingfield, Mervyn||0||DFK0010000055|||||||10505|Wingfield, Mervyn||
+Q3034202|Prinsep, Valentine||0||DFK0010000056|||||||10507|Prinsep, Valentine||
+Q547301|Raff, Joachim||0||DFK0010000057|||||||10512|Raff, Joachim||
+|Reignier,  Jean-François||0||DFK0010000001|||||||10516|Reignier,  Jean-François||
+Q3121314|Ricard, Louis Gustave||0||DFK0010000058|||||||10520|Ricard, Louis Gustave||
 Q2085926|||0||DFK0005362780|||||||10522|Riesener, Leon||
-|Riesener,  Mlle||0|||||||||10523|Riesener,  Mlle||
-|Ritter,  Francine||0|||||||||10525|Ritter,  Francine||
-|Ritter,  Monsieur||0|||||||||10526|Ritter,  Monsieur||
-Q186748|Rossetti, Gabriel||0|||||||||10530|Rossetti, Gabriel||
-|Roth,  Madame||0|||||||||10532|Roth,  Madame||
-Q2087143|Röth, Philipp||0|||||||||10534|Röth, Philipp||
-|Schierholz,  Mlle||0|||||||||10536|Schierholz,  Mlle||
-|Scholderer,  Emil||0|||||||||10540|Scholderer,  Emil||
-|Scholderer,  Emilie||0|||||||||10541|Scholderer,  Emilie||
-|Scholderer,  Ida||0|||||||||10542|Scholderer,  Ida||
-|Scholderer,  Luise Philippine Conradine||0|||||||||10543|Scholderer,  Luise Philippine Conradine||
-Q274447|Schuré, Édouard||0|||||||||10546|Schuré, Édouard||
-Q7108164|Sickert, Oswald||0|||||||||10548|Sickert, Oswald||
-|Sinet,  Louis René Hippolyte||0|||||||||10550|Sinet,  Louis René Hippolyte||
-Q18210310|Snyers, Pieter Jan||0|||||||||10553|Snyers, Pieter Jan||
-Q6755318|Solon, Marc-Louis||0|||||||||10555|Solon, Marc-Louis||
-Q18508451|Steinhardt, Karl||0|||||||||10560|Steinhardt, Karl||
-Q85077|Steinle, Eduard||0|||||||||10563|Steinle, Eduard||
-Q2427494|Stothard, Thomas||0|||||||||10565|Stothard, Thomas||
-Q2329794|Taylor, Tom||0|||||||||10567|Taylor, Tom||
-Q112116470|Tempelaere, Gustave||0|||||||||10569|Tempelaere, Gustave||
-Q441235|Trochu, Louis Jules||0|||||||||10575|Trochu, Louis Jules||
-|Wallis,  Mr.||0|||||||||10578|Wallis,  Mr.||
-|White,  Mrs.||0|||||||||10583|White,  Mrs.||
-Q324315|Willems, Florent||0|||||||||10585|Willems, Florent||
-|Wilt,  Marianne||0|||||||||10587|Wilt,  Marianne||
-|Erlanger||0|||||||||11798|Erlanger,||
-Q111843949|Reiß, Jacques||0|||||||||11802|Reiß, Jacques||
-|Fitz James||0|||||||||11813|Fitz James,||
-Q55857320|Müller, Otto||0|||||||||11820|Müller, Otto||
+|Riesener,  Mlle||0||DFK0010000001|||||||10523|Riesener,  Mlle||
+|Ritter,  Francine||0||DFK0010000001|||||||10525|Ritter,  Francine||
+|Ritter,  Monsieur||0||DFK0010000001|||||||10526|Ritter,  Monsieur||
+Q186748|Rossetti, Gabriel||0||DFK0010000059|||||||10530|Rossetti, Gabriel||
+|Roth,  Madame||0||DFK0010000001|||||||10532|Roth,  Madame||
+Q2087143|Röth, Philipp||0||DFK0010000060|||||||10534|Röth, Philipp||
+|Schierholz,  Mlle||0||DFK0010000001|||||||10536|Schierholz,  Mlle||
+|Scholderer,  Emil||0||DFK0010000001|||||||10540|Scholderer,  Emil||
+|Scholderer,  Emilie||0||DFK0010000001|||||||10541|Scholderer,  Emilie||
+|Scholderer,  Ida||0||DFK0010000001|||||||10542|Scholderer,  Ida||
+|Scholderer,  Luise Philippine Conradine||0||DFK0010000001|||||||10543|Scholderer,  Luise Philippine Conradine||
+Q274447|Schuré, Édouard||0||DFK0010000061|||||||10546|Schuré, Édouard||
+Q7108164|Sickert, Oswald||0||DFK0010000062|||||||10548|Sickert, Oswald||
+|Sinet,  Louis René Hippolyte||0||DFK0010000001|||||||10550|Sinet,  Louis René Hippolyte||
+Q18210310|Snyers, Pieter Jan||0||DFK0010000063|||||||10553|Snyers, Pieter Jan||
+Q6755318|Solon, Marc-Louis||0||DFK0010000064|||||||10555|Solon, Marc-Louis||
+Q18508451|Steinhardt, Karl||0||DFK0010000065|||||||10560|Steinhardt, Karl||
+Q85077|Steinle, Eduard||0||DFK0010000066|||||||10563|Steinle, Eduard||
+Q2427494|Stothard, Thomas||0||DFK0010000067|||||||10565|Stothard, Thomas||
+Q2329794|Taylor, Tom||0||DFK0010000068|||||||10567|Taylor, Tom||
+Q112116470|Tempelaere, Gustave||0||DFK0010000069|||||||10569|Tempelaere, Gustave||
+Q441235|Trochu, Louis Jules||0||DFK0010000070|||||||10575|Trochu, Louis Jules||
+|Wallis,  Mr.||0||DFK0010000001|||||||10578|Wallis,  Mr.||
+|White,  Mrs.||0||DFK0010000001|||||||10583|White,  Mrs.||
+Q324315|Willems, Florent||0||DFK0010000071|||||||10585|Willems, Florent||
+|Wilt,  Marianne||0||DFK0010000001|||||||10587|Wilt,  Marianne||
+|Erlanger||0||DFK0010000001|||||||11798|Erlanger,||
+Q111843949|Reiß, Jacques||0||DFK0010000072|||||||11802|Reiß, Jacques||
+|Fitz James||0||DFK0010000001|||||||11813|Fitz James,||
+Q55857320|Müller, Otto||0||DFK0010000073|||||||11820|Müller, Otto||
 |Bonaparte, Napoleon|Bonaparte, Napoléon|1||DFK0007220482|||||||11824|Bonaparte, Napoleon||
-Q160252|Leighton, Frederic||0|||||||||11826|Leighton, Frederic||
-Q106452268|Bernheim, Georges||0|||||||||11942|Bernheim, Georges||
-Q949700|Busson, George||0|||||||||11945|Busson, George||
-Q3292434|Cazin, Marie||0|||||||||11947|Cazin, Marie||
-|Dubourg,  Hélène||0|||||||||11949|Dubourg,  Hélène||
-|Dubourg,  Jean-Theodore||0|||||||||11950|Dubourg,  Jean-Theodore||
-Q18922365|Scholderer, Victor||0|||||||||12197|Scholderer, Victor||
-Q173869|Tennyson, Alfred||0|||||||||12198|Tennyson, Alfred||
-Q82006|Disraeli, Benjamin||0|||||||||12199|Disraeli, Benjamin||
-Q3047923|Maître, Edmond||0|||||||||12201|Maître, Edmond||
-|Duranty,  Madame||0|||||||||12202|Duranty,  Madame||
-Q19899493|Belt, Richard Claude||0|||||||||12204|Belt, Richard Claude||
-Q5075547|Bennett Lawes, Charles||0|||||||||12205|Bennett Lawes, Charles||
-|Maître,  Léon Mme||0|||||||||12206|Maître,  Léon Mme||
-Q1175801|Murray, David||0|||||||||12207|Murray, David||
-Q313374|Chabrier, Emmanuel||0|||||||||12208|Chabrier, Emmanuel||
-Q3271194|Maître, Léon||0|||||||||12209|Maître, Léon||
-Q21455060|Magnus, Rose||0|||||||||12210|Magnus, Rose||
-|Janovski,  Marie||0|||||||||12211|Janovski,  Marie||
-Q771658|Martínez del Mazo, Juan Bautista||0|||||||||12212|Martínez del Mazo, Juan Bautista||
-Q309882|Booth, William||0|||||||||12213|Booth, William||
-Q309702|Vigny, Alfred||0|||||||||12215|Vigny, Alfred||
-Q434940|Faliero, Marino||0|||||||||12216|Faliero, Marino||
-Q71315|Hegar, Alfred||0|||||||||12218|Hegar, Alfred||
-Q7793581|Way, Thomas||0|||||||||12239|Way, Thomas||
-Q7793581|Way, Thomas||0|||||||||12240|Way, Thomas||
-Q21475520|Senonnes, Marie||0|||||||||12241|Senonnes, Marie||
-|Eiser,  Madame||0|||||||||12242|Eiser,  Madame||
-Q7108164|Sickert, Oswald||0|||||||||12266|Sickert, Oswald||
-|Schienholz||0|||||||||12604|Schienholz,||
-Q309733|Scamozzi, Vincenzo|Scamozzi, Vincenzo|0|||||||||||3pgdz|Scamozzi, Vincenzo
-Q57224|Hannover, Sophie von|Hanovre, Sophie de|0|||||||||||3ph1p|Hannover, Sophie von
-Q3160347|Souvré, Jacques de|Souvré, Jacques de|0|||||||||||3pgf2|Souvré, Jacques de
-Q605799|Stella, Jacques|Stella, Jacques|0|||||||||||3pgf3|Stella, Jacques
-Q137934|Suger|Suger|0|||||||||||3pgf5|Suger
-Q38911483|Suttinger, Daniel|Suttinger, Daniel|0|||||||||||3qwg4|Suttinger, Daniel
-Q21149084|Thomassin, Simon|Thomassin, Simon|0|||||||||||3pgf6|Thomassin, Simon
-Q568943|Tuby, Jean-Baptiste|Tuby, Jean-Baptiste|0|||||||||||3pgf9|Tuby, Jean-Baptiste
-Q303216|Turenne, Henri de la Tour d’Auvergne, Vicomte von|Turenne, Henri de La Tour d’Auvergne, vicomte de|0|||||||||||3pgfb|Turenne, Henri de la Tour d’Auvergne, Vicomte von
-Q77288|Tschirnhaus, Ehrenfried Walther von|Tschirnhaus, Ehrenfried Walther von|0|||||||||||3pgfc|Tschirnhaus, Ehrenfried Walther von
-Q1241409|Du Vair, Guillaume|Du Vair, Guillaume|0|||||||||||3pgfd|Du Vair, Guillaume
-Q658511|Varin, Quentin|Varin, Quentin|0|||||||||||3pgff|Varin, Quentin
-Q310530|Le Vau, Louis|Le Vau, Louis|0|||||||||||3pgfg|Le Vau, Louis
-Q18511859|Vigarani, Gaspare|Vigarani, Gaspare|0|||||||||||3pgfk|Vigarani, Gaspare
-Q322873|Villalpando, Juan Bautista|Villalpando, Juan Bautista|0|||||||||||3pgfm|Villalpando, Juan Bautista
-Q124682|Orléans, Valentine Visconti, Herzogin von|Orléans, Valentine Visconti, duchesse d’|0|||||||||||3pgfp|Orléans, Valentine Visconti, Herzogin von
-Q297565|Vignola, Giacomo oder Jacopo Barozzi, genannt|Vignole, Giacomo ou Jacopo Barozzi, dit|0|||||||||||3pgfq|Vignola, Giacomo oder Jacopo Barozzi, genannt
-Q358975|Ville, Arnold de|Ville, Arnold de|0|||||||||||3pgfr|Ville, Arnold de
-Q47163|Vitruv|Vitruve|0|||||||||||3pgfs|Vitruv
-Q2870616|Vouet, Aubin|Vouet, Aubin|0|||||||||||3pgft|Vouet, Aubin
-Q3456193|Vuibert, Remy|Vuibert, Remy|0|||||||||||3pgfw|Vuibert, Remy
-Q129987|Nassau-Dillenburg, Wilhelm III., Fürst von Oranien, Graf von|Nassau-Dillenburg, Guillaume III, prince d’Orange, comte de|0|||||||||||3pgfx|Nassau-Dillenburg, Wilhelm III., Fürst von Oranien, Graf von
-Q1471491|Wallstein, Karl Ernst, Graf von|Wallstein, Karl Ernst, comte de|0|||||||||||3pgfz|Wallstein, Karl Ernst, Graf von
-Q317929|Berry, Charles de France, Herzog von|Berry, Charles de France, duc de|0|||||||||||3pgg0|Berry, Charles de France, Herzog von
-Q1127505|Bourgogne, Louis de France, Herzog von, genannt der Petit Dauphin|Bourgogne, Louis de France, duc de, dit le Petit Dauphin|0|||||||||||3pggb|Bourgogne, Louis de France, Herzog von, genannt der Petit Dauphin
-Q23140|Bourgogne, Maria Adelaide von Savoyen, Herzogin von|Bourgogne, Marie-Adélaïde de Savoie, duchesse de|0|||||||||||3pgg2|Bourgogne, Maria Adelaide von Savoyen, Herzogin von
-Q170467|Philipp V., König von Spanien|Philippe V, roi d’Espagne|0|||||||||||3pgg3|Philipp V., König von Spanien
-Q512044|Barbezieux, Louis-François-Marie Le Tellier, Markgraf von|Barbezieux, Louis-François-Marie Le Tellier, marquis de|0|||||||||||3pgg4|Barbezieux, Louis-François-Marie Le Tellier, Markgraf von
-Q55848422|Berlepsch, Peter Philipp von|Berlepsch, Peter Philipp von|0|||||||||||3pgg6|Berlepsch, Peter Philipp von
-Q442581|Beuvron, Henri d’Harcourt, Markgraf von|Beuvron, Henri d’Harcourt, marquis de|0|||||||||||3pgg7|Beuvron, Henri d’Harcourt, Markgraf von
-Q1280318|Harcourt, Heinrich von Lothringen, Graf von|Harcourt, Henri de Lorraine, comte de|0|||||||||||3q1vv|Harcourt, Heinrich von Lothringen, Graf von
-Q2833483|Bontemps, Alexandre|Bontemps, Alexandre|0|||||||||||3pgg8|Bontemps, Alexandre
-Q448174|Toulouse, Louis-Alexandre de Bourbon, Graf von|Toulouse, Louis-Alexandre de Bourbon, comte de|0|||||||||||3pgg9|Toulouse, Louis-Alexandre de Bourbon, Graf von
-Q568415|Brandenburg-Ansbach, Wilhelm Friedrich, Markgraf von|Brandenbourg-Ansbach, Guillaume-Frédéric, margrave de|0|||||||||||3pggc|Brandenburg-Ansbach, Wilhelm Friedrich, Markgraf von
-Q567159|Brandenburg-Ansbach, Georg Friedrich II., Markgraf von|Brandenbourg-Ansbach, Georges-Frédéric II, margrave de|0|||||||||||3ph04|Brandenburg-Ansbach, Georg Friedrich II., Markgraf von
-Q1048|Cäsar, Gajus Julius|César, Jules|0|||||||||||3pggd|Cäsar, Gajus Julius
-Q62516|Hessen-Kassel, Karl I., Landgraf von|Hesse-Cassel, Charles Ier, landgrave de|0|||||||||||3pggf|Hessen-Kassel, Karl I., Landgraf von
-Q52932|Hessen-Kassel, Friedrich I. von, König von Schweden|Frédéric Ier, roi de Suède|0|||||||||||3q1tm|Hessen-Kassel, Friedrich I. von, König von Schweden
-Q531790|Hessen-Kassel, Wilhelm VIII., Landgraf von|Hesse-Cassel, Guillaume VIII, landgrave de|0|||||||||||3q1tj|Hessen-Kassel, Wilhelm VIII., Landgraf von
-Q36174|Karl II. von Habsburg, König von Spanien|Charles II, roi d’Espagne|0|||||||||||3pggg|Karl II. von Habsburg, König von Spanien
-Q464674|Conti, François-Louis de Bourbon, Prince de|Conti, François-Louis de Bourbon, prince de|0|||||||||||3pggh|Conti, François-Louis de Bourbon, Prince de
-Q17353170|Cottart, Pierre|Cottart, Pierre|0|||||||||||3pggj|Cottart, Pierre
-Q3107157|Delfino (oder Dolfin), Giovanni|Delfino (ou Dolfin), Giovanni|0|||||||||||3pggm|Delfino (oder Dolfin), Giovanni
-Q117116|Dietrichstein, Ferdinand Joseph, Fürst von|Dietrichstein, Ferdinand Joseph, prince de|0|||||||||||3pggn|Dietrichstein, Ferdinand Joseph, Fürst von
-Q1415266|Dietrichstein, Maximilian, Graf von|Dietrichstein, Maximilien, comte de|0|||||||||||3pggp|Dietrichstein, Maximilian, Graf von
-Q1150810|Estrées, César d’|Estrées, César d’|0|||||||||||3pggr|Estrées, César d’
-Q929092|Estrées, Jean d’|Estrées, Jean d’|0|||||||||||3pggs|Estrées, Jean d’
-Q24211|Harrach, Aloys Thomas Raimund, Graf von|Harrach, Aloys Thomas Raimund, comte de|0|||||||||||3pggt|Harrach, Aloys Thomas Raimund, Graf von
-Q1695861|Harrach, Johann Joseph Philipp, Graf von|Harrach, Johann Joseph Philipp, comte de|0|||||||||||3pggv|Harrach, Johann Joseph Philipp, Graf von
-Q1106692|Heemskerck, Coenraad van|Heemskerck, Coenraad van|0|||||||||||3pggz|Heemskerck, Coenraad van
-Q2960512|Hozier, Charles-René d’|Hozier, Charles-René d’|0|||||||||||3pgh0|Hozier, Charles-René d’
-Q150494|Leopold I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation|Léopold Ier empereur du Saint-Empire|0|||||||||||3pgh4|Leopold I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation
-Q3068514|Lobkowitz, Ferdinand August Leopold III., Fürst von|Lobkowitz, Ferdinand Auguste Léopold III, prince de|0|||||||||||3q1tx|Lobkowitz, Ferdinand August Leopold III., Fürst von
-Q55281850|Lobkowitz, Philipp Hyazinth Josef IV., Fürst von|Lobkowitz, Philipp Hyazinth Josef IV, prince de|0|||||||||||3q1tw|Lobkowitz, Philipp Hyazinth Josef IV., Fürst von
-Q677985|Lobkowitz, Johann Georg Christian, Fürst von|Lobkowitz, Johann Georg Christian, prince de|0|||||||||||3q1tv|Lobkowitz, Johann Georg Christian, Fürst von
-Q152480|Joseph I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation|Joseph Ier, empereur du Saint-Empire|0|||||||||||3ph03|Joseph I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation
-Q2958258|Le Tellier, Charles-Maurice|Le Tellier, Charles-Maurice|0|||||||||||3ph05|Le Tellier, Charles-Maurice
-Q2018018|Bouillon, Godefroy-Maurice de La Tour d’Auvergne, Herzog von|Bouillon, Godefroy-Maurice de La Tour d’Auvergne, duc de|0|||||||||||3ph06|Bouillon, Godefroy-Maurice de La Tour d’Auvergne, Herzog von
-Q110997|Plettenberg, Friedrich Christian von|Plettenberg, Friedrich Christian von|0|||||||||||3ph07|Plettenberg, Friedrich Christian von
-Q57221|Orléans, Elisabeth Charlotte von der Pfalz, Herzogin von, genannt Madame, Liselotte von der Pfalz|Orléans, Élisabeth-Charlotte de Bavière, duchesse d’, princesse Palatine, dite Madame, la Palatine|0|||||||||||3pggq|Orléans, Elisabeth Charlotte von der Pfalz, Herzogin von, genannt Madame, Liselotte von der Pfalz
-Q155596|Orléans, Philippe II. von Bourbon, Herzog von|Orléans, Philippe d’|0|||||||||||3q1w2|Orléans, Philippe II. von Bourbon, Herzog von
-Q237666|Orléans, Françoise-Marie von Bourbon, Herzogin von, genannt Seconde Mademoiselle de Blois|Orléans, Françoise-Marie de Bourbon, duchesse d’, dite Seconde Mademoiselle de Blois|0|||||||||||3q1mb|Orléans, Françoise-Marie von Bourbon, Herzogin von, genannt Seconde Mademoiselle de Blois
-Q233610|Lothringen, Élisabeth-Charlotte von Orléans, Herzogin von, genannt Mademoiselle de Chartres|Lorraine, Élisabeth-Charlotte d’Orléans, duchesse de, dite Mademoiselle de Chartres|0|||||||||||3ph09|Lothringen, Élisabeth-Charlotte von Orléans, Herzogin von, genannt Mademoiselle de Chartres
-Q274732|Élisabeth de France, genannt Élisabeth de Bourbon oder Isabelle de Bourbon, Königin von Spanien|Élisabeth de France, dite Élisabeth de Bourbon ou Isabelle de Bourbon, reine d’Espagne|0|||||||||||3q1sz|Élisabeth de France, genannt Élisabeth de Bourbon oder Isabelle de Bourbon, Königin von Spanien
-Q319954|Lothringen, Leopold Joseph, Herzog von|Lorraine, Léopold Ier, duc de|0|||||||||||3ph0b|Lothringen, Leopold Joseph, Herzog von
-Q21415804|Mansfeld-Bornstedt, Karl Franz Adam Anton, Fürst von|Mansfeld-Bornstedt, Karl Franz Adam Anton, prince de|0|||||||||||3ph0c|Mansfeld-Bornstedt, Karl Franz Adam Anton, Fürst von
-Q1256302|Prior, Matthew|Prior, Matthew|0|||||||||||3ph0g|Prior, Matthew
-Q12022369|Questenberg, Johann Adam, Graf von|Questenberg, Johann Adam, comte de|0|||||||||||3ph0h|Questenberg, Johann Adam, Graf von
-Q1176325|Richter der Ältere, David|Richter, David, l’Ancien|0|||||||||||3ph0j|Richter der Ältere, David
-Q113728928|Seiglière de Bois Franc, Joachim|Seiglière de Bois Franc, Joachim|0|||||||||||3qwgs|Seiglière de Bois Franc, Joachim
-Q3372453|Saint-Aignan, Paul de Beauvilliers, Herzog von|Saint-Aignan, Paul de Beauvilliers, duc de|0|||||||||||3ph0p|Saint-Aignan, Paul de Beauvilliers, Herzog von
-Q349377|Van der Meulen, Adam Frans|Van der Meulen, Adam Frans|0|||||||||||3ph0r|Van der Meulen, Adam Frans
-Q453571|Villeroy, François de Neufville, Herzog von|Villeroy, François de Neufville, duc de|0|||||||||||3qwgq|Villeroy, François de Neufville, Herzog von
-Q113729074|Cascais, Luís Álvares de Castro, Markgraf von|Cascais, Luís Álvares de Castro, marquis de|0|||||||||||3ph0t|Cascais, Luís Álvares de Castro, Markgraf von
-Q696637|Croÿ, Charles-Eugène, Herzog von|Croÿ, Charles-Eugène, duc de|0|||||||||||3ph0v|Croÿ, Charles-Eugène, Herzog von
-Q65139|Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Christian II., Pfalzgraf von|Deux-Ponts-Birkenfeld-Bischwiller, Christian II, comte palatin et duc de|0|||||||||||3ph0x|Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Christian II., Pfalzgraf von
-Q61966|Pfalz-Zweibrücken, Christian III., Pfalzgraf von Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Herzog von|Palatinat-Deux-Ponts, Christian III, comte palatin et duc du|0|||||||||||3ph0z|Pfalz-Zweibrücken, Christian III., Pfalzgraf von Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Herzog von
-Q22915824|Harrach, Ferdinand Bonaventura, Graf von|Harrach, Ferdinand Bonaventure, comte de|0|||||||||||3ph12|Harrach, Ferdinand Bonaventura, Graf von
-Q76722|Maximilian Heinrich von Wittelsbach, Herzog von Bayern|Maximilien-Henri de Wittelsbach, duc de Bavière|0|||||||||||3q1jg|Maximilian Heinrich von Wittelsbach, Herzog von Bayern
-Q716278|Ruse, Hendrik, Baron von Rysensteen|Ruse, Hendrik, baron de Rysensteen|0|||||||||||3q1jh|Ruse, Hendrik, Baron von Rysensteen
-Q80847|Alba, Fernando Alvarez de Toledo, Herzog von|Albe, Fernando Álvarez de Tolède, duc d’|0|||||||||||3q1jk|Alba, Fernando Alvarez de Toledo, Herzog von
-Q1753432|Duval, Robbert|Duval, Robbert|0|||||||||||3q1jm|Duval, Robbert
-Q2424907|Bronckhorst, Jan Gerritsz van|Van Bronckhorst, Jan Gerritsz|0|||||||||||3q1jq|Bronckhorst, Jan Gerritsz van
-Q150862|Maximilian II. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation|Maximilien II, empereur du Saint-Empire|0|||||||||||3q1jr|Maximilian II. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation
-Q71734|Galen, Johan (Jan) van|Van Galen, Johan dit Jan|0|||||||||||3q1js|Galen, Johan (Jan) van
-Q1445768|Platen-Hallermund, Franz Ernst von|Platen-Hallermund, Franz Ernst von|0|||||||||||3q1jt|Platen-Hallermund, Franz Ernst von
-Q536951|Campen, Jacob van|Van Campen, Jacob|0|||||||||||3q1jv|Campen, Jacob van
-Q651461|Quellinus der Ältere, Artus|Quellinus, Artus, l’Ancien|0|||||||||||3q1jw|Quellinus der Ältere, Artus
-Q715727|Quellinus der Jüngere, Artus|Quellinus, Artus, le Jeune|0|||||||||||3q1pf|Quellinus der Jüngere, Artus
-Q359270|Boullogne der Ältere, Louis de,|Boullogne, Louis de, le père|0|||||||||||3q1k1|Boullogne, Louis de, le père
-Q2617951|Boullogne der Jüngere, Louis de|Boullogne, Louis de, le Jeune|0|||||||||||3q1vn|Boullogne der Jüngere, Louis de
-Q3382851|Lemoine, Pierre-Antoine|Lemoine, Pierre-Antoine|0|||||||||||3q1k2|Lemoine, Pierre-Antoine
-Q2983846|Romanelli, Giovanni Francesco|Romanelli, Giovanni Francesco|0|||||||||||3q1k6|Romanelli, Giovanni Francesco
-Q15967101|Pussort, Henri|Pussort, Henri|0|||||||||||3q1k7|Pussort, Henri
-Q604526|Raggi, Antonio|Raggi, Antonio|0|||||||||||3q1kb|Raggi, Antonio
-Q550401|Flinck, Govert|Flinck, Govert|0|||||||||||3q1kf|Flinck, Govert
-Q281608|Quen, Jean de|Quen, Jean de|0|||||||||||3q1kg|Quen, Jean de
-Q430783|Lievens, Jan|Lievens, Jan|0|||||||||||3q1kh|Lievens, Jan
-Q314548|Honthorst, Gerrit van|Van Honthorst, Gerrit|0|||||||||||3q1kj|Honthorst, Gerrit van
-Q1386569|Wassenaer Obdam, Jacob van|Van Wassenaer Obdam, Jacob|0|||||||||||3q1kn|Wassenaer Obdam, Jacob van
-Q336463|Portland, Hans Willem Bentinck, Graf von|Portland, Hans Willem Bentinck, comte de|0|||||||||||3q1kq|Portland, Hans Willem Bentinck, Graf von
-Q164062|Nassau-Dillenburg, Moritz, Fürst von Oranien, Graf von|Maurice de Nassau, prince d’Orange|0|||||||||||3q1ks|Nassau-Dillenburg, Moritz, Fürst von Oranien, Graf von
-Q2107767|Valck, Gerard|Valck, Gerard|0|||||||||||3q1kv|Valck, Gerard
-Q470200|Tromp, Maarten Harpertszoon|Tromp, Maarten Harpertszoon|0|||||||||||3q1kw|Tromp, Maarten Harpertszoon
-Q560774|Heyn, Piet Pieterszoon|Heyn, Piet Pieterszoon|0|||||||||||3q1kx|Heyn, Piet Pieterszoon
-Q43522|Leeuwenhoek, Antoni van|Van Leeuwenhoek, Antoni|0|||||||||||3q1kz|Leeuwenhoek, Antoni van
-Q864173|Vliet, Hendrick Cornelisz van|Van Vliet, Hendrick Cornelisz|0|||||||||||3q1m0|Vliet, Hendrick Cornelisz van
-Q695748|With, Witte Corneliszoon de|De With, Witte Corneliszoon|0|||||||||||3q1m1|With, Witte Corneliszoon de
-Q68304|Braunschweig-Lüneburg, Erik II. von|Brunswick-Calenberg-Göttingen, Éric II de|0|||||||||||3q1m3|Braunschweig-Lüneburg, Erik II. von
-Q13479703|Crabeth, Dirck Pietersz|Crabeth, Dirck Pietersz|0|||||||||||3q1m4|Crabeth, Dirck Pietersz
-Q1349800|Crabeth, Wouter Pietersz|Crabeth, Wouter Pietersz|0|||||||||||3q1m5|Crabeth, Wouter Pietersz
-Q433522|Beverningh, Hieronymus van|Van Beverningh, Hieronymus|0|||||||||||3q1m6|Beverningh, Hieronymus van
-Q560731|Coehoorn, Menno van|Van Coehoorn, Menno|0|||||||||||3q1m7|Coehoorn, Menno van
-Q336798|Algardi, Alessandro|Algardi, Alessandro, dit l’Algarde|0|||||||||||3q1mc|Algardi, Alessandro
-Q1367872|Francheville ou Franqueville, Pierre de|Francheville ou Franqueville, Pierre de|0|||||||||||3q1md|Francheville ou Franqueville, Pierre de
-Q297483|Medici, Ferdinando I. de’, Großherzog der Toskana|Médicis, Ferdinand Ier, grand-duc de|0|||||||||||3q1mf|Medici, Ferdinando I. de’, Großherzog der Toskana
-Q385092|Caus, Salomon de|Caus, Salomon de|0|||||||||||3q1mj|Caus, Salomon de
-Q3093832|Le Duc, Gabriel|Le Duc, Gabriel|0|||||||||||3q1mm|Le Duc, Gabriel
-Q1508985|Lallemant, Georges|Lallemant, Georges|0|||||||||||3q1mn|Lallemant, Georges
-Q3160306|Létin, Jacques de (oder Jacques Ninet de Lestin)|Létin, Jacques de (ou Jacques Ninet de Lestin)|0|||||||||||3q1mp|Létin, Jacques de (oder Jacques Ninet de Lestin)
-Q2976703|Vignon, Claude-François|Vignon, Claude-François|0|||||||||||3q1n4|Vignon, Claude-François
-Q3263167|Testelin, Louis|Testelin, Louis|0|||||||||||3q1ms|Testelin, Louis
-Q37726359|Heince, Zacharie|Heince, Zacharie|0|||||||||||3q1mt|Heince, Zacharie
-Q28017151|Villequin, Étienne|Villequin, Étienne|0|||||||||||3q1mv|Villequin, Étienne
-Q42303843|Dudot, René|Dudot, René|0|||||||||||3q1mw|Dudot, René
-Q2854302|Paillet, Antoine|Paillet, Antoine|0|||||||||||3q1mx|Paillet, Antoine
-Q3014148|Hallé, Daniel|Hallé, Daniel|0|||||||||||3q1mz|Hallé, Daniel
-Q3524926|Blanchet, Thomas|Blanchet, Thomas|0|||||||||||3q1n0|Blanchet, Thomas
-Q75585010|Sorlay, Jérôme|Sorlay, Jérôme|0|||||||||||3q1n1|Sorlay, Jérôme
-Q3340961|Plattenberg, Nicolas van|Plattemontagne, Nicolas de|0|||||||||||3q1n2|Plattenberg, Nicolas van
-Q3164509|Champaigne, Jean-Baptiste de|Champaigne, Jean-Baptiste de|0|||||||||||3q1n3|Champaigne, Jean-Baptiste de
-Q3093634|Blanchard, Gabriel|Blanchard, Gabriel|0|||||||||||3q1n5|Blanchard, Gabriel
-Q78042940|Cani, Jean-Baptiste de|Cani, Jean-Baptiste de|0|||||||||||3q1n6|Cani, Jean-Baptiste de
-Q283290|Corneille der Jüngere, Michel|Corneille, Michel, le Jeune|0|||||||||||3q1n7|Corneille der Jüngere, Michel
-Q5128686|Audran der Jüngere, Claude|Audran, Claude, le Jeune|0|||||||||||3q1n8|Audran der Jüngere, Claude
-Q56820|Verdier, François|Verdier, François|0|||||||||||3q1nb|Verdier, François
-Q3163977|Corneille, Jean-Baptiste|Corneille, Jean-Baptiste|0|||||||||||3q1nc|Corneille, Jean-Baptiste
-Q3171443|Cotelle der Jüngere, Jean|Cotelle, Jean, le Jeune|0|||||||||||3q1nd|Cotelle der Jüngere, Jean
-Q219277|Ubeleski, Alexandre|Ubelesqui, Alexandre|0|||||||||||3q1nf|Ubeleski, Alexandre
-Q592049|Poerson, Charles-François|Poerson, Charles-François|0|||||||||||3q1ng|Poerson, Charles-François
-Q1118436|Hallé, Claude-Guy|Hallé, Claude-Guy|0|||||||||||3q1nj|Hallé, Claude-Guy
-Q3261535|Chéron, Louis|Chéron, Louis|0|||||||||||3q1nk|Chéron, Louis
-Q17483904|Vernansal, Guy-Louis|Vernansal, Guy-Louis|0|||||||||||3q1nm|Vernansal, Guy-Louis
-Q28951922|Guillebault, Simon|Guillebault, Simon|0|||||||||||3q1nn|Guillebault, Simon
-Q781910|Vuez, Arnould de|Vuez, Arnould de|0|||||||||||3q1np|Vuez, Arnould de
-Q1366812|Parrocel, Joseph|Parrocel, Joseph|0|||||||||||3q1nq|Parrocel, Joseph
-Q3184760|Christophe, Joseph|Christophe, Joseph|0|||||||||||3q1nr|Christophe, Joseph
-Q375783|Vivien, Joseph|Vivien, Joseph|0|||||||||||3q1ns|Vivien, Joseph
-Q28017173|Marot, François|Marot, François|0|||||||||||3q1nt|Marot, François
-Q52222519|Tavernier, François|Tavernier, François|0|||||||||||3q1nv|Tavernier, François
-Q1232749|Troy, François de|Troy, François de|0|||||||||||3q1nw|Troy, François de
-Q44281|Ignatius von Loyola, Heiliger|Ignace de Loyola, saint|0|||||||||||3q1nz|Ignatius von Loyola, Heiliger
-Q540489|Volterra, Daniele Ricciarelli, genannt Daniele da|Volterra, Daniele Ricciarelli, dit Daniele da|0|||||||||||3q1p0|Volterra, Daniele Ricciarelli, genannt Daniele da
-Q2959410|La Vieuville, Charles, Herzog von|La Vieuville, Charles, duc de|0|||||||||||3q1p1|La Vieuville, Charles, Herzog von
-Q356952|Montmorency, Anne de|Montmorency, Anne de|0|||||||||||3q1p2|Montmorency, Anne de
-Q2789640|Longueville, Henri I. von Orléans, Herzog von|Longueville, Henri Ier d’Orléans, duc de|0|||||||||||3q1p3|Longueville, Henri I. von Orléans, Herzog von
-Q1805696|Leclerc, Sébastien|Leclerc, Sébastien|0|||||||||||3q1p4|Leclerc, Sébastien
-Q15281423|Adriaenssens, Vincent, genannt II Manciola oder le Manchole|Adriaenssens, Vincent, dit Il Manciola ou le Manchole|0|||||||||||3q1p5|Adriaenssens, Vincent, genannt II. Manciola oder le Manchole
-Q3764209|Sève, Gilbert de|Sève, Gilbert de|0|||||||||||3q1p6|Sève, Gilbert de
-Q552088|Guérin, Gilles|Guérin, Gilles|0|||||||||||3q1p7|Guérin, Gilles
-Q2093685|Le Gros der Jüngere, Pierre|Legros, Pierre, le Jeune|0|||||||||||3q1p8|Le Gros der Jüngere, Pierre
-Q57628|Wittelsbach, Maximilian II. Emanuel von, Kurfürst von Bayern|Wittelsbach, Maximilien II Emmanuel de, prince-électeur de Bavière|0|||||||||||3q1p9|Wittelsbach, Maximilian II. Emanuel von, Kurfürst von Bayern
-Q625228|Quellinus der Jüngere, Erasmus|Quellinus le Jeune, Erasmus|0|||||||||||3q1pb|Quellinus der Jüngere, Erasmus
-Q2762452|Willemssens, Louis|Willemssens, Louis|0|||||||||||3q1pc|Willemssens, Louis
-Q5526552|Verbruggen der Ältere, Gaspar Peeter|Verbruggen, Gaspar Pieter, l’Aîné|0|||||||||||3q1pd|Verbruggen der Ältere, Gaspar Peeter
-Q592396|Schut, Cornelis|Schut, Cornelis|0|||||||||||3q1ph|Schut, Cornelis
-Q19288490|Capello, Ambroise|Capello, Ambroise|0|||||||||||3q1pm|Capello, Ambroise
-Q76491|Galen, Christoph Bernhard von|Galen, Christoph Bernhard von|0|||||||||||3q1pn|Galen, Christoph Bernhard von
-Q1505758|Rimpler, Georg|Rimpler, Georg|0|||||||||||3q1pp|Rimpler, Georg
-Q2267383|Gastañaga, Francisco Antonio de Agurto, Markgraf von|Gastañaga, Francisco Antonio de Agurto, marquis de|0|||||||||||3q1pr|Gastañaga, Francisco Antonio de Agurto, Markgraf von
-Q333388|Bart, Jean|Bart, Jean|0|||||||||||3q1ps|Bart, Jean
-Q5585|Giocondo, Fra Giovanni|Giocondo, Fra Giovanni|0|||||||||||3q1pw|Giocondo, Fra Giovanni
-Q276010|Poitiers, Diane de, Herzogin von Valentinois|Poitiers, Diane de, duchesse de Valentinois|0|||||||||||3q1px|Poitiers, Diane de, Herzogin von Valentinois
-Q437295|Leopold Wilhelm, Erzherzog von Österreich|Léopold-Guillaume, archiduc d’Autriche|0|||||||||||3q1pz|Leopold Wilhelm, Erzherzog von Österreich
-Q329088|Padovano, Giovanni da Cavino, genannt il|Padouan, Giovanni da Cavino, dit le|0|||||||||||3qwgw|Padovano, Giovanni da Cavino, genannt il
-Q177046|Montgomery, Gabriel de Lorges, Graf von|Montgommery, Gabriel de Lorges, comte de|0|||||||||||3q1q1|Montgomery, Gabriel de Lorges, Graf von
-Q433841|Sacrobosco, Johannes de|Sacro Bosco, Johannes de|0|||||||||||3q1q3|Sacrobosco, Johannes de
-Q33941|Julian Apostata, Kaiser des Römischen Reichs|Julien, empereur romain|0|||||||||||3q1q4|Julian Apostata, Kaiser des Römischen Reichs
-Q3761141|Germano di Capua|Germain, saint|0|||||||||||3q1q5|Germano di Capua
-Q321434|Verneuil, Henri von Bourbon, Herzog von|Verneuil, Henri de Bourbon, duc de|0|||||||||||3q1q6|Verneuil, Henri von Bourbon, Herzog von
-Q3263398|Vermandois, Louis von Bourbon, Graf von|Vermandois, Louis de Bourbon, comte de|0|||||||||||3q1q7|Vermandois, Louis von Bourbon, Graf von
-Q266337|Desmarets de Saint-Sorlin, Jean|Desmarets de Saint-Sorlin, Jean|0|||||||||||3q1q9|Desmarets de Saint-Sorlin, Jean
-Q1881019|Dangeau, Philippe de Courcillon, Markgraf von|Dangeau, Philippe de Courcillon, marquis de|0|||||||||||3q1qb|Dangeau, Philippe de Courcillon, Markgraf von
-Q1405|Augustus, Kaiser des Römischen Reichs|Auguste, empereur romain|0|||||||||||3q1qc|Augustus, Kaiser des Römischen Reichs
-Q1413|Nero, Kaiser des Römischen Reichs|Néron, empereur romain|0|||||||||||3q1qd|Nero, Kaiser des Römischen Reichs
-Q1425|Trajan, Kaiser des Römischen Reichs|Trajan, empereur romain|0|||||||||||3q1vt|Trajan, Kaiser des Römischen Reichs
-Q239448|Pompeia Plotina, Kaiserin des Römischen Reichs|Plotine, impératrice romaine|0|||||||||||3q1vs|Pompeia Plotina, Kaiserin des Römischen Reichs
-Q48174|Agrippa, Marcus Vipsanius|Agrippa, Marcus Vipsanius|0|||||||||||3q1vq|Agrippa, Marcus Vipsanius
-Q7226|Johanna von Orléans, Heilige|Jeanne d’Arc|0|||||||||||3q1qf|Johanna von Orléans, Heilige
-Q126188|Jakob II. Stuart, König von England|Jacques II, roi d’Angleterre|0|||||||||||3q1qg|Jakob II. Stuart, König von England
-Q232475|Maria Beatrice von Modena, Königin von England|Marie de Modène, reine d’Angleterre|0|||||||||||3q1vz|Maria Beatrice von Modena, Königin von England
-Q211681|Stuart, James Francis Edward, Prince of Wales, genannt the Old Pretender|Jacques Édouard Stuart, prince de Galles, dit the Old Pretender|0|||||||||||3q1vx|Stuart, James Francis Edward, Prince of Wales, genannt the Old Pretender
-Q316827|Boufflers, Louis-François, Herzog von|Boufflers, Louis-François, duc de|0|||||||||||3q1qk|Boufflers, Louis-François, Herzog von
-Q39576|Ptolemaios II. Philadelphos, Pharao|Ptolémée II Philadelphe, pharaon|0|||||||||||3q1qm|Ptolemaios II. Philadelphos, Pharao
-Q68601|Schaumburg-Lippe, Friedrich Christian, Graf zu|Schaumbourg-Lippe, Frédéric-Christian, comte de|0|||||||||||3q1qn|Schaumburg-Lippe, Friedrich Christian, Graf zu
-Q1280342|Armagnac, Ludwig von Lothringen, Graf von|Armagnac, Louis de Lorraine, comte d’|0|||||||||||3q1qp|Armagnac, Ludwig von Lothringen, Graf von
-Q70876|Fürstenberg-Heiligenberg, Wilhelm Egon, Graf von, genannt Kardinal von Fürstenberg|Fürstenberg-Heiligenberg, Guillaume-Egon, comte de|0|||||||||||3q1qq|Fürstenberg-Heiligenberg, Wilhelm Egon, Graf von, genannt Kardinal von Fürstenberg
-Q179307|Fürstenberg-Heiligenberg, Anton Egon, Landgraf von|Fürstenberg-Heiligenberg, Anton Egon, landgrave de|0|||||||||||3q1th|Fürstenberg-Heiligenberg, Anton Egon, Landgraf von
-Q268349|Marguerite Louise von Orléans, Großherzogin der Toskana|Marguerite-Louise d’Orléans, grande-duchesse de Toscane|0|||||||||||3q1qv|Marguerite Louise von Orléans, Großherzogin der Toskana
-Q133372|Karl VII. von Valois, König von Frankreich|Charles VII, roi de France|0|||||||||||3q1qw|Karl VII. von Valois, König von Frankreich
-Q48115|Fulko IV., Graf von Anjou, genannt der Zänker oder der Griesgram|Foulques IV, comte d’Anjou, dit le Réchin ou le Querelleur|0|||||||||||3q1qx|Fulko IV., Graf von Anjou, genannt der Zänker oder der Griesgram
-Q58907|Philipp I., König von Frankreich|Philippe Ier, roi de France|0|||||||||||3q1r1|Philipp I., König von Frankreich
-Q30578|Urban II.|Urbain II|0|||||||||||3q1r3|Urban II.
-Q170353|Anjou, René I., Herzog von|René Ier, duc d’Anjou|0|||||||||||3q1r4|Anjou, René I., Herzog von
-Q459771|Laval, Jeanne de|Laval, Jeanne de|0|||||||||||3q1r5|Laval, Jeanne de
-Q352462|Bretagne, François II., Herzog der|Bretagne, François II, duc de|0|||||||||||3q1r6|Bretagne, François II., Herzog der
-Q1002546|Bretagne, Marguerite de Foix, Herzogin der|Bretagne, Marguerite de Foix, duchesse de|0|||||||||||3q1r7|Bretagne, Marguerite de Foix, Herzogin der
-Q2960611|La Meilleraye, Charles de La Porte, Herzog von|La Meilleraye, Charles de La Porte, duc de|0|||||||||||3q1rb|La Meilleraye, Charles de La Porte, Herzog von
-Q5461814|Raemond, Florimond de|Raemond, Florimond de|0|||||||||||3q1rd|Raemond, Florimond de
-Q8413|Konstantin I., Kaiser des Römischen Reichs, genannt Konstantin der Große|Constantin Ier, empereur romain, dit Constantin le Grand|0|||||||||||3q1rg|Konstantin I., Kaiser des Römischen Reichs, genannt Konstantin der Große
-Q182070|Maxentius, Kaiser des römischen Reichs|Maxence, empereur romain|0|||||||||||3q1rh|Maxentius, Kaiser des römischen Reichs
-Q972075|Bénézet von Avignon, auch hl. Bénézet genannt|Bénézet d’Avignon, saint|0|||||||||||3q1rj|Bénézet von Avignon, auch hl. Bénézet genannt
-Q441066|Scaliger, Julius Caesar|Scaliger, Jules César|0|||||||||||3q1rk|Scaliger, Julius Caesar
-Q714362|Montmorency, Henri II. von|Montmorency, Henri II de|0|||||||||||3q1rm|Montmorency, Henri II. von
-Q512156|Saturninus von Toulouse, Heiliger|Saturnin de Toulouse dit saint Sernin|0|||||||||||3q1rn|Saturninus von Toulouse, Heiliger
-Q714166|Riquet, Pierre-Paul de|Riquet, Pierre-Paul de|0|||||||||||3q1rp|Riquet, Pierre-Paul de
-Q104538269|Riquet de Bonrepos, Jean-Matthias|Riquet de Bonrepos, Jean-Matthias|0|||||||||||3q1rq|Riquet de Bonrepos, Jean-Matthias
-Q132711|Paul V.|Paul V|0|||||||||||3q1rr|Paul V.
-Q234593|Ausonius, Decimus Magnus|Ausone|0|||||||||||3q1rs|Ausonius, Decimus Magnus
-Q1383483|Trophimus von Arles, Heiliger|Trophime d’Arles ou saint Trophime|0|||||||||||3q1rt|Trophimus von Arles, Heiliger
-Q39978|Nostradamus, Michel de Nostredame, genannt|Nostradamus, Michel de Nostredame, dit|0|||||||||||3q1rw|Nostradamus, Michel de Nostredame, genannt
-Q177975|Marius, Gaius|Marius, Gaius|0|||||||||||3q1rz|Marius, Gaius
-Q63070|Maria Magdalena|Marie-Madeleine, sainte|0|||||||||||3q1s1|Maria Magdalena
-Q203829|Karl I. von Anjou, König von Neapel und Sizilien|Charles Ier d’Anjou, roi de Naples et de Sicile|0|||||||||||3q1s2|Karl I. von Anjou, König von Neapel und Sizilien
-Q170863|Clemens VI.|Clément VI|0|||||||||||3q1s5|Clemens VI.
-Q170389|Benedikt XII.|Benoît XII|0|||||||||||3q1s6|Benedikt XII.
-Q165568|Johannes XXII.|Jean XXII|0|||||||||||3q1s7|Johannes XXII.
-Q160609|Innozenz IV.|Innocent IV|0|||||||||||3q1s8|Innozenz IV.
-Q80516|Julius II.|Jules II|0|||||||||||3q1s9|Julius II.
-Q169594|Gregor XI.|Grégoire XI|0|||||||||||3q1sb|Gregor XI.
-Q133046|Urban V.|Urbain V|0|||||||||||3q1sc|Urban V.
-Q169288|Innozenz VI.|Innocent VI|0|||||||||||3q1sd|Innozenz VI.
-Q133704|Martin von Tours, Heiliger|Martin de Tours, saint|0|||||||||||3q1sf|Martin von Tours, Heiliger
-Q166023|Berwick, James Fitzjames, Herzog von|Berwick, Jacques Fitz-James, duc de|0|||||||||||3q1sg|Berwick, James Fitzjames, Herzog von
-Q586595|Lamothe-Cadillac, Antoine de|Lamothe-Cadillac, Antoine de|0|||||||||||3qwb0|Lamothe-Cadillac, Antoine de
-Q185770|Poseidonios|Posidonius|0|||||||||||3qwb2|Poseidonios
-Q86957|Schönborn, Johann Philipp Franz von|Schönborn, Johann Philipp Franz von|0|||||||||||3qwb4|Schönborn, Johann Philipp Franz von
-Q113729400|Froimont, Johann Clemens|Froimont, Jean Clemens|0|||||||||||3qwb6|Froimont, Johann Clemens
-Q84507|Hildebrandt, Johann Lucas von|Hildebrandt, Johann Lukas von|0|||||||||||3qwb7|Hildebrandt, Johann Lucas von
-Q62594|Pfalz, Karl III. Philipp von der, Kurfürst von der Pfalz|Palatinat, Charles III Philippe du, prince-électeur du Palatinat|0|||||||||||3qwb8|Pfalz, Karl III. Philipp von der, Kurfürst von der Pfalz
-Q113729525|Zeller, Sigismund|Zeller, Sigismund|0|||||||||||3qwb9|Zeller, Sigismund
-Q94799001|Curé, Claude|Curé, Claude|0|||||||||||3qwbc|Curé, Claude
-Q69886|Schönborn-Buchheim, Damian Hugo Philipp von|Schönborn-Buchheim, Damian Hugo Philipp von|0|||||||||||3qwbd|Schönborn-Buchheim, Damian Hugo Philipp von
-Q112052623|Seitz, Johann Georg|Seitz, Johann Georg|0|||||||||||3qwbf|Seitz, Johann Georg
-Q88651|Welsch, Johann Maximilian von|Welsch, Johann Maximilian von|0|||||||||||3qwbj|Welsch, Johann Maximilian von
-Q677590|Rohan-Soubise, Armand-Gaston-Maximilien de, genannt Cardinal de Rohan|Rohan-Soubise, Armand-Gaston-Maximilien de, dit le Cardinal de Rohan|0|||||||||||3qwbm|Rohan-Soubise, Armand-Gaston-Maximilien de, genannt Cardinal de Rohan
-Q817620|Metzler, Benjamin|Metzler, Benjamin|0|||||||||||3qwbn|Metzler, Benjamin
-Q547389|Chelleri, Fortunato|Chelleri, Fortunato|0|||||||||||3qwbq|Chelleri, Fortunato
-Q71715|Schönborn, Lothar Franz von, Kurfürst von Mainz|Schönborn, Lothar Franz von, prince-électeur de Mayence|0|||||||||||3qwbt|Schönborn, Lothar Franz von, Kurfürst von Mainz
-Q11689912|La Bonde, Charles-François d’Iberville, Markgraf von|La Bonde, Charles-François d’Iberville, marquis de|0|||||||||||3qwbv|La Bonde, Charles-François d’Iberville, Markgraf von
-Q86917|Ritter zu Groenesteyn, Anselm Franz von|Ritter zu Groenesteyn, Anselm Franz von|0|||||||||||3qwbz|Ritter zu Groenesteyn, Anselm Franz von
-Q1311013|Boffrand, Germain|Boffrand, Germain|0|||||||||||3qwc0|Boffrand, Germain
-Q1361902|Erthal, Philipp Christoph von und zu|Erthal, Philipp Christoph von und zu|0|||||||||||3qwc1|Erthal, Philipp Christoph von und zu
-Q1666457|Jamerey-Duval, Valentin|Jamerey-Duval, Valentin|0|||||||||||3qwc6|Jamerey-Duval, Valentin
-Q95007514|Fichtel, Franz Ludwig von|Fichtel, Franz Ludwig von|0|||||||||||3qwc7|Fichtel, Franz Ludwig von
-Q455392|Condé, Louis IV. Henri von Bourbon, Prince de, genannt Monsieur le Duc|Condé, Louis IV Henri, prince de, dit Monsieur le Duc|0|||||||||||3qwcx|Condé, Louis IV. Henri von Bourbon, Prince de, genannt Monsieur le Duc
-Q542800|Dubois, Guillaume|Dubois, Guillaume|0|||||||||||3qwd1|Dubois, Guillaume
-Q1373528|Bérain der Ältere, Jean|Bérain, Jean, le père|0|||||||||||3qwdg|Bérain der Ältere, Jean
-Q2909823|Boullogne, Bon de|Boullogne, Bon de|0|||||||||||3qwf3|Boullogne, Bon de
-Q68675|Zeiller, Martin|Zeiller, Martin|0|||||||||||3qwf7|Zeiller, Martin
-Q201315|Quevedo y Villegas, Francisco de|Quevedo y Villegas, Francisco de|0|||||||||||3qwf8|Quevedo y Villegas, Francisco de
-Q130812|Maria II., Königin von England|Marie II, reine d’Angleterre|0|||||||||||3qwfb|Maria II., Königin von England
-Q520327|Blaeu, Willem Janszoon|Blaeu, Willem Janszoon|0|||||||||||3qwfg|Blaeu, Willem Janszoon
-Q29348142|Tetius, Hieronymus, auch Girolamo Tezi genannt|Tetius, Hieronymus (Girolamo Tezi)|0|||||||||||3qwfk|Tetius, Hieronymus, auch Girolamo Tezi genannt
-Q644635|Orléans, Gaston, Herzog von|Orléans, Gaston, duc d’|0|||||||||||3qwfm|Orléans, Gaston, Herzog von
-Q3439598|Saint-Lary, Roger II. de, Herzog von Bellegarde|Saint-Lary, Roger II de, duc de Bellegarde|0|||||||||||3qwfn|Saint-Lary, Roger II. de, Herzog von Bellegarde
-Q156190|Peter II., König von Portugal|Pierre II, roi de Portugal|0|||||||||||3qwfq|Peter II., König von Portugal
-Q3340156|Sillery, Nicolas Brûlart, Markgraf von|Sillery, Nicolas Brûlart, marquis de|0|||||||||||3qwfr|Sillery, Nicolas Brûlart, Markgraf von
-Q564766|Noailles, Anne-Jules, Herzog von|Noailles, Anne-Jules, duc de|0|||||||||||3qwfs|Noailles, Anne-Jules, Herzog von
-Q444087|Condé, Henri Jules von Bourbon, Prince de|Condé, Henri Jules de Bourbon, prince de|0|||||||||||3qwft|Condé, Henri Jules von Bourbon, Prince de
-Q216946|Borromäus, Karl, Heiliger|Borromée, Charles, saint|0|||||||||||3vv9n|Borromäus, Karl, Heiliger
-Q349086|Leopold III., genannt der Heilige|Léopold III, dit le Pieux|0|||||||||||3vvb1|Leopold III., genannt der Heilige
-Q179718|Katharina von Alexandrien, Heilige|Catherine d’Alexandrie, sainte|0|||||||||||3vvbf|Katharina von Alexandrien, Heilige
-Q848615|Henriette Marie de France, Königin von England, Schottland und Irland|Henriette-Marie de France, reine d’Angleterre|0|||||||||||3vvbp|Henriette Marie de France, Königin von England, Schottland und Irland
-Q23696|Stevin, Simon|Stevin, Simon|0|||||||||||3vv9v|Stevin, Simon
-Q312057|Kasimir, Heiliger|Casimir, saint|0|||||||||||3vvbk|Kasimir, Heiliger
-Q44344|Hilarius von Poitiers|Saint-Hilaire|0|||||||||||3w3hn|Hilarius von Poitiers
-Q102810|Stöhrer, Walter||0|||11573|Stöhrer, Walter||||||||
-Q102810|||0|||16488|Stohrer, Walter||||||||
-Q104502382|||0|||21597|Lévêque, Jean-Jacques (abbé)||||||||
-Q104502382|Levêque, Jean-Jacques||0|||11501|Levêque, Jean-Jacques||||||||
-Q107876|Schneckenburger, Manfred||0|||13523|Schneckenburger, Manfred||||||||
-Q1084292|||0|||16554|Kohlhöfer, Chris||||||||
-Q1084292|Kohlhöfer, Christof||0|||16565|Kohlhöfer, Christof||||||||
-Q1098860|Weidensdorfer, Claus||0|||17614|Weidensdorfer, Claus||||||||
-Q1098860|||0|||13611|Weidensdorfer, Klaus||||||||
-Q111902|Iden, Peter||0|||12076|Iden, Peter||||||||
-Q11696858|Nożko-Paprocka, Emilia||0|||16898|Nożko-Paprocka, Emilia||||||||
-Q11696858|||0|||17298|Nozko-Paprocka, Emilia||||||||
-Q11717711|Hryńkowski, Jan||0|||17442|Hryńkowski, Jan||||||||
-Q11717711|||0|||20615|Hrynkowski, Jan||||||||
-Q11719829|Kraupe-Swiderska, Janina||0|||10211|Kraupe-Swiderska, Janina||||||||
-Q11719829|||0|||13849|Kraupe, Janina||||||||
-Q11720215|Kaczmarski, Janusz||0|||11228|Kaczmarski, Janusz||||||||
-Q11720901|Kozłowski, Jarosław||0|||11748|Kozłowski, Jarosław||||||||
-Q11720901|||0|||20949|Kozlowski, Jaroslaw||||||||
-Q11729310|Krajewski, Juliusz||0|||18460|Krajewski, Juliusz||||||||
-Q11753467|Grabowski, Lech||0|||18463|Grabowski, Lech||||||||
-Q1241215|Monkiewitsch, Lienhard von||0|||16534|Monkiewitsch, Lienhard von||||||||
-Q1241215|||0|||12556|von Monkiewitsch, Lienhardt||||||||
-Q1277977|Rudolph, Paul||0|||10998|Rudolph, Paul||||||||
-Q1279401|Allen, Terry||0|||15906|Allen, Terry||||||||
-Q1279401|||0|||19436|Allan, Terry||||||||
-Q1299882|||0|||21676|Giese, Rainer||||||||
-Q1299882|Giese, Imi||0|||14965|Giese, Imi||||||||
-Q1318940|||0|||19093|Noel, Georges||||||||
-Q1318940|Noël, Georges||0|||18289|Noël, Georges||||||||
-Q132684|Perse, Saint-John||0|||16009|Perse, Saint-John||||||||
-Q132684|||0|||200022|Saint-John Perse, Saint-John Perse||||||||
-Q1349858|Fałat, Julian||0|||17438|Fałat, Julian||||||||
-Q1349858|||0|||20634|Falat, Julian||||||||
-Q13693620|||0|||16533|Bottger, Klaus||||||||
-Q13693620|Böttger, Klaus||0|||15153|Böttger, Klaus||||||||
-Q1376927|Bernhard, Franz||0|||18116|Bernhard, Franz||||||||
-Q1379073|||0|||16392|Schon, Eva Maria||||||||
-Q1379073|||0|||12429|Schoen, Eva-Maria||||||||
-Q1379073|Schön, Eva Maria||0|||19269|Schön, Eva Maria||||||||
-Q1487092|Broniatowski, Karol||0|||18134|Broniatowski, Karol||||||||
-Q1510594|||0|||11076|Jaegers, Gerd||||||||
-Q1510594|Jaeger, Gerd||0|||12524|Jaeger, Gerd||||||||
-Q1548997|||0|||14018|Fischer, Klaus Jürgen||||||||
-Q1548997|Jürgen-Fischer, Klaus||0|||10674|Jürgen-Fischer, Klaus||||||||
-Q1581268|Mayer-Foreyt, Hans||0|||15617|Mayer-Foreyt, Hans||||||||
-Q159099|||0|||13273|Hagen, Catharina||||||||
-Q159099|Hagen, Nina||0|||16282|Hagen, Nina||||||||
-Q1603578|Goettl, Helmut||0|||15309|Goettl, Helmut||||||||
-Q1603578|||0|||13614|Göttl, Helmut||||||||
-Q160619|Garaudy, Roger||0|||11722|Garaudy, Roger||||||||
-Q160619|||0|||21660|Garaudy, René||||||||
-Q16159276|||0|||12785|Aleksiun, Jan||||||||
-Q16159276|Aleksiun, Jan Jaromir||0|||13856|Aleksiun, Jan Jaromir||||||||
-Q1627944|Garcia-Rossi, Horacio||0|||14680|Garcia-Rossi, Horacio||||||||
-Q1633969|Fischer, Konrad||0|||11004|Fischer, Konrad||||||||
-Q1633969|||0|||11090|Fischer-Lueg, Konrad||||||||
-Q1633969|||0|||14535|Lueg, Konrad||||||||
-Q1636475|Munsky, Maina-Miriam||0|||11690|Munsky, Maina-Miriam||||||||
-Q1636475|||0|||21487|Munski, Maina Miriam||||||||
-Q1682120|Tripp, Jan Peter||0|||13567|Tripp, Jan Peter||||||||
-Q1682120|||0|||11683|Tripp, Peter||||||||
-Q1684406|||0|||21268|Igel, Bernd||||||||
-Q1684406|Igel, Jayne-Ann||0|||21269|Igel, Jayne-Ann||||||||
-Q168704|||0|||18925|Phalle St. do, Niki||||||||
-Q168704|Saint-Phalle, Niki de||0|||10837|Saint-Phalle, Niki de||||||||
-Q1691187|Seidel, Joachim||0|||13039|Seidel, Joachim||||||||
-Q1691187|||0|||20423|Seidel, Hans-Joachim||||||||
-Q1697594|Grützke, Johannes||0|||11684|Grützke, Johannes||||||||
-Q1697594|||0|||19871|Gruetzke, Johannes||||||||
-Q1697594|||0|||13851|Grutzke, Johannes||||||||
-Q17031771|||0|||18418|Joan, Rabascall||||||||
-Q17031771|Rabascall, Joan||0|||14239|Rabascall, Joan||||||||
-Q17126644|||0|||15306|Strugalla, Clemens||||||||
-Q17126644|Strugalla, Clemens Maximilian||0|||20462|Strugalla, Clemens Maximilian||||||||
-Q1715255|Boström, Jörg||0|||20197|Boström, Jörg||||||||
-Q1732654|||0|||13613|Rätsch, Karl||||||||
-Q1732654|Raetsch, Karl||0|||20093|Raetsch, Karl||||||||
-Q1733118|Stroeher, Karl||0|||9866|Stroeher, Karl||||||||
-Q1733118|||0|||12056|Stroher, Karl||||||||
-Q1821701|||0|||14301|Nussberg, Lev||||||||
-Q1821701|Nusberg, Lev||0|||15276|Nusberg, Lev||||||||
-Q189729|Glass, Philip||0|||20989|Glass, Philip||||||||
-Q189729|||0|||14461|Glass, Phil||||||||
-Q19270225|||0|||13668|Kaledkiewicz, Zdzislaw||||||||
-Q19270225|Kałedkiewicz, Zdzisław||0|||17311|Kałedkiewicz, Zdzisław||||||||
-Q1929260|Schoenholtz, Michael||0|||14215|Schoenholtz, Michael||||||||
-Q1929260|||0|||20544|Schönholtz, Michael||||||||
-Q2038|||0|||11521|Mitterand, François||||||||
-Q2038|Mitterrand, François||0|||21437|Mitterrand, François||||||||
-Q2074225|||0|||16240|Bommels, Peter||||||||
-Q2074225|Bömmels, P.||0|||16851|Bömmels, P.||||||||
-Q2075804|||0|||19862|Hoeppe, Peter||||||||
-Q2075804|Hoppe, Peter||0|||16209|Hoppe, Peter||||||||
-Q2124|||0|||16861|D'Estaing, Giscard||||||||
-Q2124|Giscard d'Estaing, Valéry||0|||11458|Giscard d'Estaing, Valéry||||||||
-Q2127695|||0|||19846|Joachims, Reimer||||||||
-Q2127695|Jochims, Raimer||0|||10987|Jochims, Raimer||||||||
-Q2140884|||0|||20137|Müller-Mehlis, Richard||||||||
-Q2140884|Müller-Mehlis, Reinhard||0|||20657|Müller-Mehlis, Reinhard||||||||
-Q21464253|||0|||17082|Mlynarski, Josef||||||||
-Q21464253|Młynarski, Józef||0|||12742|Młynarski, Józef||||||||
-Q215199|Eisler, Georg||0|||21874|Eisler, Georg||||||||
-Q23062778|Collyer, Robin||0|||14883|Collyer, Robin||||||||
-Q241977|||0|||16598|Knoebel, Wolf||||||||
-Q241977|Knoebel, Imi||0|||11145|Knoebel, Imi||||||||
-Q241977|||0|||21675|Knoebel, Wolfgang||||||||
-Q241977|||0|||18135|Knöbel, Wolf||||||||
-Q25297874|Bertrand, Jean-Pierre||0|||18337|Bertrand, Jean-Pierre||||||||
-Q26766768|||0|||17232|Menguy, Fréderic||||||||
-Q26766768|Menguy, Frédéric||0|||17024|Menguy, Frédéric||||||||
-Q274241|Boubat, Édouard||0|||15549|Boubat, Édouard||||||||
-Q274241|||0|||17954|Boubat, Edouard||||||||
-Q2898405|Pagès, Bernard||0|||11542|Pagès, Bernard||||||||
-Q2898405|||0|||16862|Pages, Bernard||||||||
-Q29585342|||0|||10660|Bustamante, Bazile||||||||
-Q29585342|Bazile, Bernard||0|||18741|Bazile, Bernard||||||||
-Q301139|Krzyżanowski, Konrad||0|||17689|Krzyżanowski, Konrad||||||||
-Q301139|||0|||17330|Krzyzanowski, Konrad||||||||
-Q30141586|Hołdanowicz, Leszek||0|||17490|Hołdanowicz, Leszek||||||||
-Q30141586|||0|||12794|Holdanowicz, Leszek||||||||
-Q312631|||0|||12404|Rodtchenko, Alexandre Mikhaïlovitch||||||||
-Q312631|||0|||19076|Rodczenko, Aleksandr||||||||
-Q312631|Rodchenko, Alexander||0|||21399|Rodchenko, Alexander||||||||
-Q3126922|Müller, Hans-Walter||0|||12047|Müller, Hans-Walter||||||||
-Q3126922|||0|||21797|Walter Müller, Hans||||||||
-Q3160168|||0|||13488|Viéille, Jacques||||||||
-Q3160168|Vieille, Jacques||0|||14880|Vieille, Jacques||||||||
-Q3168145|Sanejouand, Jean-Michel||0|||12034|Sanejouand, Jean-Michel||||||||
-Q320080|Lohaus, Bernd||0|||11012|Lohaus, Bernd||||||||
-Q323186|||0|||11562|Sarkis, Sarkis||||||||
-Q323186|Sarkis, (Sarkis Zabunyan,  dit)||0|||14963|Sarkis, (Sarkis Zabunyan,  dit)||||||||
-Q3237641|Wąsowicz, Wacław||0|||17464|Wąsowicz, Wacław||||||||
-Q3237641|||0|||15753|Waşowicz, Wacław||||||||
-Q3293354|Avati, Mario||0|||16968|Avati, Mario||||||||
-Q3293354|||0|||10720|Avati, Avati||||||||
-Q34474|||0|||20412|Solschenizyn, Alexander Issajewitsch||||||||
-Q34474|Solženicyn, Aleksandr Isaevič||0|||16807|Solženicyn, Aleksandr Isaevič||||||||
-Q352434|Cheval, Ferdinand||0|||15436|Cheval, Ferdinand||||||||
-Q352434|||0|||19297|Cheval, Joseph Ferdinand||||||||
-Q3531571|Grand, Toni||0|||16879|Grand, Toni||||||||
-Q35733|||0|||15596|Chlebnikow, Welimir||||||||
-Q35733|Khlebnikov, Velimir||0|||15273|Khlebnikov, Velimir||||||||
-Q364226|||0|||19963|Pietrow-Wodkin, K.S.||||||||
-Q364226|Petrow-Wodkin, Kosma Sergejewitsch||0|||15209|Petrow-Wodkin, Kosma Sergejewitsch||||||||
-Q37229565|Guastalla, Pierre||0|||16958|Guastalla, Pierre||||||||
-Q37229565|||0|||11044|Guastalla, P.||||||||
-Q3754638|Balmès, José||0|||13639|Balmès, José||||||||
-Q3754638|||0|||20086|Balmes Parramón, José||||||||
-Q4260232|||0|||11662|Mucchi, Jenny||||||||
-Q4260232|Mucchi-Wiegmann, Jenni||0|||19017|Mucchi-Wiegmann, Jenni||||||||
-Q4260232|||0|||12912|Wiegmann, Jenny||||||||
-Q442192|Horn, Rebecca||0|||11472|Horn, Rebecca||||||||
-Q451015|Opałka, Roman||0|||10228|Opałka, Roman||||||||
-Q451015|||0|||21799|Opalka, Roman||||||||
-Q453883|Close, Chuck||0|||12080|Close, Chuck||||||||
-Q453883|||0|||13942|Close, Charles||||||||
-Q476100|Cieślewicz, Roman||0|||14653|Cieślewicz, Roman||||||||
-Q476100|||0|||21800|Cieslewicz, Roman||||||||
-Q4912866|Klüver, Billy||0|||19077|Klüver, Billy||||||||
-Q4912866|||0|||20641|Kluver, Billy||||||||
-Q508938|Hasior, Władysław||0|||13321|Hasior, Władysław||||||||
-Q526954|Breer, Robert||0|||21413|Breer, Robert||||||||
-Q526954|||0|||11148|Breer, Breer||||||||
-Q546947|Valdès, Manuel||0|||14234|Valdès, Manuel||||||||
-Q546947|||0|||19014|Valdés, Manuel||||||||
-Q5484333|Strynkiewicz, Franciszek||0|||16893|Strynkiewicz, Franciszek||||||||
-Q551597|||0|||14076|Valles, Jules||||||||
-Q551597|Vallès, Jules||0|||20776|Vallès, Jules||||||||
-Q55797186|||0|||12371|Erhard, Grüttner||||||||
-Q55797186|Grüttner, Erhard||0|||18003|Grüttner, Erhard||||||||
-Q56005|Scott, Ridley||0|||19503|Scott, Ridley||||||||
-Q57244|Hindemith, Paul||0|||8715|Hindemith, Paul||||||||
-Q57244|||0|||6412|Hindemith, Hindemith||||||||
-Q58057|Becher, Johannes R.||0|||11654|Becher, Johannes R.||||||||
-Q5878|||0|||15595|García Márquez, Gabriel José||||||||
-Q5878|||0|||19054|Garcia-Marquez, Gabriel||||||||
-Q5878|Gabriel, García Márquez||0|||21493|Gabriel, García Márquez||||||||
-Q59772567|Chacallis, Louis||0|||18353|Chacallis, Louis||||||||
-Q60884|Anders, Günther||0|||21403|Anders, Günther||||||||
-Q61944469|Buczek, Włodzimierz||0|||16494|Buczek, Włodzimierz||||||||
-Q620483|||0|||11934|Deineka, Alexander Alexandrowitsch||||||||
-Q620483|Dejneka, Aleksander||0|||18930|Dejneka, Aleksander||||||||
-Q6383994|Arnatt, Keith||0|||20988|Arnatt, Keith||||||||
-Q6383994|||0|||18058|Arnatt, Arnatt||||||||
-Q6405193|Bereźnicki, Kiejstut||0|||14810|Bereźnicki, Kiejstut||||||||
-Q6405193|||0|||17818|Bereznicki, Kiejstut||||||||
-Q6405193|||0|||17121|Bereżnicki, Kiejstut||||||||
-Q67174|||0|||19857|Tuebke, Werner||||||||
-Q67174|Tübke, Werner||0|||11128|Tübke, Werner||||||||
-Q6843575|||0|||17303|Baryłko, Mieczysław||||||||
-Q6843575|Barylko, Mieczysław||0|||12765|Barylko, Mieczysław||||||||
-Q695148|||0|||18222|Ipousteguy (Jean Robert, dit)||||||||
-Q695148|Ipoustéguy, Jean Robert||0|||15813|Ipoustéguy, Jean Robert||||||||
-Q74367|Croissant, Klaus||0|||18511|Croissant, Klaus||||||||
-Q767435|||0|||11415|Clair, Jean (Gérard Régnier dit)||||||||
-Q767435|Regnier, Gerard||0|||20725|Regnier, Gerard||||||||
-Q78663|Muehl, Otto||0|||11319|Muehl, Otto||||||||
-Q78663|||0|||18127|Mühl, Otto||||||||
-Q7941133|Berman, Miecysław||0|||16924|Berman, Miecysław||||||||
-Q7941133|||0|||10184|Berman, Mieczysław||||||||
-Q80440|||0|||14735|Achmatova, Achmatova||||||||
-Q80440|Achmatowa, Anna||0|||15626|Achmatowa, Anna||||||||
-Q816649|||0|||18715|Armagnac, Ben,  de||||||||
-Q816649|d'Armagnac, Ben||0|||13659|d'Armagnac, Ben||||||||
-Q821528|Andreou, Constantin||0|||16967|Andreou, Constantin||||||||
-Q821528|||0|||11036|Andréou, Andréou||||||||
-Q822683|Réquichot, Bernard||0|||15981|Réquichot, Bernard||||||||
-Q823533|||0|||14630|Goebel, Bernd||||||||
-Q823533|Göbel, Bernd||0|||20761|Göbel, Bernd||||||||
-Q882861|Byars, James Lee||0|||12189|Byars, James Lee||||||||
-Q882861|||0|||18399|Lee-Byars, James||||||||
-Q8864691|Roman, Adam||0|||12714|Roman, Adam||||||||
-Q9154453|||0|||21640|Szylak, Aneta||||||||
-Q9154453|Szyłak, Aneta||0|||21231|Szyłak, Aneta||||||||
-Q9285326|Chrostowska, Halina||0|||10189|Chrostowska, Halina||||||||
-Q9285326|||0|||21802|Chrostowska-Piotrowicz, Halina||||||||
-Q9287364|Krajewska, Helena||0|||11238|Krajewska, Helena||||||||
-Q9342865|||0|||13664|Poznanski, Stanislaw||||||||
-Q9342865|Poznański, Stanisław||0|||17086|Poznański, Stanisław||||||||
-Q9343133|Strzyźynski, Stanisław||0|||17271|Strzyźynski, Stanisław||||||||
-Q9343133|||0|||17586|Strzyżyński, Stanisław||||||||
-Q9357346|Pągowska, Teresa||0|||14871|Pągowska, Teresa||||||||
-Q9357346|||0|||16475|Pagowska, Teresa||||||||
-Q9370131|Cwenarski, Waldemar||0|||17677|Cwenarski, Waldemar||||||||
-Q9370131|||0|||10813|Cwenarski, W.||||||||
-Q9382195|Pawlik, Władysław||0|||17564|Pawlik, Władysław||||||||
-Q9382195|||0|||17980|Pawlik, Wladysław||||||||
-Q95272380|||0|||13260|Glozer, Laszlo||||||||
-Q95272380|Laszlo, Glozer||0|||14106|Laszlo, Glozer||||||||
-Q95798900|Schlicht, Burghard||0|||13234|Schlicht, Burghard||||||||
-Q959010|||0|||17265|Rappaport, Natan||||||||
-Q959010|Rapaport, Natan||0|||15739|Rapaport, Natan||||||||
+Q160252|Leighton, Frederic||0||DFK0010000038|||||||11826|Leighton, Frederic||
+Q106452268|Bernheim, Georges||0||DFK0010000074|||||||11942|Bernheim, Georges||
+Q949700|Busson, George||0||DFK0010000075|||||||11945|Busson, George||
+Q3292434|Cazin, Marie||0||DFK0010000076|||||||11947|Cazin, Marie||
+|Dubourg,  Hélène||0||DFK0010000001|||||||11949|Dubourg,  Hélène||
+|Dubourg,  Jean-Theodore||0||DFK0010000001|||||||11950|Dubourg,  Jean-Theodore||
+Q18922365|Scholderer, Victor||0||DFK0010000077|||||||12197|Scholderer, Victor||
+Q173869|Tennyson, Alfred||0||DFK0010000078|||||||12198|Tennyson, Alfred||
+Q82006|Disraeli, Benjamin||0||DFK0010000079|||||||12199|Disraeli, Benjamin||
+Q3047923|Maître, Edmond||0||DFK0010000042|||||||12201|Maître, Edmond||
+|Duranty,  Madame||0||DFK0010000001|||||||12202|Duranty,  Madame||
+Q19899493|Belt, Richard Claude||0||DFK0010000080|||||||12204|Belt, Richard Claude||
+Q5075547|Bennett Lawes, Charles||0||DFK0010000081|||||||12205|Bennett Lawes, Charles||
+|Maître,  Léon Mme||0||DFK0010000001|||||||12206|Maître,  Léon Mme||
+Q1175801|Murray, David||0||DFK0010000082|||||||12207|Murray, David||
+Q313374|Chabrier, Emmanuel||0||DFK0010000083|||||||12208|Chabrier, Emmanuel||
+Q3271194|Maître, Léon||0||DFK0010000084|||||||12209|Maître, Léon||
+Q21455060|Magnus, Rose||0||DFK0010000085|||||||12210|Magnus, Rose||
+|Janovski,  Marie||0||DFK0010000001|||||||12211|Janovski,  Marie||
+Q771658|Martínez del Mazo, Juan Bautista||0||DFK0010000086|||||||12212|Martínez del Mazo, Juan Bautista||
+Q309882|Booth, William||0||DFK0010000087|||||||12213|Booth, William||
+Q309702|Vigny, Alfred||0||DFK0010000088|||||||12215|Vigny, Alfred||
+Q434940|Faliero, Marino||0||DFK0010000089|||||||12216|Faliero, Marino||
+Q71315|Hegar, Alfred||0||DFK0010000090|||||||12218|Hegar, Alfred||
+Q7793581|Way, Thomas||0||DFK0010000091|||||||12239|Way, Thomas||
+Q7793581|Way, Thomas||0||DFK0010000091|||||||12240|Way, Thomas||
+Q21475520|Senonnes, Marie||0||DFK0010000092|||||||12241|Senonnes, Marie||
+|Eiser,  Madame||0||DFK0010000001|||||||12242|Eiser,  Madame||
+Q7108164|Sickert, Oswald||0||DFK0010000062|||||||12266|Sickert, Oswald||
+|Schienholz||0||DFK0010000001|||||||12604|Schienholz,||
+Q309733|Scamozzi, Vincenzo|Scamozzi, Vincenzo|0||DFK0010000093|||||||||3pgdz|Scamozzi, Vincenzo
+Q57224|Hannover, Sophie von|Hanovre, Sophie de|0||DFK0010000094|||||||||3ph1p|Hannover, Sophie von
+Q3160347|Souvré, Jacques de|Souvré, Jacques de|0||DFK0010000095|||||||||3pgf2|Souvré, Jacques de
+Q605799|Stella, Jacques|Stella, Jacques|0||DFK0010000096|||||||||3pgf3|Stella, Jacques
+Q137934|Suger|Suger|0||DFK0010000097|||||||||3pgf5|Suger
+Q38911483|Suttinger, Daniel|Suttinger, Daniel|0||DFK0010000098|||||||||3qwg4|Suttinger, Daniel
+Q21149084|Thomassin, Simon|Thomassin, Simon|0||DFK0010000099|||||||||3pgf6|Thomassin, Simon
+Q568943|Tuby, Jean-Baptiste|Tuby, Jean-Baptiste|0||DFK0010000100|||||||||3pgf9|Tuby, Jean-Baptiste
+Q303216|Turenne, Henri de la Tour d’Auvergne, Vicomte von|Turenne, Henri de La Tour d’Auvergne, vicomte de|0||DFK0010000101|||||||||3pgfb|Turenne, Henri de la Tour d’Auvergne, Vicomte von
+Q77288|Tschirnhaus, Ehrenfried Walther von|Tschirnhaus, Ehrenfried Walther von|0||DFK0010000102|||||||||3pgfc|Tschirnhaus, Ehrenfried Walther von
+Q1241409|Du Vair, Guillaume|Du Vair, Guillaume|0||DFK0010000103|||||||||3pgfd|Du Vair, Guillaume
+Q658511|Varin, Quentin|Varin, Quentin|0||DFK0010000104|||||||||3pgff|Varin, Quentin
+Q310530|Le Vau, Louis|Le Vau, Louis|0||DFK0010000105|||||||||3pgfg|Le Vau, Louis
+Q18511859|Vigarani, Gaspare|Vigarani, Gaspare|0||DFK0010000106|||||||||3pgfk|Vigarani, Gaspare
+Q322873|Villalpando, Juan Bautista|Villalpando, Juan Bautista|0||DFK0010000107|||||||||3pgfm|Villalpando, Juan Bautista
+Q124682|Orléans, Valentine Visconti, Herzogin von|Orléans, Valentine Visconti, duchesse d’|0||DFK0010000108|||||||||3pgfp|Orléans, Valentine Visconti, Herzogin von
+Q297565|Vignola, Giacomo oder Jacopo Barozzi, genannt|Vignole, Giacomo ou Jacopo Barozzi, dit|0||DFK0010000109|||||||||3pgfq|Vignola, Giacomo oder Jacopo Barozzi, genannt
+Q358975|Ville, Arnold de|Ville, Arnold de|0||DFK0010000110|||||||||3pgfr|Ville, Arnold de
+Q47163|Vitruv|Vitruve|0||DFK0010000111|||||||||3pgfs|Vitruv
+Q2870616|Vouet, Aubin|Vouet, Aubin|0||DFK0010000112|||||||||3pgft|Vouet, Aubin
+Q3456193|Vuibert, Remy|Vuibert, Remy|0||DFK0010000113|||||||||3pgfw|Vuibert, Remy
+Q129987|Nassau-Dillenburg, Wilhelm III., Fürst von Oranien, Graf von|Nassau-Dillenburg, Guillaume III, prince d’Orange, comte de|0||DFK0010000114|||||||||3pgfx|Nassau-Dillenburg, Wilhelm III., Fürst von Oranien, Graf von
+Q1471491|Wallstein, Karl Ernst, Graf von|Wallstein, Karl Ernst, comte de|0||DFK0010000115|||||||||3pgfz|Wallstein, Karl Ernst, Graf von
+Q317929|Berry, Charles de France, Herzog von|Berry, Charles de France, duc de|0||DFK0010000116|||||||||3pgg0|Berry, Charles de France, Herzog von
+Q1127505|Bourgogne, Louis de France, Herzog von, genannt der Petit Dauphin|Bourgogne, Louis de France, duc de, dit le Petit Dauphin|0||DFK0010000117|||||||||3pggb|Bourgogne, Louis de France, Herzog von, genannt der Petit Dauphin
+Q23140|Bourgogne, Maria Adelaide von Savoyen, Herzogin von|Bourgogne, Marie-Adélaïde de Savoie, duchesse de|0||DFK0010000118|||||||||3pgg2|Bourgogne, Maria Adelaide von Savoyen, Herzogin von
+Q170467|Philipp V., König von Spanien|Philippe V, roi d’Espagne|0||DFK0010000119|||||||||3pgg3|Philipp V., König von Spanien
+Q512044|Barbezieux, Louis-François-Marie Le Tellier, Markgraf von|Barbezieux, Louis-François-Marie Le Tellier, marquis de|0||DFK0010000120|||||||||3pgg4|Barbezieux, Louis-François-Marie Le Tellier, Markgraf von
+Q55848422|Berlepsch, Peter Philipp von|Berlepsch, Peter Philipp von|0||DFK0010000121|||||||||3pgg6|Berlepsch, Peter Philipp von
+Q442581|Beuvron, Henri d’Harcourt, Markgraf von|Beuvron, Henri d’Harcourt, marquis de|0||DFK0010000122|||||||||3pgg7|Beuvron, Henri d’Harcourt, Markgraf von
+Q1280318|Harcourt, Heinrich von Lothringen, Graf von|Harcourt, Henri de Lorraine, comte de|0||DFK0010000123|||||||||3q1vv|Harcourt, Heinrich von Lothringen, Graf von
+Q2833483|Bontemps, Alexandre|Bontemps, Alexandre|0||DFK0010000124|||||||||3pgg8|Bontemps, Alexandre
+Q448174|Toulouse, Louis-Alexandre de Bourbon, Graf von|Toulouse, Louis-Alexandre de Bourbon, comte de|0||DFK0010000125|||||||||3pgg9|Toulouse, Louis-Alexandre de Bourbon, Graf von
+Q568415|Brandenburg-Ansbach, Wilhelm Friedrich, Markgraf von|Brandenbourg-Ansbach, Guillaume-Frédéric, margrave de|0||DFK0010000126|||||||||3pggc|Brandenburg-Ansbach, Wilhelm Friedrich, Markgraf von
+Q567159|Brandenburg-Ansbach, Georg Friedrich II., Markgraf von|Brandenbourg-Ansbach, Georges-Frédéric II, margrave de|0||DFK0010000127|||||||||3ph04|Brandenburg-Ansbach, Georg Friedrich II., Markgraf von
+Q1048|Cäsar, Gajus Julius|César, Jules|0||DFK0010000128|||||||||3pggd|Cäsar, Gajus Julius
+Q62516|Hessen-Kassel, Karl I., Landgraf von|Hesse-Cassel, Charles Ier, landgrave de|0||DFK0010000129|||||||||3pggf|Hessen-Kassel, Karl I., Landgraf von
+Q52932|Hessen-Kassel, Friedrich I. von, König von Schweden|Frédéric Ier, roi de Suède|0||DFK0010000130|||||||||3q1tm|Hessen-Kassel, Friedrich I. von, König von Schweden
+Q531790|Hessen-Kassel, Wilhelm VIII., Landgraf von|Hesse-Cassel, Guillaume VIII, landgrave de|0||DFK0010000131|||||||||3q1tj|Hessen-Kassel, Wilhelm VIII., Landgraf von
+Q36174|Karl II. von Habsburg, König von Spanien|Charles II, roi d’Espagne|0||DFK0010000132|||||||||3pggg|Karl II. von Habsburg, König von Spanien
+Q464674|Conti, François-Louis de Bourbon, Prince de|Conti, François-Louis de Bourbon, prince de|0||DFK0010000133|||||||||3pggh|Conti, François-Louis de Bourbon, Prince de
+Q17353170|Cottart, Pierre|Cottart, Pierre|0||DFK0010000134|||||||||3pggj|Cottart, Pierre
+Q3107157|Delfino (oder Dolfin), Giovanni|Delfino (ou Dolfin), Giovanni|0||DFK0010000135|||||||||3pggm|Delfino (oder Dolfin), Giovanni
+Q117116|Dietrichstein, Ferdinand Joseph, Fürst von|Dietrichstein, Ferdinand Joseph, prince de|0||DFK0010000136|||||||||3pggn|Dietrichstein, Ferdinand Joseph, Fürst von
+Q1415266|Dietrichstein, Maximilian, Graf von|Dietrichstein, Maximilien, comte de|0||DFK0010000137|||||||||3pggp|Dietrichstein, Maximilian, Graf von
+Q1150810|Estrées, César d’|Estrées, César d’|0||DFK0010000138|||||||||3pggr|Estrées, César d’
+Q929092|Estrées, Jean d’|Estrées, Jean d’|0||DFK0010000139|||||||||3pggs|Estrées, Jean d’
+Q24211|Harrach, Aloys Thomas Raimund, Graf von|Harrach, Aloys Thomas Raimund, comte de|0||DFK0010000140|||||||||3pggt|Harrach, Aloys Thomas Raimund, Graf von
+Q1695861|Harrach, Johann Joseph Philipp, Graf von|Harrach, Johann Joseph Philipp, comte de|0||DFK0010000141|||||||||3pggv|Harrach, Johann Joseph Philipp, Graf von
+Q1106692|Heemskerck, Coenraad van|Heemskerck, Coenraad van|0||DFK0010000142|||||||||3pggz|Heemskerck, Coenraad van
+Q2960512|Hozier, Charles-René d’|Hozier, Charles-René d’|0||DFK0010000143|||||||||3pgh0|Hozier, Charles-René d’
+Q150494|Leopold I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation|Léopold Ier empereur du Saint-Empire|0||DFK0010000144|||||||||3pgh4|Leopold I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation
+Q3068514|Lobkowitz, Ferdinand August Leopold III., Fürst von|Lobkowitz, Ferdinand Auguste Léopold III, prince de|0||DFK0010000145|||||||||3q1tx|Lobkowitz, Ferdinand August Leopold III., Fürst von
+Q55281850|Lobkowitz, Philipp Hyazinth Josef IV., Fürst von|Lobkowitz, Philipp Hyazinth Josef IV, prince de|0||DFK0010000146|||||||||3q1tw|Lobkowitz, Philipp Hyazinth Josef IV., Fürst von
+Q677985|Lobkowitz, Johann Georg Christian, Fürst von|Lobkowitz, Johann Georg Christian, prince de|0||DFK0010000147|||||||||3q1tv|Lobkowitz, Johann Georg Christian, Fürst von
+Q152480|Joseph I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation|Joseph Ier, empereur du Saint-Empire|0||DFK0010000148|||||||||3ph03|Joseph I. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation
+Q2958258|Le Tellier, Charles-Maurice|Le Tellier, Charles-Maurice|0||DFK0010000149|||||||||3ph05|Le Tellier, Charles-Maurice
+Q2018018|Bouillon, Godefroy-Maurice de La Tour d’Auvergne, Herzog von|Bouillon, Godefroy-Maurice de La Tour d’Auvergne, duc de|0||DFK0010000150|||||||||3ph06|Bouillon, Godefroy-Maurice de La Tour d’Auvergne, Herzog von
+Q110997|Plettenberg, Friedrich Christian von|Plettenberg, Friedrich Christian von|0||DFK0010000151|||||||||3ph07|Plettenberg, Friedrich Christian von
+Q57221|Orléans, Elisabeth Charlotte von der Pfalz, Herzogin von, genannt Madame, Liselotte von der Pfalz|Orléans, Élisabeth-Charlotte de Bavière, duchesse d’, princesse Palatine, dite Madame, la Palatine|0||DFK0010000152|||||||||3pggq|Orléans, Elisabeth Charlotte von der Pfalz, Herzogin von, genannt Madame, Liselotte von der Pfalz
+Q155596|Orléans, Philippe II. von Bourbon, Herzog von|Orléans, Philippe d’|0||DFK0010000153|||||||||3q1w2|Orléans, Philippe II. von Bourbon, Herzog von
+Q237666|Orléans, Françoise-Marie von Bourbon, Herzogin von, genannt Seconde Mademoiselle de Blois|Orléans, Françoise-Marie de Bourbon, duchesse d’, dite Seconde Mademoiselle de Blois|0||DFK0010000154|||||||||3q1mb|Orléans, Françoise-Marie von Bourbon, Herzogin von, genannt Seconde Mademoiselle de Blois
+Q233610|Lothringen, Élisabeth-Charlotte von Orléans, Herzogin von, genannt Mademoiselle de Chartres|Lorraine, Élisabeth-Charlotte d’Orléans, duchesse de, dite Mademoiselle de Chartres|0||DFK0010000155|||||||||3ph09|Lothringen, Élisabeth-Charlotte von Orléans, Herzogin von, genannt Mademoiselle de Chartres
+Q274732|Élisabeth de France, genannt Élisabeth de Bourbon oder Isabelle de Bourbon, Königin von Spanien|Élisabeth de France, dite Élisabeth de Bourbon ou Isabelle de Bourbon, reine d’Espagne|0||DFK0010000156|||||||||3q1sz|Élisabeth de France, genannt Élisabeth de Bourbon oder Isabelle de Bourbon, Königin von Spanien
+Q319954|Lothringen, Leopold Joseph, Herzog von|Lorraine, Léopold Ier, duc de|0||DFK0010000157|||||||||3ph0b|Lothringen, Leopold Joseph, Herzog von
+Q21415804|Mansfeld-Bornstedt, Karl Franz Adam Anton, Fürst von|Mansfeld-Bornstedt, Karl Franz Adam Anton, prince de|0||DFK0010000158|||||||||3ph0c|Mansfeld-Bornstedt, Karl Franz Adam Anton, Fürst von
+Q1256302|Prior, Matthew|Prior, Matthew|0||DFK0010000159|||||||||3ph0g|Prior, Matthew
+Q12022369|Questenberg, Johann Adam, Graf von|Questenberg, Johann Adam, comte de|0||DFK0010000160|||||||||3ph0h|Questenberg, Johann Adam, Graf von
+Q1176325|Richter der Ältere, David|Richter, David, l’Ancien|0||DFK0010000161|||||||||3ph0j|Richter der Ältere, David
+Q113728928|Seiglière de Bois Franc, Joachim|Seiglière de Bois Franc, Joachim|0||DFK0010000162|||||||||3qwgs|Seiglière de Bois Franc, Joachim
+Q3372453|Saint-Aignan, Paul de Beauvilliers, Herzog von|Saint-Aignan, Paul de Beauvilliers, duc de|0||DFK0010000163|||||||||3ph0p|Saint-Aignan, Paul de Beauvilliers, Herzog von
+Q349377|Van der Meulen, Adam Frans|Van der Meulen, Adam Frans|0||DFK0010000164|||||||||3ph0r|Van der Meulen, Adam Frans
+Q453571|Villeroy, François de Neufville, Herzog von|Villeroy, François de Neufville, duc de|0||DFK0010000165|||||||||3qwgq|Villeroy, François de Neufville, Herzog von
+Q113729074|Cascais, Luís Álvares de Castro, Markgraf von|Cascais, Luís Álvares de Castro, marquis de|0||DFK0010000166|||||||||3ph0t|Cascais, Luís Álvares de Castro, Markgraf von
+Q696637|Croÿ, Charles-Eugène, Herzog von|Croÿ, Charles-Eugène, duc de|0||DFK0010000167|||||||||3ph0v|Croÿ, Charles-Eugène, Herzog von
+Q65139|Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Christian II., Pfalzgraf von|Deux-Ponts-Birkenfeld-Bischwiller, Christian II, comte palatin et duc de|0||DFK0010000168|||||||||3ph0x|Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Christian II., Pfalzgraf von
+Q61966|Pfalz-Zweibrücken, Christian III., Pfalzgraf von Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Herzog von|Palatinat-Deux-Ponts, Christian III, comte palatin et duc du|0||DFK0010000169|||||||||3ph0z|Pfalz-Zweibrücken, Christian III., Pfalzgraf von Pfalz-Birkenfeld-Bischweiler-Rappoltstein, Herzog von
+Q22915824|Harrach, Ferdinand Bonaventura, Graf von|Harrach, Ferdinand Bonaventure, comte de|0||DFK0010000170|||||||||3ph12|Harrach, Ferdinand Bonaventura, Graf von
+Q76722|Maximilian Heinrich von Wittelsbach, Herzog von Bayern|Maximilien-Henri de Wittelsbach, duc de Bavière|0||DFK0010000171|||||||||3q1jg|Maximilian Heinrich von Wittelsbach, Herzog von Bayern
+Q716278|Ruse, Hendrik, Baron von Rysensteen|Ruse, Hendrik, baron de Rysensteen|0||DFK0010000172|||||||||3q1jh|Ruse, Hendrik, Baron von Rysensteen
+Q80847|Alba, Fernando Alvarez de Toledo, Herzog von|Albe, Fernando Álvarez de Tolède, duc d’|0||DFK0010000173|||||||||3q1jk|Alba, Fernando Alvarez de Toledo, Herzog von
+Q1753432|Duval, Robbert|Duval, Robbert|0||DFK0010000174|||||||||3q1jm|Duval, Robbert
+Q2424907|Bronckhorst, Jan Gerritsz van|Van Bronckhorst, Jan Gerritsz|0||DFK0010000175|||||||||3q1jq|Bronckhorst, Jan Gerritsz van
+Q150862|Maximilian II. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation|Maximilien II, empereur du Saint-Empire|0||DFK0010000176|||||||||3q1jr|Maximilian II. von Habsburg, Kaiser des Heiligen Römischen Reichs Deutscher Nation
+Q71734|Galen, Johan (Jan) van|Van Galen, Johan dit Jan|0||DFK0010000177|||||||||3q1js|Galen, Johan (Jan) van
+Q1445768|Platen-Hallermund, Franz Ernst von|Platen-Hallermund, Franz Ernst von|0||DFK0010000178|||||||||3q1jt|Platen-Hallermund, Franz Ernst von
+Q536951|Campen, Jacob van|Van Campen, Jacob|0||DFK0010000179|||||||||3q1jv|Campen, Jacob van
+Q651461|Quellinus der Ältere, Artus|Quellinus, Artus, l’Ancien|0||DFK0010000180|||||||||3q1jw|Quellinus der Ältere, Artus
+Q715727|Quellinus der Jüngere, Artus|Quellinus, Artus, le Jeune|0||DFK0010000181|||||||||3q1pf|Quellinus der Jüngere, Artus
+Q359270|Boullogne der Ältere, Louis de,|Boullogne, Louis de, le père|0||DFK0010000182|||||||||3q1k1|Boullogne, Louis de, le père
+Q2617951|Boullogne der Jüngere, Louis de|Boullogne, Louis de, le Jeune|0||DFK0010000183|||||||||3q1vn|Boullogne der Jüngere, Louis de
+Q3382851|Lemoine, Pierre-Antoine|Lemoine, Pierre-Antoine|0||DFK0010000184|||||||||3q1k2|Lemoine, Pierre-Antoine
+Q2983846|Romanelli, Giovanni Francesco|Romanelli, Giovanni Francesco|0||DFK0010000185|||||||||3q1k6|Romanelli, Giovanni Francesco
+Q15967101|Pussort, Henri|Pussort, Henri|0||DFK0010000186|||||||||3q1k7|Pussort, Henri
+Q604526|Raggi, Antonio|Raggi, Antonio|0||DFK0010000187|||||||||3q1kb|Raggi, Antonio
+Q550401|Flinck, Govert|Flinck, Govert|0||DFK0010000188|||||||||3q1kf|Flinck, Govert
+Q281608|Quen, Jean de|Quen, Jean de|0||DFK0010000189|||||||||3q1kg|Quen, Jean de
+Q430783|Lievens, Jan|Lievens, Jan|0||DFK0010000190|||||||||3q1kh|Lievens, Jan
+Q314548|Honthorst, Gerrit van|Van Honthorst, Gerrit|0||DFK0010000191|||||||||3q1kj|Honthorst, Gerrit van
+Q1386569|Wassenaer Obdam, Jacob van|Van Wassenaer Obdam, Jacob|0||DFK0010000192|||||||||3q1kn|Wassenaer Obdam, Jacob van
+Q336463|Portland, Hans Willem Bentinck, Graf von|Portland, Hans Willem Bentinck, comte de|0||DFK0010000193|||||||||3q1kq|Portland, Hans Willem Bentinck, Graf von
+Q164062|Nassau-Dillenburg, Moritz, Fürst von Oranien, Graf von|Maurice de Nassau, prince d’Orange|0||DFK0010000194|||||||||3q1ks|Nassau-Dillenburg, Moritz, Fürst von Oranien, Graf von
+Q2107767|Valck, Gerard|Valck, Gerard|0||DFK0010000195|||||||||3q1kv|Valck, Gerard
+Q470200|Tromp, Maarten Harpertszoon|Tromp, Maarten Harpertszoon|0||DFK0010000196|||||||||3q1kw|Tromp, Maarten Harpertszoon
+Q560774|Heyn, Piet Pieterszoon|Heyn, Piet Pieterszoon|0||DFK0010000197|||||||||3q1kx|Heyn, Piet Pieterszoon
+Q43522|Leeuwenhoek, Antoni van|Van Leeuwenhoek, Antoni|0||DFK0010000198|||||||||3q1kz|Leeuwenhoek, Antoni van
+Q864173|Vliet, Hendrick Cornelisz van|Van Vliet, Hendrick Cornelisz|0||DFK0010000199|||||||||3q1m0|Vliet, Hendrick Cornelisz van
+Q695748|With, Witte Corneliszoon de|De With, Witte Corneliszoon|0||DFK0010000200|||||||||3q1m1|With, Witte Corneliszoon de
+Q68304|Braunschweig-Lüneburg, Erik II. von|Brunswick-Calenberg-Göttingen, Éric II de|0||DFK0010000201|||||||||3q1m3|Braunschweig-Lüneburg, Erik II. von
+Q13479703|Crabeth, Dirck Pietersz|Crabeth, Dirck Pietersz|0||DFK0010000202|||||||||3q1m4|Crabeth, Dirck Pietersz
+Q1349800|Crabeth, Wouter Pietersz|Crabeth, Wouter Pietersz|0||DFK0010000203|||||||||3q1m5|Crabeth, Wouter Pietersz
+Q433522|Beverningh, Hieronymus van|Van Beverningh, Hieronymus|0||DFK0010000204|||||||||3q1m6|Beverningh, Hieronymus van
+Q560731|Coehoorn, Menno van|Van Coehoorn, Menno|0||DFK0010000205|||||||||3q1m7|Coehoorn, Menno van
+Q336798|Algardi, Alessandro|Algardi, Alessandro, dit l’Algarde|0||DFK0010000206|||||||||3q1mc|Algardi, Alessandro
+Q1367872|Francheville ou Franqueville, Pierre de|Francheville ou Franqueville, Pierre de|0||DFK0010000207|||||||||3q1md|Francheville ou Franqueville, Pierre de
+Q297483|Medici, Ferdinando I. de’, Großherzog der Toskana|Médicis, Ferdinand Ier, grand-duc de|0||DFK0010000208|||||||||3q1mf|Medici, Ferdinando I. de’, Großherzog der Toskana
+Q385092|Caus, Salomon de|Caus, Salomon de|0||DFK0010000209|||||||||3q1mj|Caus, Salomon de
+Q3093832|Le Duc, Gabriel|Le Duc, Gabriel|0||DFK0010000210|||||||||3q1mm|Le Duc, Gabriel
+Q1508985|Lallemant, Georges|Lallemant, Georges|0||DFK0010000211|||||||||3q1mn|Lallemant, Georges
+Q3160306|Létin, Jacques de (oder Jacques Ninet de Lestin)|Létin, Jacques de (ou Jacques Ninet de Lestin)|0||DFK0010000212|||||||||3q1mp|Létin, Jacques de (oder Jacques Ninet de Lestin)
+Q2976703|Vignon, Claude-François|Vignon, Claude-François|0||DFK0010000213|||||||||3q1n4|Vignon, Claude-François
+Q3263167|Testelin, Louis|Testelin, Louis|0||DFK0010000214|||||||||3q1ms|Testelin, Louis
+Q37726359|Heince, Zacharie|Heince, Zacharie|0||DFK0010000215|||||||||3q1mt|Heince, Zacharie
+Q28017151|Villequin, Étienne|Villequin, Étienne|0||DFK0010000216|||||||||3q1mv|Villequin, Étienne
+Q42303843|Dudot, René|Dudot, René|0||DFK0010000217|||||||||3q1mw|Dudot, René
+Q2854302|Paillet, Antoine|Paillet, Antoine|0||DFK0010000218|||||||||3q1mx|Paillet, Antoine
+Q3014148|Hallé, Daniel|Hallé, Daniel|0||DFK0010000219|||||||||3q1mz|Hallé, Daniel
+Q3524926|Blanchet, Thomas|Blanchet, Thomas|0||DFK0010000220|||||||||3q1n0|Blanchet, Thomas
+Q75585010|Sorlay, Jérôme|Sorlay, Jérôme|0||DFK0010000221|||||||||3q1n1|Sorlay, Jérôme
+Q3340961|Plattenberg, Nicolas van|Plattemontagne, Nicolas de|0||DFK0010000222|||||||||3q1n2|Plattenberg, Nicolas van
+Q3164509|Champaigne, Jean-Baptiste de|Champaigne, Jean-Baptiste de|0||DFK0010000223|||||||||3q1n3|Champaigne, Jean-Baptiste de
+Q3093634|Blanchard, Gabriel|Blanchard, Gabriel|0||DFK0010000224|||||||||3q1n5|Blanchard, Gabriel
+Q78042940|Cani, Jean-Baptiste de|Cani, Jean-Baptiste de|0||DFK0010000225|||||||||3q1n6|Cani, Jean-Baptiste de
+Q283290|Corneille der Jüngere, Michel|Corneille, Michel, le Jeune|0||DFK0010000226|||||||||3q1n7|Corneille der Jüngere, Michel
+Q5128686|Audran der Jüngere, Claude|Audran, Claude, le Jeune|0||DFK0010000227|||||||||3q1n8|Audran der Jüngere, Claude
+Q56820|Verdier, François|Verdier, François|0||DFK0010000228|||||||||3q1nb|Verdier, François
+Q3163977|Corneille, Jean-Baptiste|Corneille, Jean-Baptiste|0||DFK0010000229|||||||||3q1nc|Corneille, Jean-Baptiste
+Q3171443|Cotelle der Jüngere, Jean|Cotelle, Jean, le Jeune|0||DFK0010000230|||||||||3q1nd|Cotelle der Jüngere, Jean
+Q219277|Ubeleski, Alexandre|Ubelesqui, Alexandre|0||DFK0010000231|||||||||3q1nf|Ubeleski, Alexandre
+Q592049|Poerson, Charles-François|Poerson, Charles-François|0||DFK0010000232|||||||||3q1ng|Poerson, Charles-François
+Q1118436|Hallé, Claude-Guy|Hallé, Claude-Guy|0||DFK0010000233|||||||||3q1nj|Hallé, Claude-Guy
+Q3261535|Chéron, Louis|Chéron, Louis|0||DFK0010000234|||||||||3q1nk|Chéron, Louis
+Q17483904|Vernansal, Guy-Louis|Vernansal, Guy-Louis|0||DFK0010000235|||||||||3q1nm|Vernansal, Guy-Louis
+Q28951922|Guillebault, Simon|Guillebault, Simon|0||DFK0010000236|||||||||3q1nn|Guillebault, Simon
+Q781910|Vuez, Arnould de|Vuez, Arnould de|0||DFK0010000237|||||||||3q1np|Vuez, Arnould de
+Q1366812|Parrocel, Joseph|Parrocel, Joseph|0||DFK0010000238|||||||||3q1nq|Parrocel, Joseph
+Q3184760|Christophe, Joseph|Christophe, Joseph|0||DFK0010000239|||||||||3q1nr|Christophe, Joseph
+Q375783|Vivien, Joseph|Vivien, Joseph|0||DFK0010000240|||||||||3q1ns|Vivien, Joseph
+Q28017173|Marot, François|Marot, François|0||DFK0010000241|||||||||3q1nt|Marot, François
+Q52222519|Tavernier, François|Tavernier, François|0||DFK0010000242|||||||||3q1nv|Tavernier, François
+Q1232749|Troy, François de|Troy, François de|0||DFK0010000243|||||||||3q1nw|Troy, François de
+Q44281|Ignatius von Loyola, Heiliger|Ignace de Loyola, saint|0||DFK0010000244|||||||||3q1nz|Ignatius von Loyola, Heiliger
+Q540489|Volterra, Daniele Ricciarelli, genannt Daniele da|Volterra, Daniele Ricciarelli, dit Daniele da|0||DFK0010000245|||||||||3q1p0|Volterra, Daniele Ricciarelli, genannt Daniele da
+Q2959410|La Vieuville, Charles, Herzog von|La Vieuville, Charles, duc de|0||DFK0010000246|||||||||3q1p1|La Vieuville, Charles, Herzog von
+Q356952|Montmorency, Anne de|Montmorency, Anne de|0||DFK0010000247|||||||||3q1p2|Montmorency, Anne de
+Q2789640|Longueville, Henri I. von Orléans, Herzog von|Longueville, Henri Ier d’Orléans, duc de|0||DFK0010000248|||||||||3q1p3|Longueville, Henri I. von Orléans, Herzog von
+Q1805696|Leclerc, Sébastien|Leclerc, Sébastien|0||DFK0010000249|||||||||3q1p4|Leclerc, Sébastien
+Q15281423|Adriaenssens, Vincent, genannt II Manciola oder le Manchole|Adriaenssens, Vincent, dit Il Manciola ou le Manchole|0||DFK0010000250|||||||||3q1p5|Adriaenssens, Vincent, genannt II. Manciola oder le Manchole
+Q3764209|Sève, Gilbert de|Sève, Gilbert de|0||DFK0010000251|||||||||3q1p6|Sève, Gilbert de
+Q552088|Guérin, Gilles|Guérin, Gilles|0||DFK0010000252|||||||||3q1p7|Guérin, Gilles
+Q2093685|Le Gros der Jüngere, Pierre|Legros, Pierre, le Jeune|0||DFK0010000253|||||||||3q1p8|Le Gros der Jüngere, Pierre
+Q57628|Wittelsbach, Maximilian II. Emanuel von, Kurfürst von Bayern|Wittelsbach, Maximilien II Emmanuel de, prince-électeur de Bavière|0||DFK0010000254|||||||||3q1p9|Wittelsbach, Maximilian II. Emanuel von, Kurfürst von Bayern
+Q625228|Quellinus der Jüngere, Erasmus|Quellinus le Jeune, Erasmus|0||DFK0010000255|||||||||3q1pb|Quellinus der Jüngere, Erasmus
+Q2762452|Willemssens, Louis|Willemssens, Louis|0||DFK0010000256|||||||||3q1pc|Willemssens, Louis
+Q5526552|Verbruggen der Ältere, Gaspar Peeter|Verbruggen, Gaspar Pieter, l’Aîné|0||DFK0010000257|||||||||3q1pd|Verbruggen der Ältere, Gaspar Peeter
+Q592396|Schut, Cornelis|Schut, Cornelis|0||DFK0010000258|||||||||3q1ph|Schut, Cornelis
+Q19288490|Capello, Ambroise|Capello, Ambroise|0||DFK0010000259|||||||||3q1pm|Capello, Ambroise
+Q76491|Galen, Christoph Bernhard von|Galen, Christoph Bernhard von|0||DFK0010000260|||||||||3q1pn|Galen, Christoph Bernhard von
+Q1505758|Rimpler, Georg|Rimpler, Georg|0||DFK0010000261|||||||||3q1pp|Rimpler, Georg
+Q2267383|Gastañaga, Francisco Antonio de Agurto, Markgraf von|Gastañaga, Francisco Antonio de Agurto, marquis de|0||DFK0010000262|||||||||3q1pr|Gastañaga, Francisco Antonio de Agurto, Markgraf von
+Q333388|Bart, Jean|Bart, Jean|0||DFK0010000263|||||||||3q1ps|Bart, Jean
+Q5585|Giocondo, Fra Giovanni|Giocondo, Fra Giovanni|0||DFK0010000264|||||||||3q1pw|Giocondo, Fra Giovanni
+Q276010|Poitiers, Diane de, Herzogin von Valentinois|Poitiers, Diane de, duchesse de Valentinois|0||DFK0010000265|||||||||3q1px|Poitiers, Diane de, Herzogin von Valentinois
+Q437295|Leopold Wilhelm, Erzherzog von Österreich|Léopold-Guillaume, archiduc d’Autriche|0||DFK0010000266|||||||||3q1pz|Leopold Wilhelm, Erzherzog von Österreich
+Q329088|Padovano, Giovanni da Cavino, genannt il|Padouan, Giovanni da Cavino, dit le|0||DFK0010000267|||||||||3qwgw|Padovano, Giovanni da Cavino, genannt il
+Q177046|Montgomery, Gabriel de Lorges, Graf von|Montgommery, Gabriel de Lorges, comte de|0||DFK0010000268|||||||||3q1q1|Montgomery, Gabriel de Lorges, Graf von
+Q433841|Sacrobosco, Johannes de|Sacro Bosco, Johannes de|0||DFK0010000269|||||||||3q1q3|Sacrobosco, Johannes de
+Q33941|Julian Apostata, Kaiser des Römischen Reichs|Julien, empereur romain|0||DFK0010000270|||||||||3q1q4|Julian Apostata, Kaiser des Römischen Reichs
+Q3761141|Germano di Capua|Germain, saint|0||DFK0010000271|||||||||3q1q5|Germano di Capua
+Q321434|Verneuil, Henri von Bourbon, Herzog von|Verneuil, Henri de Bourbon, duc de|0||DFK0010000272|||||||||3q1q6|Verneuil, Henri von Bourbon, Herzog von
+Q3263398|Vermandois, Louis von Bourbon, Graf von|Vermandois, Louis de Bourbon, comte de|0||DFK0010000273|||||||||3q1q7|Vermandois, Louis von Bourbon, Graf von
+Q266337|Desmarets de Saint-Sorlin, Jean|Desmarets de Saint-Sorlin, Jean|0||DFK0010000274|||||||||3q1q9|Desmarets de Saint-Sorlin, Jean
+Q1881019|Dangeau, Philippe de Courcillon, Markgraf von|Dangeau, Philippe de Courcillon, marquis de|0||DFK0010000275|||||||||3q1qb|Dangeau, Philippe de Courcillon, Markgraf von
+Q1405|Augustus, Kaiser des Römischen Reichs|Auguste, empereur romain|0||DFK0010000276|||||||||3q1qc|Augustus, Kaiser des Römischen Reichs
+Q1413|Nero, Kaiser des Römischen Reichs|Néron, empereur romain|0||DFK0010000277|||||||||3q1qd|Nero, Kaiser des Römischen Reichs
+Q1425|Trajan, Kaiser des Römischen Reichs|Trajan, empereur romain|0||DFK0010000278|||||||||3q1vt|Trajan, Kaiser des Römischen Reichs
+Q239448|Pompeia Plotina, Kaiserin des Römischen Reichs|Plotine, impératrice romaine|0||DFK0010000279|||||||||3q1vs|Pompeia Plotina, Kaiserin des Römischen Reichs
+Q48174|Agrippa, Marcus Vipsanius|Agrippa, Marcus Vipsanius|0||DFK0010000280|||||||||3q1vq|Agrippa, Marcus Vipsanius
+Q7226|Johanna von Orléans, Heilige|Jeanne d’Arc|0||DFK0010000281|||||||||3q1qf|Johanna von Orléans, Heilige
+Q126188|Jakob II. Stuart, König von England|Jacques II, roi d’Angleterre|0||DFK0010000282|||||||||3q1qg|Jakob II. Stuart, König von England
+Q232475|Maria Beatrice von Modena, Königin von England|Marie de Modène, reine d’Angleterre|0||DFK0010000283|||||||||3q1vz|Maria Beatrice von Modena, Königin von England
+Q211681|Stuart, James Francis Edward, Prince of Wales, genannt the Old Pretender|Jacques Édouard Stuart, prince de Galles, dit the Old Pretender|0||DFK0010000284|||||||||3q1vx|Stuart, James Francis Edward, Prince of Wales, genannt the Old Pretender
+Q316827|Boufflers, Louis-François, Herzog von|Boufflers, Louis-François, duc de|0||DFK0010000285|||||||||3q1qk|Boufflers, Louis-François, Herzog von
+Q39576|Ptolemaios II. Philadelphos, Pharao|Ptolémée II Philadelphe, pharaon|0||DFK0010000286|||||||||3q1qm|Ptolemaios II. Philadelphos, Pharao
+Q68601|Schaumburg-Lippe, Friedrich Christian, Graf zu|Schaumbourg-Lippe, Frédéric-Christian, comte de|0||DFK0010000287|||||||||3q1qn|Schaumburg-Lippe, Friedrich Christian, Graf zu
+Q1280342|Armagnac, Ludwig von Lothringen, Graf von|Armagnac, Louis de Lorraine, comte d’|0||DFK0010000288|||||||||3q1qp|Armagnac, Ludwig von Lothringen, Graf von
+Q70876|Fürstenberg-Heiligenberg, Wilhelm Egon, Graf von, genannt Kardinal von Fürstenberg|Fürstenberg-Heiligenberg, Guillaume-Egon, comte de|0||DFK0010000289|||||||||3q1qq|Fürstenberg-Heiligenberg, Wilhelm Egon, Graf von, genannt Kardinal von Fürstenberg
+Q179307|Fürstenberg-Heiligenberg, Anton Egon, Landgraf von|Fürstenberg-Heiligenberg, Anton Egon, landgrave de|0||DFK0010000290|||||||||3q1th|Fürstenberg-Heiligenberg, Anton Egon, Landgraf von
+Q268349|Marguerite Louise von Orléans, Großherzogin der Toskana|Marguerite-Louise d’Orléans, grande-duchesse de Toscane|0||DFK0010000291|||||||||3q1qv|Marguerite Louise von Orléans, Großherzogin der Toskana
+Q133372|Karl VII. von Valois, König von Frankreich|Charles VII, roi de France|0||DFK0010000292|||||||||3q1qw|Karl VII. von Valois, König von Frankreich
+Q48115|Fulko IV., Graf von Anjou, genannt der Zänker oder der Griesgram|Foulques IV, comte d’Anjou, dit le Réchin ou le Querelleur|0||DFK0010000293|||||||||3q1qx|Fulko IV., Graf von Anjou, genannt der Zänker oder der Griesgram
+Q58907|Philipp I., König von Frankreich|Philippe Ier, roi de France|0||DFK0010000294|||||||||3q1r1|Philipp I., König von Frankreich
+Q30578|Urban II.|Urbain II|0||DFK0010000295|||||||||3q1r3|Urban II.
+Q170353|Anjou, René I., Herzog von|René Ier, duc d’Anjou|0||DFK0010000296|||||||||3q1r4|Anjou, René I., Herzog von
+Q459771|Laval, Jeanne de|Laval, Jeanne de|0||DFK0010000297|||||||||3q1r5|Laval, Jeanne de
+Q352462|Bretagne, François II., Herzog der|Bretagne, François II, duc de|0||DFK0010000298|||||||||3q1r6|Bretagne, François II., Herzog der
+Q1002546|Bretagne, Marguerite de Foix, Herzogin der|Bretagne, Marguerite de Foix, duchesse de|0||DFK0010000299|||||||||3q1r7|Bretagne, Marguerite de Foix, Herzogin der
+Q2960611|La Meilleraye, Charles de La Porte, Herzog von|La Meilleraye, Charles de La Porte, duc de|0||DFK0010000300|||||||||3q1rb|La Meilleraye, Charles de La Porte, Herzog von
+Q5461814|Raemond, Florimond de|Raemond, Florimond de|0||DFK0010000301|||||||||3q1rd|Raemond, Florimond de
+Q8413|Konstantin I., Kaiser des Römischen Reichs, genannt Konstantin der Große|Constantin Ier, empereur romain, dit Constantin le Grand|0||DFK0010000302|||||||||3q1rg|Konstantin I., Kaiser des Römischen Reichs, genannt Konstantin der Große
+Q182070|Maxentius, Kaiser des römischen Reichs|Maxence, empereur romain|0||DFK0010000303|||||||||3q1rh|Maxentius, Kaiser des römischen Reichs
+Q972075|Bénézet von Avignon, auch hl. Bénézet genannt|Bénézet d’Avignon, saint|0||DFK0010000304|||||||||3q1rj|Bénézet von Avignon, auch hl. Bénézet genannt
+Q441066|Scaliger, Julius Caesar|Scaliger, Jules César|0||DFK0010000305|||||||||3q1rk|Scaliger, Julius Caesar
+Q714362|Montmorency, Henri II. von|Montmorency, Henri II de|0||DFK0010000306|||||||||3q1rm|Montmorency, Henri II. von
+Q512156|Saturninus von Toulouse, Heiliger|Saturnin de Toulouse dit saint Sernin|0||DFK0010000307|||||||||3q1rn|Saturninus von Toulouse, Heiliger
+Q714166|Riquet, Pierre-Paul de|Riquet, Pierre-Paul de|0||DFK0010000308|||||||||3q1rp|Riquet, Pierre-Paul de
+Q104538269|Riquet de Bonrepos, Jean-Matthias|Riquet de Bonrepos, Jean-Matthias|0||DFK0010000309|||||||||3q1rq|Riquet de Bonrepos, Jean-Matthias
+Q132711|Paul V.|Paul V|0||DFK0010000310|||||||||3q1rr|Paul V.
+Q234593|Ausonius, Decimus Magnus|Ausone|0||DFK0010000311|||||||||3q1rs|Ausonius, Decimus Magnus
+Q1383483|Trophimus von Arles, Heiliger|Trophime d’Arles ou saint Trophime|0||DFK0010000312|||||||||3q1rt|Trophimus von Arles, Heiliger
+Q39978|Nostradamus, Michel de Nostredame, genannt|Nostradamus, Michel de Nostredame, dit|0||DFK0010000313|||||||||3q1rw|Nostradamus, Michel de Nostredame, genannt
+Q177975|Marius, Gaius|Marius, Gaius|0||DFK0010000314|||||||||3q1rz|Marius, Gaius
+Q63070|Maria Magdalena|Marie-Madeleine, sainte|0||DFK0010000315|||||||||3q1s1|Maria Magdalena
+Q203829|Karl I. von Anjou, König von Neapel und Sizilien|Charles Ier d’Anjou, roi de Naples et de Sicile|0||DFK0010000316|||||||||3q1s2|Karl I. von Anjou, König von Neapel und Sizilien
+Q170863|Clemens VI.|Clément VI|0||DFK0010000317|||||||||3q1s5|Clemens VI.
+Q170389|Benedikt XII.|Benoît XII|0||DFK0010000318|||||||||3q1s6|Benedikt XII.
+Q165568|Johannes XXII.|Jean XXII|0||DFK0010000319|||||||||3q1s7|Johannes XXII.
+Q160609|Innozenz IV.|Innocent IV|0||DFK0010000320|||||||||3q1s8|Innozenz IV.
+Q80516|Julius II.|Jules II|0||DFK0010000321|||||||||3q1s9|Julius II.
+Q169594|Gregor XI.|Grégoire XI|0||DFK0010000322|||||||||3q1sb|Gregor XI.
+Q133046|Urban V.|Urbain V|0||DFK0010000323|||||||||3q1sc|Urban V.
+Q169288|Innozenz VI.|Innocent VI|0||DFK0010000324|||||||||3q1sd|Innozenz VI.
+Q133704|Martin von Tours, Heiliger|Martin de Tours, saint|0||DFK0010000325|||||||||3q1sf|Martin von Tours, Heiliger
+Q166023|Berwick, James Fitzjames, Herzog von|Berwick, Jacques Fitz-James, duc de|0||DFK0010000326|||||||||3q1sg|Berwick, James Fitzjames, Herzog von
+Q586595|Lamothe-Cadillac, Antoine de|Lamothe-Cadillac, Antoine de|0||DFK0010000327|||||||||3qwb0|Lamothe-Cadillac, Antoine de
+Q185770|Poseidonios|Posidonius|0||DFK0010000328|||||||||3qwb2|Poseidonios
+Q86957|Schönborn, Johann Philipp Franz von|Schönborn, Johann Philipp Franz von|0||DFK0010000329|||||||||3qwb4|Schönborn, Johann Philipp Franz von
+Q113729400|Froimont, Johann Clemens|Froimont, Jean Clemens|0||DFK0010000330|||||||||3qwb6|Froimont, Johann Clemens
+Q84507|Hildebrandt, Johann Lucas von|Hildebrandt, Johann Lukas von|0||DFK0010000331|||||||||3qwb7|Hildebrandt, Johann Lucas von
+Q62594|Pfalz, Karl III. Philipp von der, Kurfürst von der Pfalz|Palatinat, Charles III Philippe du, prince-électeur du Palatinat|0||DFK0010000332|||||||||3qwb8|Pfalz, Karl III. Philipp von der, Kurfürst von der Pfalz
+Q113729525|Zeller, Sigismund|Zeller, Sigismund|0||DFK0010000333|||||||||3qwb9|Zeller, Sigismund
+Q94799001|Curé, Claude|Curé, Claude|0||DFK0010000334|||||||||3qwbc|Curé, Claude
+Q69886|Schönborn-Buchheim, Damian Hugo Philipp von|Schönborn-Buchheim, Damian Hugo Philipp von|0||DFK0010000335|||||||||3qwbd|Schönborn-Buchheim, Damian Hugo Philipp von
+Q112052623|Seitz, Johann Georg|Seitz, Johann Georg|0||DFK0010000336|||||||||3qwbf|Seitz, Johann Georg
+Q88651|Welsch, Johann Maximilian von|Welsch, Johann Maximilian von|0||DFK0010000337|||||||||3qwbj|Welsch, Johann Maximilian von
+Q677590|Rohan-Soubise, Armand-Gaston-Maximilien de, genannt Cardinal de Rohan|Rohan-Soubise, Armand-Gaston-Maximilien de, dit le Cardinal de Rohan|0||DFK0010000338|||||||||3qwbm|Rohan-Soubise, Armand-Gaston-Maximilien de, genannt Cardinal de Rohan
+Q817620|Metzler, Benjamin|Metzler, Benjamin|0||DFK0010000339|||||||||3qwbn|Metzler, Benjamin
+Q547389|Chelleri, Fortunato|Chelleri, Fortunato|0||DFK0010000340|||||||||3qwbq|Chelleri, Fortunato
+Q71715|Schönborn, Lothar Franz von, Kurfürst von Mainz|Schönborn, Lothar Franz von, prince-électeur de Mayence|0||DFK0010000341|||||||||3qwbt|Schönborn, Lothar Franz von, Kurfürst von Mainz
+Q11689912|La Bonde, Charles-François d’Iberville, Markgraf von|La Bonde, Charles-François d’Iberville, marquis de|0||DFK0010000342|||||||||3qwbv|La Bonde, Charles-François d’Iberville, Markgraf von
+Q86917|Ritter zu Groenesteyn, Anselm Franz von|Ritter zu Groenesteyn, Anselm Franz von|0||DFK0010000343|||||||||3qwbz|Ritter zu Groenesteyn, Anselm Franz von
+Q1311013|Boffrand, Germain|Boffrand, Germain|0||DFK0010000344|||||||||3qwc0|Boffrand, Germain
+Q1361902|Erthal, Philipp Christoph von und zu|Erthal, Philipp Christoph von und zu|0||DFK0010000345|||||||||3qwc1|Erthal, Philipp Christoph von und zu
+Q1666457|Jamerey-Duval, Valentin|Jamerey-Duval, Valentin|0||DFK0010000346|||||||||3qwc6|Jamerey-Duval, Valentin
+Q95007514|Fichtel, Franz Ludwig von|Fichtel, Franz Ludwig von|0||DFK0010000347|||||||||3qwc7|Fichtel, Franz Ludwig von
+Q455392|Condé, Louis IV. Henri von Bourbon, Prince de, genannt Monsieur le Duc|Condé, Louis IV Henri, prince de, dit Monsieur le Duc|0||DFK0010000348|||||||||3qwcx|Condé, Louis IV. Henri von Bourbon, Prince de, genannt Monsieur le Duc
+Q542800|Dubois, Guillaume|Dubois, Guillaume|0||DFK0010000349|||||||||3qwd1|Dubois, Guillaume
+Q1373528|Bérain der Ältere, Jean|Bérain, Jean, le père|0||DFK0010000350|||||||||3qwdg|Bérain der Ältere, Jean
+Q2909823|Boullogne, Bon de|Boullogne, Bon de|0||DFK0010000351|||||||||3qwf3|Boullogne, Bon de
+Q68675|Zeiller, Martin|Zeiller, Martin|0||DFK0010000352|||||||||3qwf7|Zeiller, Martin
+Q201315|Quevedo y Villegas, Francisco de|Quevedo y Villegas, Francisco de|0||DFK0010000353|||||||||3qwf8|Quevedo y Villegas, Francisco de
+Q130812|Maria II., Königin von England|Marie II, reine d’Angleterre|0||DFK0010000354|||||||||3qwfb|Maria II., Königin von England
+Q520327|Blaeu, Willem Janszoon|Blaeu, Willem Janszoon|0||DFK0010000355|||||||||3qwfg|Blaeu, Willem Janszoon
+Q29348142|Tetius, Hieronymus, auch Girolamo Tezi genannt|Tetius, Hieronymus (Girolamo Tezi)|0||DFK0010000356|||||||||3qwfk|Tetius, Hieronymus, auch Girolamo Tezi genannt
+Q644635|Orléans, Gaston, Herzog von|Orléans, Gaston, duc d’|0||DFK0010000357|||||||||3qwfm|Orléans, Gaston, Herzog von
+Q3439598|Saint-Lary, Roger II. de, Herzog von Bellegarde|Saint-Lary, Roger II de, duc de Bellegarde|0||DFK0010000358|||||||||3qwfn|Saint-Lary, Roger II. de, Herzog von Bellegarde
+Q156190|Peter II., König von Portugal|Pierre II, roi de Portugal|0||DFK0010000359|||||||||3qwfq|Peter II., König von Portugal
+Q3340156|Sillery, Nicolas Brûlart, Markgraf von|Sillery, Nicolas Brûlart, marquis de|0||DFK0010000360|||||||||3qwfr|Sillery, Nicolas Brûlart, Markgraf von
+Q564766|Noailles, Anne-Jules, Herzog von|Noailles, Anne-Jules, duc de|0||DFK0010000361|||||||||3qwfs|Noailles, Anne-Jules, Herzog von
+Q444087|Condé, Henri Jules von Bourbon, Prince de|Condé, Henri Jules de Bourbon, prince de|0||DFK0010000362|||||||||3qwft|Condé, Henri Jules von Bourbon, Prince de
+Q216946|Borromäus, Karl, Heiliger|Borromée, Charles, saint|0||DFK0010000363|||||||||3vv9n|Borromäus, Karl, Heiliger
+Q349086|Leopold III., genannt der Heilige|Léopold III, dit le Pieux|0||DFK0010000364|||||||||3vvb1|Leopold III., genannt der Heilige
+Q179718|Katharina von Alexandrien, Heilige|Catherine d’Alexandrie, sainte|0||DFK0010000365|||||||||3vvbf|Katharina von Alexandrien, Heilige
+Q848615|Henriette Marie de France, Königin von England, Schottland und Irland|Henriette-Marie de France, reine d’Angleterre|0||DFK0010000366|||||||||3vvbp|Henriette Marie de France, Königin von England, Schottland und Irland
+Q23696|Stevin, Simon|Stevin, Simon|0||DFK0010000367|||||||||3vv9v|Stevin, Simon
+Q312057|Kasimir, Heiliger|Casimir, saint|0||DFK0010000368|||||||||3vvbk|Kasimir, Heiliger
+Q44344|Hilarius von Poitiers|Saint-Hilaire|0||DFK0010000369|||||||||3w3hn|Hilarius von Poitiers
+Q102810|Stöhrer, Walter||0||DFK0010000370|11573|Stöhrer, Walter||||||||
+Q102810|||0||DFK0010000370|16488|Stohrer, Walter||||||||
+Q104502382|||0||DFK0010000371|21597|Lévêque, Jean-Jacques (abbé)||||||||
+Q104502382|Levêque, Jean-Jacques||0||DFK0010000371|11501|Levêque, Jean-Jacques||||||||
+Q107876|Schneckenburger, Manfred||0||DFK0010000372|13523|Schneckenburger, Manfred||||||||
+Q1084292|||0||DFK0010000373|16554|Kohlhöfer, Chris||||||||
+Q1084292|Kohlhöfer, Christof||0||DFK0010000373|16565|Kohlhöfer, Christof||||||||
+Q1098860|Weidensdorfer, Claus||0||DFK0010000374|17614|Weidensdorfer, Claus||||||||
+Q1098860|||0||DFK0010000374|13611|Weidensdorfer, Klaus||||||||
+Q111902|Iden, Peter||0||DFK0010000375|12076|Iden, Peter||||||||
+Q11696858|Nożko-Paprocka, Emilia||0||DFK0010000376|16898|Nożko-Paprocka, Emilia||||||||
+Q11696858|||0||DFK0010000376|17298|Nozko-Paprocka, Emilia||||||||
+Q11717711|Hryńkowski, Jan||0||DFK0010000377|17442|Hryńkowski, Jan||||||||
+Q11717711|||0||DFK0010000377|20615|Hrynkowski, Jan||||||||
+Q11719829|Kraupe-Swiderska, Janina||0||DFK0010000378|10211|Kraupe-Swiderska, Janina||||||||
+Q11719829|||0||DFK0010000378|13849|Kraupe, Janina||||||||
+Q11720215|Kaczmarski, Janusz||0||DFK0010000379|11228|Kaczmarski, Janusz||||||||
+Q11720901|Kozłowski, Jarosław||0||DFK0010000380|11748|Kozłowski, Jarosław||||||||
+Q11720901|||0||DFK0010000380|20949|Kozlowski, Jaroslaw||||||||
+Q11729310|Krajewski, Juliusz||0||DFK0010000381|18460|Krajewski, Juliusz||||||||
+Q11753467|Grabowski, Lech||0||DFK0010000382|18463|Grabowski, Lech||||||||
+Q1241215|Monkiewitsch, Lienhard von||0||DFK0010000383|16534|Monkiewitsch, Lienhard von||||||||
+Q1241215|||0||DFK0010000383|12556|von Monkiewitsch, Lienhardt||||||||
+Q1277977|Rudolph, Paul||0||DFK0010000384|10998|Rudolph, Paul||||||||
+Q1279401|Allen, Terry||0||DFK0010000385|15906|Allen, Terry||||||||
+Q1279401|||0||DFK0010000385|19436|Allan, Terry||||||||
+Q1299882|||0||DFK0010000386|21676|Giese, Rainer||||||||
+Q1299882|Giese, Imi||0||DFK0010000386|14965|Giese, Imi||||||||
+Q1318940|||0||DFK0010000387|19093|Noel, Georges||||||||
+Q1318940|Noël, Georges||0||DFK0010000387|18289|Noël, Georges||||||||
+Q132684|Perse, Saint-John||0||DFK0010000388|16009|Perse, Saint-John||||||||
+Q132684|||0||DFK0010000388|200022|Saint-John Perse, Saint-John Perse||||||||
+Q1349858|Fałat, Julian||0||DFK0010000389|17438|Fałat, Julian||||||||
+Q1349858|||0||DFK0010000389|20634|Falat, Julian||||||||
+Q13693620|||0||DFK0010000390|16533|Bottger, Klaus||||||||
+Q13693620|Böttger, Klaus||0||DFK0010000390|15153|Böttger, Klaus||||||||
+Q1376927|Bernhard, Franz||0||DFK0010000391|18116|Bernhard, Franz||||||||
+Q1379073|||0||DFK0010000392|16392|Schon, Eva Maria||||||||
+Q1379073|||0||DFK0010000392|12429|Schoen, Eva-Maria||||||||
+Q1379073|Schön, Eva Maria||0||DFK0010000392|19269|Schön, Eva Maria||||||||
+Q1487092|Broniatowski, Karol||0||DFK0010000393|18134|Broniatowski, Karol||||||||
+Q1510594|||0||DFK0010000394|11076|Jaegers, Gerd||||||||
+Q1510594|Jaeger, Gerd||0||DFK0010000394|12524|Jaeger, Gerd||||||||
+Q1548997|||0||DFK0010000395|14018|Fischer, Klaus Jürgen||||||||
+Q1548997|Jürgen-Fischer, Klaus||0||DFK0010000395|10674|Jürgen-Fischer, Klaus||||||||
+Q1581268|Mayer-Foreyt, Hans||0||DFK0010000396|15617|Mayer-Foreyt, Hans||||||||
+Q159099|||0||DFK0010000397|13273|Hagen, Catharina||||||||
+Q159099|Hagen, Nina||0||DFK0010000397|16282|Hagen, Nina||||||||
+Q1603578|Goettl, Helmut||0||DFK0010000398|15309|Goettl, Helmut||||||||
+Q1603578|||0||DFK0010000398|13614|Göttl, Helmut||||||||
+Q160619|Garaudy, Roger||0||DFK0010000399|11722|Garaudy, Roger||||||||
+Q160619|||0||DFK0010000399|21660|Garaudy, René||||||||
+Q16159276|||0||DFK0010000400|12785|Aleksiun, Jan||||||||
+Q16159276|Aleksiun, Jan Jaromir||0||DFK0010000400|13856|Aleksiun, Jan Jaromir||||||||
+Q1627944|Garcia-Rossi, Horacio||0||DFK0010000401|14680|Garcia-Rossi, Horacio||||||||
+Q1633969|Fischer, Konrad||0||DFK0010000402|11004|Fischer, Konrad||||||||
+Q1633969|||0||DFK0010000402|11090|Fischer-Lueg, Konrad||||||||
+Q1633969|||0||DFK0010000402|14535|Lueg, Konrad||||||||
+Q1636475|Munsky, Maina-Miriam||0||DFK0010000403|11690|Munsky, Maina-Miriam||||||||
+Q1636475|||0||DFK0010000403|21487|Munski, Maina Miriam||||||||
+Q1682120|Tripp, Jan Peter||0||DFK0010000404|13567|Tripp, Jan Peter||||||||
+Q1682120|||0||DFK0010000404|11683|Tripp, Peter||||||||
+Q1684406|||0||DFK0010000405|21268|Igel, Bernd||||||||
+Q1684406|Igel, Jayne-Ann||0||DFK0010000405|21269|Igel, Jayne-Ann||||||||
+Q168704|||0||DFK0010000406|18925|Phalle St. do, Niki||||||||
+Q168704|Saint-Phalle, Niki de||0||DFK0010000406|10837|Saint-Phalle, Niki de||||||||
+Q1691187|Seidel, Joachim||0||DFK0010000407|13039|Seidel, Joachim||||||||
+Q1691187|||0||DFK0010000407|20423|Seidel, Hans-Joachim||||||||
+Q1697594|Grützke, Johannes||0||DFK0010000408|11684|Grützke, Johannes||||||||
+Q1697594|||0||DFK0010000408|19871|Gruetzke, Johannes||||||||
+Q1697594|||0||DFK0010000408|13851|Grutzke, Johannes||||||||
+Q17031771|||0||DFK0010000409|18418|Joan, Rabascall||||||||
+Q17031771|Rabascall, Joan||0||DFK0010000409|14239|Rabascall, Joan||||||||
+Q17126644|||0||DFK0010000410|15306|Strugalla, Clemens||||||||
+Q17126644|Strugalla, Clemens Maximilian||0||DFK0010000410|20462|Strugalla, Clemens Maximilian||||||||
+Q1715255|Boström, Jörg||0||DFK0010000411|20197|Boström, Jörg||||||||
+Q1732654|||0||DFK0010000412|13613|Rätsch, Karl||||||||
+Q1732654|Raetsch, Karl||0||DFK0010000412|20093|Raetsch, Karl||||||||
+Q1733118|Stroeher, Karl||0||DFK0010000413|9866|Stroeher, Karl||||||||
+Q1733118|||0||DFK0010000413|12056|Stroher, Karl||||||||
+Q1821701|||0||DFK0010000414|14301|Nussberg, Lev||||||||
+Q1821701|Nusberg, Lev||0||DFK0010000414|15276|Nusberg, Lev||||||||
+Q189729|Glass, Philip||0||DFK0010000415|20989|Glass, Philip||||||||
+Q189729|||0||DFK0010000415|14461|Glass, Phil||||||||
+Q19270225|||0||DFK0010000416|13668|Kaledkiewicz, Zdzislaw||||||||
+Q19270225|Kałedkiewicz, Zdzisław||0||DFK0010000416|17311|Kałedkiewicz, Zdzisław||||||||
+Q1929260|Schoenholtz, Michael||0||DFK0010000417|14215|Schoenholtz, Michael||||||||
+Q1929260|||0||DFK0010000417|20544|Schönholtz, Michael||||||||
+Q2038|||0||DFK0010000418|11521|Mitterand, François||||||||
+Q2038|Mitterrand, François||0||DFK0010000418|21437|Mitterrand, François||||||||
+Q2074225|||0||DFK0010000419|16240|Bommels, Peter||||||||
+Q2074225|Bömmels, P.||0||DFK0010000419|16851|Bömmels, P.||||||||
+Q2075804|||0||DFK0010000420|19862|Hoeppe, Peter||||||||
+Q2075804|Hoppe, Peter||0||DFK0010000420|16209|Hoppe, Peter||||||||
+Q2124|||0||DFK0010000421|16861|D'Estaing, Giscard||||||||
+Q2124|Giscard d'Estaing, Valéry||0||DFK0010000421|11458|Giscard d'Estaing, Valéry||||||||
+Q2127695|||0||DFK0010000422|19846|Joachims, Reimer||||||||
+Q2127695|Jochims, Raimer||0||DFK0010000422|10987|Jochims, Raimer||||||||
+Q2140884|||0||DFK0010000423|20137|Müller-Mehlis, Richard||||||||
+Q2140884|Müller-Mehlis, Reinhard||0||DFK0010000423|20657|Müller-Mehlis, Reinhard||||||||
+Q21464253|||0||DFK0010000424|17082|Mlynarski, Josef||||||||
+Q21464253|Młynarski, Józef||0||DFK0010000424|12742|Młynarski, Józef||||||||
+Q215199|Eisler, Georg||0||DFK0010000425|21874|Eisler, Georg||||||||
+Q23062778|Collyer, Robin||0||DFK0010000426|14883|Collyer, Robin||||||||
+Q241977|||0||DFK0010000427|16598|Knoebel, Wolf||||||||
+Q241977|Knoebel, Imi||0||DFK0010000427|11145|Knoebel, Imi||||||||
+Q241977|||0||DFK0010000427|21675|Knoebel, Wolfgang||||||||
+Q241977|||0||DFK0010000427|18135|Knöbel, Wolf||||||||
+Q25297874|Bertrand, Jean-Pierre||0||DFK0010000428|18337|Bertrand, Jean-Pierre||||||||
+Q26766768|||0||DFK0010000429|17232|Menguy, Fréderic||||||||
+Q26766768|Menguy, Frédéric||0||DFK0010000429|17024|Menguy, Frédéric||||||||
+Q274241|Boubat, Édouard||0||DFK0010000430|15549|Boubat, Édouard||||||||
+Q274241|||0||DFK0010000430|17954|Boubat, Edouard||||||||
+Q2898405|Pagès, Bernard||0||DFK0010000431|11542|Pagès, Bernard||||||||
+Q2898405|||0||DFK0010000431|16862|Pages, Bernard||||||||
+Q29585342|||0||DFK0010000432|10660|Bustamante, Bazile||||||||
+Q29585342|Bazile, Bernard||0||DFK0010000432|18741|Bazile, Bernard||||||||
+Q301139|Krzyżanowski, Konrad||0||DFK0010000433|17689|Krzyżanowski, Konrad||||||||
+Q301139|||0||DFK0010000433|17330|Krzyzanowski, Konrad||||||||
+Q30141586|Hołdanowicz, Leszek||0||DFK0010000434|17490|Hołdanowicz, Leszek||||||||
+Q30141586|||0||DFK0010000434|12794|Holdanowicz, Leszek||||||||
+Q312631|||0||DFK0010000435|12404|Rodtchenko, Alexandre Mikhaïlovitch||||||||
+Q312631|||0||DFK0010000435|19076|Rodczenko, Aleksandr||||||||
+Q312631|Rodchenko, Alexander||0||DFK0010000435|21399|Rodchenko, Alexander||||||||
+Q3126922|Müller, Hans-Walter||0||DFK0010000436|12047|Müller, Hans-Walter||||||||
+Q3126922|||0||DFK0010000436|21797|Walter Müller, Hans||||||||
+Q3160168|||0||DFK0010000437|13488|Viéille, Jacques||||||||
+Q3160168|Vieille, Jacques||0||DFK0010000437|14880|Vieille, Jacques||||||||
+Q3168145|Sanejouand, Jean-Michel||0||DFK0010000438|12034|Sanejouand, Jean-Michel||||||||
+Q320080|Lohaus, Bernd||0||DFK0010000439|11012|Lohaus, Bernd||||||||
+Q323186|||0||DFK0010000440|11562|Sarkis, Sarkis||||||||
+Q323186|Sarkis, (Sarkis Zabunyan,  dit)||0||DFK0010000440|14963|Sarkis, (Sarkis Zabunyan,  dit)||||||||
+Q3237641|Wąsowicz, Wacław||0||DFK0010000441|17464|Wąsowicz, Wacław||||||||
+Q3237641|||0||DFK0010000441|15753|Waşowicz, Wacław||||||||
+Q3293354|Avati, Mario||0||DFK0010000442|16968|Avati, Mario||||||||
+Q3293354|||0||DFK0010000442|10720|Avati, Avati||||||||
+Q34474|||0||DFK0010000443|20412|Solschenizyn, Alexander Issajewitsch||||||||
+Q34474|Solženicyn, Aleksandr Isaevič||0||DFK0010000443|16807|Solženicyn, Aleksandr Isaevič||||||||
+Q352434|Cheval, Ferdinand||0||DFK0010000444|15436|Cheval, Ferdinand||||||||
+Q352434|||0||DFK0010000444|19297|Cheval, Joseph Ferdinand||||||||
+Q3531571|Grand, Toni||0||DFK0010000445|16879|Grand, Toni||||||||
+Q35733|||0||DFK0010000446|15596|Chlebnikow, Welimir||||||||
+Q35733|Khlebnikov, Velimir||0||DFK0010000446|15273|Khlebnikov, Velimir||||||||
+Q364226|||0||DFK0010000447|19963|Pietrow-Wodkin, K.S.||||||||
+Q364226|Petrow-Wodkin, Kosma Sergejewitsch||0||DFK0010000447|15209|Petrow-Wodkin, Kosma Sergejewitsch||||||||
+Q37229565|Guastalla, Pierre||0||DFK0010000448|16958|Guastalla, Pierre||||||||
+Q37229565|||0||DFK0010000448|11044|Guastalla, P.||||||||
+Q3754638|Balmès, José||0||DFK0010000449|13639|Balmès, José||||||||
+Q3754638|||0||DFK0010000449|20086|Balmes Parramón, José||||||||
+Q4260232|||0||DFK0010000450|11662|Mucchi, Jenny||||||||
+Q4260232|Mucchi-Wiegmann, Jenni||0||DFK0010000450|19017|Mucchi-Wiegmann, Jenni||||||||
+Q4260232|||0||DFK0010000450|12912|Wiegmann, Jenny||||||||
+Q442192|Horn, Rebecca||0||DFK0010000451|11472|Horn, Rebecca||||||||
+Q451015|Opałka, Roman||0||DFK0010000452|10228|Opałka, Roman||||||||
+Q451015|||0||DFK0010000452|21799|Opalka, Roman||||||||
+Q453883|Close, Chuck||0||DFK0010000453|12080|Close, Chuck||||||||
+Q453883|||0||DFK0010000453|13942|Close, Charles||||||||
+Q476100|Cieślewicz, Roman||0||DFK0010000454|14653|Cieślewicz, Roman||||||||
+Q476100|||0||DFK0010000454|21800|Cieslewicz, Roman||||||||
+Q4912866|Klüver, Billy||0||DFK0010000455|19077|Klüver, Billy||||||||
+Q4912866|||0||DFK0010000455|20641|Kluver, Billy||||||||
+Q508938|Hasior, Władysław||0||DFK0010000456|13321|Hasior, Władysław||||||||
+Q526954|Breer, Robert||0||DFK0010000457|21413|Breer, Robert||||||||
+Q526954|||0||DFK0010000457|11148|Breer, Breer||||||||
+Q546947|Valdès, Manuel||0||DFK0010000458|14234|Valdès, Manuel||||||||
+Q546947|||0||DFK0010000458|19014|Valdés, Manuel||||||||
+Q5484333|Strynkiewicz, Franciszek||0||DFK0010000459|16893|Strynkiewicz, Franciszek||||||||
+Q551597|||0||DFK0010000460|14076|Valles, Jules||||||||
+Q551597|Vallès, Jules||0||DFK0010000460|20776|Vallès, Jules||||||||
+Q55797186|||0||DFK0010000461|12371|Erhard, Grüttner||||||||
+Q55797186|Grüttner, Erhard||0||DFK0010000461|18003|Grüttner, Erhard||||||||
+Q56005|Scott, Ridley||0||DFK0010000462|19503|Scott, Ridley||||||||
+Q57244|Hindemith, Paul||0||DFK0010000463|8715|Hindemith, Paul||||||||
+Q57244|||0||DFK0010000463|6412|Hindemith, Hindemith||||||||
+Q58057|Becher, Johannes R.||0||DFK0010000464|11654|Becher, Johannes R.||||||||
+Q5878|||0||DFK0010000465|15595|García Márquez, Gabriel José||||||||
+Q5878|||0||DFK0010000465|19054|Garcia-Marquez, Gabriel||||||||
+Q5878|Gabriel, García Márquez||0||DFK0010000465|21493|Gabriel, García Márquez||||||||
+Q59772567|Chacallis, Louis||0||DFK0010000466|18353|Chacallis, Louis||||||||
+Q60884|Anders, Günther||0||DFK0010000467|21403|Anders, Günther||||||||
+Q61944469|Buczek, Włodzimierz||0||DFK0010000468|16494|Buczek, Włodzimierz||||||||
+Q620483|||0||DFK0010000469|11934|Deineka, Alexander Alexandrowitsch||||||||
+Q620483|Dejneka, Aleksander||0||DFK0010000469|18930|Dejneka, Aleksander||||||||
+Q6383994|Arnatt, Keith||0||DFK0010000470|20988|Arnatt, Keith||||||||
+Q6383994|||0||DFK0010000470|18058|Arnatt, Arnatt||||||||
+Q6405193|Bereźnicki, Kiejstut||0||DFK0010000471|14810|Bereźnicki, Kiejstut||||||||
+Q6405193|||0||DFK0010000471|17818|Bereznicki, Kiejstut||||||||
+Q6405193|||0||DFK0010000471|17121|Bereżnicki, Kiejstut||||||||
+Q67174|||0||DFK0010000472|19857|Tuebke, Werner||||||||
+Q67174|Tübke, Werner||0||DFK0010000472|11128|Tübke, Werner||||||||
+Q6843575|||0||DFK0010000473|17303|Baryłko, Mieczysław||||||||
+Q6843575|Barylko, Mieczysław||0||DFK0010000473|12765|Barylko, Mieczysław||||||||
+Q695148|||0||DFK0010000474|18222|Ipousteguy (Jean Robert, dit)||||||||
+Q695148|Ipoustéguy, Jean Robert||0||DFK0010000474|15813|Ipoustéguy, Jean Robert||||||||
+Q74367|Croissant, Klaus||0||DFK0010000475|18511|Croissant, Klaus||||||||
+Q767435|||0||DFK0010000476|11415|Clair, Jean (Gérard Régnier dit)||||||||
+Q767435|Regnier, Gerard||0||DFK0010000476|20725|Regnier, Gerard||||||||
+Q78663|Muehl, Otto||0||DFK0010000477|11319|Muehl, Otto||||||||
+Q78663|||0||DFK0010000477|18127|Mühl, Otto||||||||
+Q7941133|Berman, Miecysław||0||DFK0010000478|16924|Berman, Miecysław||||||||
+Q7941133|||0||DFK0010000478|10184|Berman, Mieczysław||||||||
+Q80440|||0||DFK0010000479|14735|Achmatova, Achmatova||||||||
+Q80440|Achmatowa, Anna||0||DFK0010000479|15626|Achmatowa, Anna||||||||
+Q816649|||0||DFK0010000480|18715|Armagnac, Ben,  de||||||||
+Q816649|d'Armagnac, Ben||0||DFK0010000480|13659|d'Armagnac, Ben||||||||
+Q821528|Andreou, Constantin||0||DFK0010000481|16967|Andreou, Constantin||||||||
+Q821528|||0||DFK0010000481|11036|Andréou, Andréou||||||||
+Q822683|Réquichot, Bernard||0||DFK0010000482|15981|Réquichot, Bernard||||||||
+Q823533|||0||DFK0010000483|14630|Goebel, Bernd||||||||
+Q823533|Göbel, Bernd||0||DFK0010000483|20761|Göbel, Bernd||||||||
+Q882861|Byars, James Lee||0||DFK0010000484|12189|Byars, James Lee||||||||
+Q882861|||0||DFK0010000484|18399|Lee-Byars, James||||||||
+Q8864691|Roman, Adam||0||DFK0010000485|12714|Roman, Adam||||||||
+Q9154453|||0||DFK0010000486|21640|Szylak, Aneta||||||||
+Q9154453|Szyłak, Aneta||0||DFK0010000486|21231|Szyłak, Aneta||||||||
+Q9285326|Chrostowska, Halina||0||DFK0010000487|10189|Chrostowska, Halina||||||||
+Q9285326|||0||DFK0010000487|21802|Chrostowska-Piotrowicz, Halina||||||||
+Q9287364|Krajewska, Helena||0||DFK0010000488|11238|Krajewska, Helena||||||||
+Q9342865|||0||DFK0010000489|13664|Poznanski, Stanislaw||||||||
+Q9342865|Poznański, Stanisław||0||DFK0010000489|17086|Poznański, Stanisław||||||||
+Q9343133|Strzyźynski, Stanisław||0||DFK0010000490|17271|Strzyźynski, Stanisław||||||||
+Q9343133|||0||DFK0010000490|17586|Strzyżyński, Stanisław||||||||
+Q9357346|Pągowska, Teresa||0||DFK0010000491|14871|Pągowska, Teresa||||||||
+Q9357346|||0||DFK0010000491|16475|Pagowska, Teresa||||||||
+Q9370131|Cwenarski, Waldemar||0||DFK0010000492|17677|Cwenarski, Waldemar||||||||
+Q9370131|||0||DFK0010000492|10813|Cwenarski, W.||||||||
+Q9382195|Pawlik, Władysław||0||DFK0010000493|17564|Pawlik, Władysław||||||||
+Q9382195|||0||DFK0010000493|17980|Pawlik, Wladysław||||||||
+Q95272380|||0||DFK0010000494|13260|Glozer, Laszlo||||||||
+Q95272380|Laszlo, Glozer||0||DFK0010000494|14106|Laszlo, Glozer||||||||
+Q95798900|Schlicht, Burghard||0||DFK0010000495|13234|Schlicht, Burghard||||||||
+Q959010|||0||DFK0010000496|17265|Rappaport, Natan||||||||
+Q959010|Rapaport, Natan||0||DFK0010000496|15739|Rapaport, Natan||||||||
 Q9153097|||0||DFK0009089184|13551|Andrzej K., Olszewski||||||||
 Q1362480|||0||DFK0005434954|7964|Annenkov, G.||||||||
 Q111018|||0||DFK0001970327|21518|Altenbourg, Gerhard||||||||
@@ -18849,164 +18849,164 @@ Q2159143|||0||DFK0002127589|13493|Watts, Robert||||||||
 Q110221638|||0||DFK0004858700|10252|Wąsowska, Maria||||||||
 Q11737900|||0||DFK0003187516|17278|Zemła, Gustav||||||||
 Q9303587|||0||DFK0004470529|13578|Ziemski, Rajmund||||||||
-Q1978192|||0|||19868|Asse, Genevieve||||||||
-Q1067|||0|||9693|Alighieri, Dante||||||||
-Q1978192|||0|||9899|Asse, Geneviève||||||||
-Q26408|||0|||2139|Bonnard, Bonnard||||||||
-Q531199|Balthus (Balthazar Klossowski de Rola, genannt)|Balthus (Balthazar Klossowski de Rola, dit)|0|||9529|Balthus (Balthazar Klossowski de Rola, dit)||||||||
-Q708504|||0|||7965|Bazaine, Jean René||||||||
-Q3295337|||0|||19644|Barre, Martin||||||||
-Q26408|||0|||1188|Bonnard, Pierre||||||||
-Q3295337|||0|||9074|Barré, Martin||||||||
-Q633574|||0|||16948|Braquemond, Félix||||||||
-Q633574|||0|||1266|Bracquemond, Felix||||||||
-Q708504|||0|||5616|Bazaine, Bazaine||||||||
-Q156622|||0|||1665|Chirico, Giorgio de||||||||
-Q1335951|||0|||10886|Cimiotti, Emil||||||||
-Q555224|||0|||1198|Cross, Henri Edmond||||||||
-Q537652|||0|||16983|Clave, Antoni||||||||
-Q31212796|||0|||3875|Courthion, Pierre||||||||
-Q31212796|||0|||560|Courthion, P.||||||||
-Q537652|||0|||8914|Clavé, Antoni||||||||
-Q555224|||0|||1713|Cross, Edmund||||||||
-Q232972|||0|||8164|Delaunay, Sonia||||||||
-Q459648|||0|||10873|Dorazio, Piero||||||||
-Q156622|||0|||2627|de Chirico, Giorgio||||||||
-Q187506|||0|||1089|Daumier, Honoré||||||||
-Q252357|||0|||2342|Daubigny, Charles||||||||
-Q50658|Davring (Heinrich Maria Davringhausen, genannt)|Davring (Heinrich Maria Davringhausen, dit)|0|||8707|Davring (Heinrich Maria Davringhausen, dit)||||||||
-Q78711|||0|||3214|Defregger, Franz von||||||||
-Q3384775|||0|||8277|Dmitrienko, Pierre||||||||
-Q252357|||0|||2023|Daubigny, Charles Francois||||||||
-Q946250|||0|||16227|de Zayas, Marius||||||||
-Q156386|||0|||6468|Douanier Rousseau, Douanier Rousseau||||||||
-Q50658|||0|||4901|Davringhausen, Maria||||||||
-Q718882|||0|||2550|de la Fresnaye, Roger||||||||
-Q5912|||0|||3528|Duchamp, Marcel||||||||
-Q470551|||0|||14730|de Staël, Nicolas||||||||
-Q187506|||0|||2095|Daumier, Daumier||||||||
-Q252357|||0|||2798|Daubigny, Charles-François||||||||
-Q78711|||0|||4305|Defregger, Franz||||||||
-Q1067|||0|||15404|Dante, Alighieri||||||||
-Q518406|||0|||9263|Dunoyer de Segonzac, André||||||||
-Q3384775|||0|||19753|Dimitrienko, Dimitrienko||||||||
-Q289938|Etienne-Martin (Etienne Martin, genannt)|Etienne-Martin (Etienne Martin, dit)|0|||9526|Etienne-Martin (Etienne Martin, dit)||||||||
-Q307693|||0|||10871|Fahlström, Oyvind||||||||
-Q708482|||0|||4150|Friesz, Emile-Othon||||||||
-Q307693|||0|||8985|Fahlstroem, Oyvind||||||||
-Q310715|||0|||1127|Fantin-Latour, Henri||||||||
-Q708482|||0|||1280|Friesz, Othon||||||||
-Q310715|||0|||2116|Fantin-Latour, Fantin-Latour||||||||
-Q718882|||0|||1889|Fresnaye, Roger de la||||||||
-Q1074290|||0|||1295|Gavarni, Paul||||||||
-Q184212|||0|||1181|Géricault, Théodore||||||||
-Q154338|Grünewald, Matthias (Mathis Nithart oder Gothart, genannt)|Grünewald, Matthias (Mathis Nithart ou Gothart, dit)|0|||8326|Grünewald, Matthias (Mathis Nithart ou Gothart,  dit)||||||||
-Q690155|||0|||1746|Gromaire, Marcel||||||||
-Q1074290|||0|||2097|Gavarni, Gavarni||||||||
-Q1074290|Gavarni, Paul (Sulpice Chevalier, genannt)|Gavarni, Paul (Sulpice Chevalier, dit)|0|||7479|Gavarni, Paul (eig.: Sulpice Chevalier)||||||||
-Q67053|||0|||8477|Götz, Karl Otto||||||||
-Q67053|||0|||21728|Goetz, Karl Otto||||||||
-Q184212|||0|||2133|Géricault, Géricault||||||||
-Q1096773|||0|||8989|Georges, Claude||||||||
-Q61071|||0|||1750|Gropius, Walter||||||||
-Q154338|||0|||1858|Grünewald, Mathias||||||||
-Q61071|||0|||2631|Gropius, Walther||||||||
-Q1096773|||0|||14458|George, Claude||||||||
-Q870924|||0|||18285|Hantai, Simon||||||||
-Q641304|||0|||16472|Hayter, Bill||||||||
-Q48319|||0|||4152|Holbein, Hans d.J.||||||||
-Q641304|||0|||8632|Hayter, Stanley William||||||||
-Q76020|||0|||7947|Hartlaub, G.- F||||||||
-Q362498|||0|||3375|Hölzel, Adolf||||||||
-Q1607477|||0|||13203|Hayden, Henryk||||||||
-Q49987|Holbein, Hans (genannt der Ältere)|Holbein, Hans (dit l'Ancien)|0|||8327|Holbein, Hans (dit l'Ancien)||||||||
-Q1607477|||0|||3475|Hayden, Henri||||||||
-Q3159139|||0|||18377|Hérold, Jacques||||||||
-Q1511779|||0|||8179|Hoehme, Gerhard||||||||
-Q3159139|||0|||8994|Herold, Jacques||||||||
-Q1511779|||0|||10689|Höhme, Gerhard||||||||
-Q362498|||0|||4390|Hoelzel, Adolf||||||||
-Q76020|||0|||392|Hartlaub, Gustav Friedrich||||||||
-Q48319|||0|||2399|Holbein, Hans||||||||
-Q49987|||0|||4440|Holbein, Hans d.Ä||||||||
-Q870924|||0|||9025|Hantaï, Simon||||||||
-Q3198784|||0|||14278|Jelenski, Constantin||||||||
-Q3198784|||0|||7973|Jeleński, Konstanty Aleksander||||||||
-Q704585|||0|||1117|Jongkind, Johan Barthold||||||||
-Q704585|||0|||2213|Jongkind, Jongkind||||||||
-Q736847|||0|||10770|Kassak, Kassak||||||||
-Q736847|||0|||10035|Kassak, Lajos||||||||
-Q531199|||0|||93|Klossowski, Erich||||||||
-Q1065281|||0|||8152|Lapicque, Charles||||||||
-Q468453|||0|||1631|Lurçat, Jean||||||||
-Q82445|||0|||15196|Lautrec, Toulouse||||||||
-Q468453|||0|||2604|Lurcat, Jean||||||||
-Q3173970|||0|||11281|Le Doux, Jean Picart||||||||
-Q718882|||0|||9189|La Fresnaye, Roger de||||||||
-Q1778859|||0|||8405|Lorjou, Bernard||||||||
-Q380426|||0|||4160|Lipchitz, Jacques||||||||
-Q380426|||0|||1621|Lipschitz, Jacques||||||||
-Q289938|||0|||10716|Martin, Etienne||||||||
-Q289938|||0|||16247|Martin, Étienne||||||||
-Q505010|||0|||10017|Manzu, Giacomo||||||||
-Q2978077|||0|||9360|Marx Claude-Roger, Marx Claude-Roger||||||||
-Q2274629|||0|||12955|Mercié, Marius Jean Antonin||||||||
-Q1346343|Marcoussis, Louis (Ludwig Markus, genannt)|Marcoussis, Louis (Ludwig Markus, dit)|0|||8850|Marcoussis, Louis (Ludwig Markus,  dit)||||||||
-Q296|||0|||2062|Monet, Monet||||||||
-Q1346343|||0|||1968|Marcoussis, Marcoussis||||||||
-Q1605934|||0|||3361|Manguin, Henri Ch.||||||||
-Q78108|||0|||2117|Meier-Graefe, Meier-Graefe||||||||
-Q296|||0|||1078|Monet, Claude||||||||
-Q452451|||0|||14677|Mahé de la Villeglé, Jacques||||||||
-Q1346343|||0|||3247|Marcoussis, Louis||||||||
-Q1605934|||0|||7522|Manguin, Henri-Charles||||||||
-Q78108|||0|||39|Meier-Graefe, Julius||||||||
-Q41508|||0|||4217|Mies van der Rohe, Mies van der Rohe||||||||
-Q505010|||0|||20794|Manzù, Manzù||||||||
-Q2274629|||0|||20840|Mercier, Antonin||||||||
-Q40116|Nadar (Gaspard Félix Tournachon, genannt)|Nadar (Gaspard Félix Tournachon, dit)|0|||7576|Nadar (eig.: Gaspard Félix Tournachon), Nadar (eig.: Gaspard Félix Tournachon)||||||||
-Q40116|||0|||2910|Nadar (Gaspard Félix Tournachon), Nadar (Gaspard Félix Tournachon)||||||||
-Q381937|||0|||4975|Ozenfant, Ozenfant||||||||
-Q381937|||0|||123|Ozenfant, Amédée||||||||
-Q705062|||0|||7619|Pougny, Jean  (eig.: Iwan Puni)||||||||
-Q274424|||0|||8244|Pignon, Edouard||||||||
-Q705062|||0|||19965|Puni, I.A.||||||||
-Q705062|||0|||20539|Punis, Iwan||||||||
-Q3173970|||0|||9269|Picart-le-Doux, Jean||||||||
-Q156386|Rousseau, Henri|Rousseau, Henri, dit le Douanier Rousseau|0|||8371|Rousseau, Henri,  dit le Douanier Rousseau||||||||
-Q166585|||0|||9532|Runge, Philipp Otto||||||||
-Q658862|||0|||2260|Raffaelli, Jean Francois||||||||
-Q166585|||0|||5217|Runge, Philipp-Otto||||||||
-Q2978077|||0|||434|Roger-Marx, Claude||||||||
-Q658862|||0|||185|Raffaëlli, Jean-François||||||||
-Q603870|||0|||18424|Schoffer, Nicolas||||||||
-Q548860|||0|||7970|Seuphor, Michel||||||||
-Q603870|||0|||10706|Schoeffer, Nicolas||||||||
-Q89311|||0|||9151|Seiwert, Franz W.||||||||
-Q163800|||0|||5632|Stoss, Veit||||||||
-Q89311|||0|||20132|Seiwert, Franz Wilhelm||||||||
-Q5912|||0|||21663|Sélavy, Rrose||||||||
-Q163800|||0|||21317|Stwosz, Wit||||||||
-Q470551|||0|||8572|Staël, Nicolas de||||||||
-Q603870|||0|||9659|Schöffer, Nicolas||||||||
-Q518406|||0|||1644|Segonzac, André Dunoyer de||||||||
-Q326606|||0|||20784|Serusier, Serusier||||||||
-Q326606|||0|||2302|Sérusier, Paul||||||||
-Q232972|||0|||19985|Terk, Sonja||||||||
-Q82445|||0|||1090|Toulouse-Lautrec, Henri de||||||||
-Q320605|||0|||8155|Tal-Coat, Pierre||||||||
-Q320605|||0|||18293|Tal Coat, Pierre||||||||
-Q41508|||0|||8889|Van der Rohe, Mies||||||||
-Q242399|||0|||8576|Vieira da Silva, Maria Helena||||||||
-Q154083|||0|||2100|van de Velde, Henri||||||||
-Q239394|||0|||1909|Vuillard, Vuillard||||||||
-Q57247|||0|||9153|Varèse, Edgard||||||||
-Q452451|||0|||9558|Villeglé, Jacques||||||||
-Q239394|||0|||1092|Vuillard, Edouard||||||||
-Q242399|||0|||18295|Vieira-da-Silva, Maria-Helena||||||||
-Q154083|||0|||1814|Van de Velde, Henry||||||||
-Q57247|||0|||18172|Varese, Edgar||||||||
-Q147144|||0|||16785|Wou-Ki, Zao||||||||
-Q946250|||0|||9595|Zayas, Marius de||||||||
-Q147144|||0|||8256|Zao, Wou-Ki||||||||
-Q155545|Beauharnais, Eugène de||0|||||||Q155545|Eugène de Beauharnais||||
+Q1978192|||0||DFK0010000497|19868|Asse, Genevieve||||||||
+Q1067|||0||DFK0010000498|9693|Alighieri, Dante||||||||
+Q1978192|||0||DFK0010000497|9899|Asse, Geneviève||||||||
+Q26408|||0||DFK0010000499|2139|Bonnard, Bonnard||||||||
+Q531199|Balthus (Balthazar Klossowski de Rola, genannt)|Balthus (Balthazar Klossowski de Rola, dit)|0||DFK0010000500|9529|Balthus (Balthazar Klossowski de Rola, dit)||||||||
+Q708504|||0||DFK0010000501|7965|Bazaine, Jean René||||||||
+Q3295337|||0||DFK0010000502|19644|Barre, Martin||||||||
+Q26408|||0||DFK0010000499|1188|Bonnard, Pierre||||||||
+Q3295337|||0||DFK0010000502|9074|Barré, Martin||||||||
+Q633574|||0||DFK0010000503|16948|Braquemond, Félix||||||||
+Q633574|||0||DFK0010000503|1266|Bracquemond, Felix||||||||
+Q708504|||0||DFK0010000501|5616|Bazaine, Bazaine||||||||
+Q156622|||0||DFK0010000504|1665|Chirico, Giorgio de||||||||
+Q1335951|||0||DFK0010000505|10886|Cimiotti, Emil||||||||
+Q555224|||0||DFK0010000506|1198|Cross, Henri Edmond||||||||
+Q537652|||0||DFK0010000507|16983|Clave, Antoni||||||||
+Q31212796|||0||DFK0010000508|3875|Courthion, Pierre||||||||
+Q31212796|||0||DFK0010000508|560|Courthion, P.||||||||
+Q537652|||0||DFK0010000507|8914|Clavé, Antoni||||||||
+Q555224|||0||DFK0010000506|1713|Cross, Edmund||||||||
+Q232972|||0||DFK0010000509|8164|Delaunay, Sonia||||||||
+Q459648|||0||DFK0010000510|10873|Dorazio, Piero||||||||
+Q156622|||0||DFK0010000504|2627|de Chirico, Giorgio||||||||
+Q187506|||0||DFK0010000511|1089|Daumier, Honoré||||||||
+Q252357|||0||DFK0010000512|2342|Daubigny, Charles||||||||
+Q50658|Davring (Heinrich Maria Davringhausen, genannt)|Davring (Heinrich Maria Davringhausen, dit)|0||DFK0010000513|8707|Davring (Heinrich Maria Davringhausen, dit)||||||||
+Q78711|||0||DFK0010000514|3214|Defregger, Franz von||||||||
+Q3384775|||0||DFK0010000515|8277|Dmitrienko, Pierre||||||||
+Q252357|||0||DFK0010000512|2023|Daubigny, Charles Francois||||||||
+Q946250|||0||DFK0010000516|16227|de Zayas, Marius||||||||
+Q156386|||0||DFK0010000517|6468|Douanier Rousseau, Douanier Rousseau||||||||
+Q50658|||0||DFK0010000513|4901|Davringhausen, Maria||||||||
+Q718882|||0||DFK0010000518|2550|de la Fresnaye, Roger||||||||
+Q5912|||0||DFK0010000519|3528|Duchamp, Marcel||||||||
+Q470551|||0||DFK0010000520|14730|de Staël, Nicolas||||||||
+Q187506|||0||DFK0010000511|2095|Daumier, Daumier||||||||
+Q252357|||0||DFK0010000512|2798|Daubigny, Charles-François||||||||
+Q78711|||0||DFK0010000514|4305|Defregger, Franz||||||||
+Q1067|||0||DFK0010000498|15404|Dante, Alighieri||||||||
+Q518406|||0||DFK0010000521|9263|Dunoyer de Segonzac, André||||||||
+Q3384775|||0||DFK0010000515|19753|Dimitrienko, Dimitrienko||||||||
+Q289938|Etienne-Martin (Etienne Martin, genannt)|Etienne-Martin (Etienne Martin, dit)|0||DFK0010000522|9526|Etienne-Martin (Etienne Martin, dit)||||||||
+Q307693|||0||DFK0010000523|10871|Fahlström, Oyvind||||||||
+Q708482|||0||DFK0010000524|4150|Friesz, Emile-Othon||||||||
+Q307693|||0||DFK0010000523|8985|Fahlstroem, Oyvind||||||||
+Q310715|||0||DFK0010000525|1127|Fantin-Latour, Henri||||||||
+Q708482|||0||DFK0010000524|1280|Friesz, Othon||||||||
+Q310715|||0||DFK0010000525|2116|Fantin-Latour, Fantin-Latour||||||||
+Q718882|||0||DFK0010000518|1889|Fresnaye, Roger de la||||||||
+Q1074290|||0||DFK0010000526|1295|Gavarni, Paul||||||||
+Q184212|||0||DFK0010000527|1181|Géricault, Théodore||||||||
+Q154338|Grünewald, Matthias (Mathis Nithart oder Gothart, genannt)|Grünewald, Matthias (Mathis Nithart ou Gothart, dit)|0||DFK0010000528|8326|Grünewald, Matthias (Mathis Nithart ou Gothart,  dit)||||||||
+Q690155|||0||DFK0010000529|1746|Gromaire, Marcel||||||||
+Q1074290|||0||DFK0010000526|2097|Gavarni, Gavarni||||||||
+Q1074290|Gavarni, Paul (Sulpice Chevalier, genannt)|Gavarni, Paul (Sulpice Chevalier, dit)|0||DFK0010000526|7479|Gavarni, Paul (eig.: Sulpice Chevalier)||||||||
+Q67053|||0||DFK0010000530|8477|Götz, Karl Otto||||||||
+Q67053|||0||DFK0010000530|21728|Goetz, Karl Otto||||||||
+Q184212|||0||DFK0010000527|2133|Géricault, Géricault||||||||
+Q1096773|||0||DFK0010000531|8989|Georges, Claude||||||||
+Q61071|||0||DFK0010000532|1750|Gropius, Walter||||||||
+Q154338|||0||DFK0010000528|1858|Grünewald, Mathias||||||||
+Q61071|||0||DFK0010000532|2631|Gropius, Walther||||||||
+Q1096773|||0||DFK0010000531|14458|George, Claude||||||||
+Q870924|||0||DFK0010000533|18285|Hantai, Simon||||||||
+Q641304|||0||DFK0010000534|16472|Hayter, Bill||||||||
+Q48319|||0||DFK0010000535|4152|Holbein, Hans d.J.||||||||
+Q641304|||0||DFK0010000534|8632|Hayter, Stanley William||||||||
+Q76020|||0||DFK0010000536|7947|Hartlaub, G.- F||||||||
+Q362498|||0||DFK0010000537|3375|Hölzel, Adolf||||||||
+Q1607477|||0||DFK0010000538|13203|Hayden, Henryk||||||||
+Q49987|Holbein, Hans (genannt der Ältere)|Holbein, Hans (dit l'Ancien)|0||DFK0010000539|8327|Holbein, Hans (dit l'Ancien)||||||||
+Q1607477|||0||DFK0010000538|3475|Hayden, Henri||||||||
+Q3159139|||0||DFK0010000540|18377|Hérold, Jacques||||||||
+Q1511779|||0||DFK0010000541|8179|Hoehme, Gerhard||||||||
+Q3159139|||0||DFK0010000540|8994|Herold, Jacques||||||||
+Q1511779|||0||DFK0010000541|10689|Höhme, Gerhard||||||||
+Q362498|||0||DFK0010000537|4390|Hoelzel, Adolf||||||||
+Q76020|||0||DFK0010000536|392|Hartlaub, Gustav Friedrich||||||||
+Q48319|||0||DFK0010000535|2399|Holbein, Hans||||||||
+Q49987|||0||DFK0010000539|4440|Holbein, Hans d.Ä||||||||
+Q870924|||0||DFK0010000533|9025|Hantaï, Simon||||||||
+Q3198784|||0||DFK0010000542|14278|Jelenski, Constantin||||||||
+Q3198784|||0||DFK0010000542|7973|Jeleński, Konstanty Aleksander||||||||
+Q704585|||0||DFK0010000543|1117|Jongkind, Johan Barthold||||||||
+Q704585|||0||DFK0010000543|2213|Jongkind, Jongkind||||||||
+Q736847|||0||DFK0010000544|10770|Kassak, Kassak||||||||
+Q736847|||0||DFK0010000544|10035|Kassak, Lajos||||||||
+Q531199|||0||DFK0010000500|93|Klossowski, Erich||||||||
+Q1065281|||0||DFK0010000545|8152|Lapicque, Charles||||||||
+Q468453|||0||DFK0010000546|1631|Lurçat, Jean||||||||
+Q82445|||0||DFK0010000547|15196|Lautrec, Toulouse||||||||
+Q468453|||0||DFK0010000546|2604|Lurcat, Jean||||||||
+Q3173970|||0||DFK0010000548|11281|Le Doux, Jean Picart||||||||
+Q718882|||0||DFK0010000518|9189|La Fresnaye, Roger de||||||||
+Q1778859|||0||DFK0010000549|8405|Lorjou, Bernard||||||||
+Q380426|||0||DFK0010000550|4160|Lipchitz, Jacques||||||||
+Q380426|||0||DFK0010000550|1621|Lipschitz, Jacques||||||||
+Q289938|||0||DFK0010000522|10716|Martin, Etienne||||||||
+Q289938|||0||DFK0010000522|16247|Martin, Étienne||||||||
+Q505010|||0||DFK0010000551|10017|Manzu, Giacomo||||||||
+Q2978077|||0||DFK0010000552|9360|Marx Claude-Roger, Marx Claude-Roger||||||||
+Q2274629|||0||DFK0010000553|12955|Mercié, Marius Jean Antonin||||||||
+Q1346343|Marcoussis, Louis (Ludwig Markus, genannt)|Marcoussis, Louis (Ludwig Markus, dit)|0||DFK0010000554|8850|Marcoussis, Louis (Ludwig Markus,  dit)||||||||
+Q296|||0||DFK0010000555|2062|Monet, Monet||||||||
+Q1346343|||0||DFK0010000554|1968|Marcoussis, Marcoussis||||||||
+Q1605934|||0||DFK0010000556|3361|Manguin, Henri Ch.||||||||
+Q78108|||0||DFK0010000557|2117|Meier-Graefe, Meier-Graefe||||||||
+Q296|||0||DFK0010000555|1078|Monet, Claude||||||||
+Q452451|||0||DFK0010000558|14677|Mahé de la Villeglé, Jacques||||||||
+Q1346343|||0||DFK0010000554|3247|Marcoussis, Louis||||||||
+Q1605934|||0||DFK0010000556|7522|Manguin, Henri-Charles||||||||
+Q78108|||0||DFK0010000557|39|Meier-Graefe, Julius||||||||
+Q41508|||0||DFK0010000559|4217|Mies van der Rohe, Mies van der Rohe||||||||
+Q505010|||0||DFK0010000551|20794|Manzù, Manzù||||||||
+Q2274629|||0||DFK0010000553|20840|Mercier, Antonin||||||||
+Q40116|Nadar (Gaspard Félix Tournachon, genannt)|Nadar (Gaspard Félix Tournachon, dit)|0||DFK0010000560|7576|Nadar (eig.: Gaspard Félix Tournachon), Nadar (eig.: Gaspard Félix Tournachon)||||||||
+Q40116|||0||DFK0010000560|2910|Nadar (Gaspard Félix Tournachon), Nadar (Gaspard Félix Tournachon)||||||||
+Q381937|||0||DFK0010000561|4975|Ozenfant, Ozenfant||||||||
+Q381937|||0||DFK0010000561|123|Ozenfant, Amédée||||||||
+Q705062|||0||DFK0010000562|7619|Pougny, Jean  (eig.: Iwan Puni)||||||||
+Q274424|||0||DFK0010000563|8244|Pignon, Edouard||||||||
+Q705062|||0||DFK0010000562|19965|Puni, I.A.||||||||
+Q705062|||0||DFK0010000562|20539|Punis, Iwan||||||||
+Q3173970|||0||DFK0010000548|9269|Picart-le-Doux, Jean||||||||
+Q156386|Rousseau, Henri|Rousseau, Henri, dit le Douanier Rousseau|0||DFK0010000517|8371|Rousseau, Henri,  dit le Douanier Rousseau||||||||
+Q166585|||0||DFK0010000564|9532|Runge, Philipp Otto||||||||
+Q658862|||0||DFK0010000565|2260|Raffaelli, Jean Francois||||||||
+Q166585|||0||DFK0010000564|5217|Runge, Philipp-Otto||||||||
+Q2978077|||0||DFK0010000552|434|Roger-Marx, Claude||||||||
+Q658862|||0||DFK0010000565|185|Raffaëlli, Jean-François||||||||
+Q603870|||0||DFK0010000566|18424|Schoffer, Nicolas||||||||
+Q548860|||0||DFK0010000567|7970|Seuphor, Michel||||||||
+Q603870|||0||DFK0010000566|10706|Schoeffer, Nicolas||||||||
+Q89311|||0||DFK0010000568|9151|Seiwert, Franz W.||||||||
+Q163800|||0||DFK0010000569|5632|Stoss, Veit||||||||
+Q89311|||0||DFK0010000568|20132|Seiwert, Franz Wilhelm||||||||
+Q5912|||0||DFK0010000519|21663|Sélavy, Rrose||||||||
+Q163800|||0||DFK0010000569|21317|Stwosz, Wit||||||||
+Q470551|||0||DFK0010000520|8572|Staël, Nicolas de||||||||
+Q603870|||0||DFK0010000566|9659|Schöffer, Nicolas||||||||
+Q518406|||0||DFK0010000521|1644|Segonzac, André Dunoyer de||||||||
+Q326606|||0||DFK0010000570|20784|Serusier, Serusier||||||||
+Q326606|||0||DFK0010000570|2302|Sérusier, Paul||||||||
+Q232972|||0||DFK0010000509|19985|Terk, Sonja||||||||
+Q82445|||0||DFK0010000547|1090|Toulouse-Lautrec, Henri de||||||||
+Q320605|||0||DFK0010000571|8155|Tal-Coat, Pierre||||||||
+Q320605|||0||DFK0010000571|18293|Tal Coat, Pierre||||||||
+Q41508|||0||DFK0010000559|8889|Van der Rohe, Mies||||||||
+Q242399|||0||DFK0010000572|8576|Vieira da Silva, Maria Helena||||||||
+Q154083|||0||DFK0010000573|2100|van de Velde, Henri||||||||
+Q239394|||0||DFK0010000574|1909|Vuillard, Vuillard||||||||
+Q57247|||0||DFK0010000575|9153|Varèse, Edgard||||||||
+Q452451|||0||DFK0010000558|9558|Villeglé, Jacques||||||||
+Q239394|||0||DFK0010000574|1092|Vuillard, Edouard||||||||
+Q242399|||0||DFK0010000572|18295|Vieira-da-Silva, Maria-Helena||||||||
+Q154083|||0||DFK0010000573|1814|Van de Velde, Henry||||||||
+Q57247|||0||DFK0010000575|18172|Varese, Edgar||||||||
+Q147144|||0||DFK0010000576|16785|Wou-Ki, Zao||||||||
+Q946250|||0||DFK0010000516|9595|Zayas, Marius de||||||||
+Q147144|||0||DFK0010000576|8256|Zao, Wou-Ki||||||||
+Q155545|Beauharnais, Eugène de||0||DFK0010000577|||||Q155545|Eugène de Beauharnais||||
