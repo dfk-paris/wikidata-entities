@@ -86,6 +86,13 @@ class Wikidata::Import
 
     data['records'] = data['records'].values
 
+    # sorting
+    data['records'].each do |record|
+      record['datasets'].sort_by! do |ds|
+        ds['db']
+      end
+    end
+
     validate!(data)
     ::Dfkv::Tasks.dump_json(data.compact, 'frontend/public/entities.json')
 
