@@ -48,19 +48,38 @@ To run the application in production, run
     npm run build
 
 and then upload the contents of the `public/` directory to a web server of your
-choice. 
+choice. Make sure the web server sends the `Access-Control-Allow-Origin: *`
+header so that other pages can load the application code and data.
 
-To integrate the app into your website, ...
+Once that is done, you can integrate the app into your website. Let's say you
+deployed it to https://myapp.example.com, then add the following snippets to
+your page:
 
-TODO
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    ...
+  </head>
+  <body>
+    ...
+    <div is="wikidata-loading"></div>
+    <div is="wikidata-entities"></div>
+    ...
+    <script src="https://myapp.example.com/app.js"></script>
+  </body>
+</html>
+```
 
-* npm run import (after data was changed)
-* npm run index (likely not useful)
+The two components `wikidata-loading` and `wikidata-entities` can be placed
+anywhere in your page.
 
-..
+# Data
 
-    npm run index
+After making changes to `data/entities.txt`, which is the source of data for the
+person data, run `npm run import` to convert the data to a suitable json format
+that the app can consume.
 
-to aggregate the data from upstream sources into a json file at
-`public/entries.json`. You likely don't want to run this, though. This
-repository already comes with a updated aggregation. 
+There is also the command `npm run aggregate` which was used to initially import
+person data from other projects. It is unlikely that this task will be useful
+for anyone in the future but we mention it for completeness sake.
