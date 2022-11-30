@@ -15045,7 +15045,7 @@ Q709290|Trouillebert, Paul||0||DFK0003357918|||101123|Trouillebert, Paul||||||
 Q960277|Uzanne, Octave||0||DFK0001932755|||101124|Uzanne, Octave||||||
 Q665818|Henner, Jean Jacques||0||DFK0002670616|||101125|Henner, Jean Jacques||||||
 Q1494309|Neuville, Alphonse de||0||DFK0005538960|||101126|Neuville, Alphonse de||||||
-Q310715|Fantin-Latour, Henri||0||DFK0007312438|200096|Fantin-Latour, Henri|101127|Fantin-Latour, Henri|||1127|Henri Fantin-Latour||
+Q310715|Fantin-Latour, Henri||0||DFK0010000525|1127|Henri Fantin-Latour|101127|Fantin-Latour, Henri|||1127|Henri Fantin-Latour||
 Q1596281|Desboutin, Marcellin||0||DFK0009947061|||101129|Desboutin, Marcellin|||12203|Marcellin Desboutin||
 Q1120855|Truchet, Abel||0||DFK0003996065|||101133|Truchet, Abel||||||
 Q520450|Humbert, Ferdinand||0||DFK0000990633|||101135|Humbert, Ferdinand||||||
