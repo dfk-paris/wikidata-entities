@@ -5,6 +5,55 @@ onmessage = db.handler
 
 let storage = {}
 
+const parseTerms = (str) => {
+  if (!str) return []
+
+  return str.split(/\s+/).map(s => {
+    const m = s.match(/^(\+?)(.*)/)
+    let [plus, term] = m.slice(1)
+    term = util.fold(term)
+
+    return {plus, term}
+  })
+}
+
+const matchesTerms = (record, terms) => {
+  if (terms.length == 0) return true
+
+  let result = false
+
+  for (const t of terms) {
+    if (!t.term) continue
+
+    const d = util.fold(record['dfk_id'] || '')
+    const dfk_id_match = !!d.match(new RegExp(t.term))
+
+    const q = util.fold(record['wikidata_id'] || '')
+    const id_match = !!q.match(new RegExp(t.term))
+
+    const l = util.fold(record['label'] || '')
+    const label_match = !!l.match(new RegExp(t.term))
+
+    if (record['label'].match(/Alvarez/)) {
+      console.log(label_match, t, record['label'])
+    }
+
+    const any_match = id_match || label_match || dfk_id_match
+
+    if (t.plus) {
+      if (any_match) {
+        result = true
+      } else {
+        return false
+      }
+    } else {
+      if (any_match) result = true
+    }
+  }
+
+  return result
+}
+
 db.action('register', (data) => {
   const results = storage.register[data.letter] || []
 
@@ -18,7 +67,8 @@ const query = (data) => {
   let results = storage['records']
 
   const c = data.criteria
-  const terms = util.fold(c['terms'])
+  // const terms = util.fold(c['terms'])
+  const terms = parseTerms(c['terms'])
   let ref = data.criteria['ref']
   ref = (ref ? ref.split('|') : [])
   const dfkId = data.criteria['dfkid']
@@ -26,20 +76,21 @@ const query = (data) => {
   // filter (before aggs)
 
   results = results.filter(record => {
-    if (terms) {
-      const d = util.fold(record['dfk_id'] || '')
-      const dfk_id_match = !!d.match(new RegExp(terms))
+    if (!matchesTerms(record, terms)) return false
+    // if (terms) {
+    //   const d = util.fold(record['dfk_id'] || '')
+    //   const dfk_id_match = !!d.match(new RegExp(terms))
 
-      const q = util.fold(record['wikidata_id'] || '')
-      const id_match = !!q.match(new RegExp(terms))
+    //   const q = util.fold(record['wikidata_id'] || '')
+    //   const id_match = !!q.match(new RegExp(terms))
 
-      const l = util.fold(record['label'] || '')
-      const label_match = !!l.match(new RegExp(terms))
+    //   const l = util.fold(record['label'] || '')
+    //   const label_match = !!l.match(new RegExp(terms))
 
-      if (!id_match && !label_match && !dfk_id_match) {
-        return false
-      }
-    }
+    //   if (!id_match && !label_match && !dfk_id_match) {
+    //     return false
+    //   }
+    // }
 
     const refIntersect = record['datasets'].
       map(e => e['db']).
