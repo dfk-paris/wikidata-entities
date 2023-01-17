@@ -8,8 +8,9 @@
         >
           <dfk-icon type="arrow-right" />
         </a>
-        <div class="h-100 ml-6 overflow-y-scroll">
-          <div is="wikidata-charts" class="d-block w-100 pr-7 mb-3"></div>
+        <div class="h-100 w-100 ml-6 overflow-y-scroll">
+          <div class="target d-block w-100 pr-7 py-7 mb-3"></div>
+          <!-- div is="wikidata-charts" class="d-block w-100 pr-7 mb-3"></div -->
         </div>
       </div>
     </div>
@@ -28,11 +29,28 @@
 
   <script>
     export default class {
+      onMounted() {
+        const target = this.root.querySelector('.target')
+        target.innerHTML = this.text()
+        console.log(this.text())
+        // target.append(this.text())
+      }
+
       toggle(event) {
-        console.log(this)
         event.preventDefault()
 
         this.update({open: !this.state.open})
+      }
+
+      text() {
+        return [
+          this.t('help_intro'),
+          this.t('help_result'),
+          this.t('help_dfkID'),
+          this.t('help_databases'),
+          this.t('help_search_feature'),
+          this.t('help_authorship'),
+        ].join('')
       }
     }
   </script>

@@ -34,9 +34,9 @@ const matchesTerms = (record, terms) => {
     const l = util.fold(record['label'] || '')
     const label_match = !!l.match(new RegExp(t.term))
 
-    if (record['label'].match(/Alvarez/)) {
-      console.log(label_match, t, record['label'])
-    }
+    // if (record['label'].match(/Alvarez/)) {
+    //   console.log(label_match, t, record['label'])
+    // }
 
     const any_match = id_match || label_match || dfk_id_match
 
@@ -168,7 +168,7 @@ const query = (data) => {
     aggs: {refs, letters}
   }
   
-  console.log(response)
+  // console.log(response)
   return response
 }
 db.action('query', query)
@@ -178,7 +178,7 @@ db.action('counts', (data) => {
 })
 
 const elastify = (agg) => {
-  console.log(agg, 'x')
+  // console.log(agg, 'x')
   let result = []
 
   for (const k of Object.keys(agg)) {

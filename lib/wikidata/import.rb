@@ -1,4 +1,5 @@
 require 'csv'
+require 'kramdown'
 
 require './lib/dfkv'
 
@@ -103,6 +104,11 @@ class Wikidata::Import
     translations.each do |k, data|
       data.each do |locale, t|
         app_translations[locale] ||= {}
+
+        if k.match(/^help_/)
+          t = Kramdown::Document.new(t).to_html
+        end
+        
         app_translations[locale][k] = t
       end
     end
