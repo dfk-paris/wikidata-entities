@@ -14936,7 +14936,7 @@ Q59531155|Bombe, Walter||0||DFK0009888683|||100847|Bombe, Walter||||||||||
 Q1506346|Weise, Georg||0||DFK0002871265|||100848|Weise, Georg||||||||||
 Q3300492|Brillant, Maurice||0||DFK0008748316|||100849|Brillant, Maurice||||||||||
 Q50357476|Puaux, René||0||DFK0007095083|||100852|Puaux, René||||||||||
-|||0|yes|DFK0008068327|||100854|Breuer, Robert||||||||||
+Q1709529|Breuer, Robert||0||DFK0008068327|||100854|Breuer, Robert||||||||||
 Q79104510|Gebhard, W.||0||DFK0000248331|||100856|Gebhard, W.||||||||||
 Q15449421|Wichert, Fritz||0||DFK0009857147|||100857|Wichert, Fritz||||||||||
 Q102239517|Mittenzwey, Kuno||0||DFK0007089222|||100861|Mittenzwey, Kuno||||||||||
@@ -15535,7 +15535,7 @@ Q60785|Huch, Ricarda||0||DFK0000940090|||102396|Huch, Ricarda||||||||||
 Q1576415|Fechner, Hans||0||DFK0006263711|||102401|Fechner, Hans||||||||||
 Q44893|Rupprecht, Kronprinz||0||DFK0001430219|||102404|Rupprecht, Kronprinz||||||||||
 Q1947924|Goldstein, Moritz||0||DFK0009551495|||102406|Goldstein, Moritz||||||||||
-Q62110|Friedländer, Max J.||0||DFK0005049750|||102408|Friedländer, Max J.||||||||||
+Q62110|Friedländer, Max J.||0||DFK0005049750|||100137|Friedländer, Max J.||||||||||
 Q3184554|Bail, Joseph||0||DFK0007841022|||102415|Bail, Joseph||||||||||
 Q52150839|Wieger, Wilhelm||0||DFK0002855158|||102421|Wieger, Wilhelm||||||||||
 Q568298|Krüger, Franz||0||DFK0006806366|||102430|Krüger, Franz||||||||||
