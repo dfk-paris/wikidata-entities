@@ -17,7 +17,7 @@ import DfkIcon from '@dfk-paris/frontend/src/components/icon.riot'
 
 function defaultLocale() {
   const url = document.location.href
-  const locale = url.match(/^https:\/\/dfk-paris\.org\/([a-z]{2})/)
+  const locale = url.match(/\/(en|fr|de)\//)
 
   if (locale) return locale[1] 
 

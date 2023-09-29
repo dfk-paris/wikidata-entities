@@ -1,4 +1,4 @@
-wikidata_id|label|fr_label|hide|deleted|dfk_id|or_id|or_label|dfkv_id|dfkv_label|pb_id|pb_label|fs_id|fs_label|av_id|av_label|babue_id|babue_label|ar_id|label_ar
+wikidata_id|label|fr_label|hide|deleted|dfk_id|or_id|or_label|dfkv_id|dfkv_label|pb_id|pb_label|fs_id|fs_label|av_id|av_label|babue_id|babue_label|ar_id|ar_label
 |Ameline, Jean-Paul||0||DFK0006150565|21666|Ameline, Jean-Paul||||||||||||
 |Artozoul, René||0||DFK0002612404|13221|Artozoul, René||||||||||||
 |Allara, Pamela||0||DFK0001815718|21634|Allara, Pamela||||||||||||

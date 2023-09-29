@@ -2,6 +2,11 @@
 
 dfk-facet {
   @extend facet;
+
+  a {
+    padding: map-get($spacers, 2);
+    margin-bottom: map-get($spacers, 2);
+  }
 }
 
 dfk-pagination {

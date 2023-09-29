@@ -9,6 +9,8 @@
   </template>
 
   <script>
+    import {i18n} from '@wendig/lib'
+
     const labels = {
       'wikidata': 'Wikidata',
       'pb': 'Palais Beauharnais',
@@ -23,8 +25,6 @@
         const params = {'terms': record.or_label}
         const packed = btoa(escape(JSON.stringify(params)))
         const base = 'https://dfk-paris.org/de/page/ownrealitydatenbank-und-recherche-1353.html'
-        // console.log(packed)
-        // console.log(record, 'XXX')
         return `${base}#?q=${packed}`
       },
       'dfkv': (record) => `https://dfk-paris.org/dfkv/people/${record.id}`
