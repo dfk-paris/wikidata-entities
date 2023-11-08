@@ -61,6 +61,12 @@ a.type-ref {
   background-color: $tag-gray;
 }
 
+dfk-active-filters {
+  a.rounded {
+    padding: 0.5em;
+  }
+}
+
 dfk-facet {
   .header {
     font-size: 1.2em;
